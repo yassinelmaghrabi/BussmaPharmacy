@@ -45,6 +45,8 @@ for file, columns in csv_column_orders.items():
         df.drop_duplicates(inplace=True)
         if file == "products.csv":
             df.drop_duplicates(subset=["product_id"], inplace=True)
+        if file == "sales.csv":
+            df.drop_duplicates(subset=["product_id", "invoice"], inplace=True)
         # Reorder columns
         df = df[columns]
 

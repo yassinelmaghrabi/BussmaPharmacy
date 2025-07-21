@@ -1,2130 +1,2130 @@
 id,ingredient_name,therapeutic_class
 1,Aceclofenac,analgesic
 2,Diclofenac,analgesic
-3,Dabigatran Etexilate,Antiviral
+3,Etoricoxib,analgesic
 4,Cyproheptadine,Antifungal
 5,Telmisartan,antihypertensive
 6,Artemether,Antifungal
 7,Doxylamine,Anxiolytic
 8,Ondansetron,Antiviral
 9,Roxithromycin,Antiviral
-10,Erlotinib,Antiviral
+10,Colistimethate Sodium,Beta-blocker
 11,Desloratadine,Antiviral
-12,Silodosin,Antiviral
+12,Azelaic Acid,Antiviral
 13,Norgestrel,Antifungal
-14,Etoricoxib,analgesic
-15,Rifampicin,Antifungal
-16,Mycophenolate mofetil,Antiviral
-17,Alprazolam,Antiviral
-18,Escitalopram Oxalate,antidepressant
-19,Mometasone,Beta-blocker
-20,Mirtazapine,Antifungal
-21,Clopidogrel,Antifungal
-22,Acetazolamide,Anxiolytic
-23,Acetylcysteine,Anxiolytic
-24,Fluticasone Propionate,Anxiolytic
-25,Colistin Sulphate,Antifungal
-26,Methylprednisolone,corticosteroid
-27,Oxetacaine,Anxiolytic
-28,Misoprostol,Anxiolytic
-29,Amoxycillin,antibiotic
-30,Urofollitropin,Anxiolytic
-31,Tacrolimus,Antiviral
-32,Fluvoxamine,Anxiolytic
-33,Formoterol,Antifungal
-34,Calcium,Antiviral
-35,Cefpodoxime Proxetil,Antiviral
-36,Domperidone,antacid
-37,Ampicillin,Antifungal
-38,Adapalene,Antifungal
-39,Fenticonazole,Antifungal
-40,Nortriptyline,Antiviral
-41,Alfuzosin,Beta-blocker
-42,Sodium Picosulfate,Anxiolytic
-43,Phenytoin,Antiviral
-44,Deflazacort,Antiviral
-45,Baclofen,Anxiolytic
-46,Ofloxacin,Beta-blocker
-47,Ethinyl Estradiol,Antifungal
-48,Fluconazole,Anxiolytic
-49,Acyclovir,Beta-blocker
-50,Nifedipine,Antifungal
-51,Dosulepin,Beta-blocker
-52,Disodium Hydrogen Citrate,Antifungal
-53,Sodium Chloride,Beta-blocker
-54,Bosentan,Antiviral
-55,Amlodipine,antihypertensive
-56,Betahistine,Anxiolytic
-57,Lisinopril,Antifungal
-58,Nitazoxanide,Antiviral
-59,Tadalafil,Anxiolytic
-60,Lincomycin,Anxiolytic
-61,Pyrantel Pamoate,Antiviral
-62,Caffeine,Anxiolytic
-63,Sodium Bicarbonate,Beta-blocker
-64,Tramadol,analgesic
-65,Ciclopirox,Antiviral
-66,Norfloxacin,Beta-blocker
-67,Ezetimibe,Antiviral
-68,Granisetron,Antifungal
-69,Flavoxate,Antifungal
+14,Rifampicin,Antifungal
+15,Haloperidol,Antifungal
+16,Etoricoxib,Anxiolytic
+17,Escitalopram Oxalate,antidepressant
+18,Mometasone,Beta-blocker
+19,Mirtazapine,Antifungal
+20,Clopidogrel,Antifungal
+21,Salmeterol,Beta-blocker
+22,Clopidogrel,Anxiolytic
+23,Saccharomyces boulardii,Anxiolytic
+24,Myo-Inositol,Anxiolytic
+25,Methylprednisolone,corticosteroid
+26,Thiocolchicoside,analgesic
+27,Alprazolam,Anxiolytic
+28,Amoxycillin,antibiotic
+29,Eszopiclone,Beta-blocker
+30,Ethambutol,Anxiolytic
+31,Taurine,Antiviral
+32,Formoterol,Antifungal
+33,Calcium,Antiviral
+34,Cefpodoxime Proxetil,Antiviral
+35,Domperidone,antacid
+36,Ampicillin,Antifungal
+37,Aspirin,Antifungal
+38,L-Methyl Folate Calcium,Anxiolytic
+39,Cilnidipine,Anxiolytic
+40,Cefoperazone,Antiviral
+41,Terbinafine,Antiviral
+42,Allylestrenol,Antiviral
+43,Deflazacort,Antiviral
+44,Azathioprine,Antiviral
+45,Ofloxacin,Beta-blocker
+46,Euphorbia Prostrata Extract,Antiviral
+47,Hyaluronic Acid,Anxiolytic
+48,Itraconazole,Antifungal
+49,Formoterol,Beta-blocker
+50,Domperidone,analgesic
+51,Doxylamine,Antiviral
+52,Capsaicin Based Rubefacients,analgesic
+53,Alprazolam,Antiviral
+54,Sodium Chloride,Beta-blocker
+55,Bisacodyl,Antifungal
+56,Amlodipine,antihypertensive
+57,Betahistine,Anxiolytic
+58,Serratiopeptidase,Antifungal
+59,Sirolimus,Antiviral
+60,Disodium Hydrogen Citrate,Beta-blocker
+61,Pentosan polysulfate sodium,Beta-blocker
+62,Dimethicone,Antifungal
+63,Aripiprazole,Beta-blocker
+64,Apremilast,Antifungal
+65,Tramadol,analgesic
+66,Norethisterone,Beta-blocker
+67,Trioxasalen,Antiviral
+68,Nandrolone Decanoate,Beta-blocker
+69,Albendazole,Anxiolytic
 70,Chlorpheniramine Maleate,antihistamine
-71,Raloxifene,Beta-blocker
-72,Dexketoprofen,Antifungal
-73,Tranexamic Acid,Beta-blocker
+71,Midodrine,Anxiolytic
+72,Nitrazepam,Anxiolytic
+73,Albendazole,Beta-blocker
 74,Alprazolam,Antifungal
-75,Citicoline,Antifungal
-76,Nalidixic Acid,Beta-blocker
-77,Benzoyl Peroxide,Antifungal
-78,Ramipril,antihypertensive
-79,Lansoprazole,Antiviral
-80,Chlorzoxazone,analgesic
-81,Hydrocortisone,Anxiolytic
-82,Ledipasvir,Antiviral
-83,Candesartan,Antiviral
-84,Cefixime,antibiotic
-85,Tinidazole,Beta-blocker
-86,Irbesartan,Antiviral
-87,Moxifloxacin,Anxiolytic
-88,Aceclofenac,antacid
-89,Polyethylene Glycol,Antiviral
-90,Rifaximin,Antiviral
-91,Mifepristone,Beta-blocker
-92,Clobetasol,Beta-blocker
-93,Ondansetron,antacid
-94,Ciclosporin,Antifungal
-95,Voglibose,Anxiolytic
-96,Risperidone,Anxiolytic
-97,Bisoprolol,Anxiolytic
-98,Minoxidil,Antiviral
-99,Haloperidol,Beta-blocker
-100,Benzoyl Peroxide,Antiviral
-101,Clomipramine,Beta-blocker
-102,Ivermectin,Anxiolytic
-103,Modafinil,Antifungal
-104,Risedronate,Antiviral
-105,Menadione,Antiviral
-106,Glimepiride,antidiabetic
-107,Moxifloxacin,Antifungal
-108,Rivaroxaban,Antifungal
-109,Labetalol,Antifungal
-110,Mirtazapine,Anxiolytic
-111,Darbepoetin alfa,Antiviral
-112,Eicosapentaenoic acid,Antifungal
-113,Isoxsuprine,Antiviral
-114,Esomeprazole,antacid
-115,Paracetamol,analgesic
-116,Paracetamol,antihistamine
-117,Chlorpromazine,Antifungal
-118,Stannous fluoride,Antifungal
-119,Deflazacort,Anxiolytic
-120,Guaifenesin,antihistamine
-121,Choline Salicylate,Antifungal
-122,Permethrin,Anxiolytic
-123,Cefpodoxime Proxetil,Antifungal
-124,Ketorolac,Beta-blocker
-125,Clindamycin,Antifungal
-126,Roxithromycin,Anxiolytic
-127,Norethisterone,Antiviral
-128,Imatinib mesylate,Beta-blocker
-129,Anastrozole,Anxiolytic
-130,Dapagliflozin,antidiabetic
-131,Mercaptopurine,Beta-blocker
-132,Fluconazole,Beta-blocker
-133,Irbesartan,diuretic
-134,Ambroxol,Antifungal
-135,Sterile Water,Antiviral
-136,Ranolazine,Anxiolytic
-137,Simethicone,Antifungal
-138,Calcium Dobesilate,Anxiolytic
-139,Cefpodoxime Proxetil,Anxiolytic
-140,Dapoxetine,Beta-blocker
-141,Tetracycline,Antifungal
-142,Megestrol,Antifungal
-143,Betamethasone,Antifungal
-144,Solifenacin,Antiviral
-145,Etoricoxib,Anxiolytic
+75,Domperidone,Antifungal
+76,Silver Colloid,Beta-blocker
+77,Guaifenesin,antihistamine
+78,Lansoprazole,Antiviral
+79,Chlorzoxazone,analgesic
+80,Bromelain,Antiviral
+81,Brivaracetam,Antiviral
+82,Melatonin,Antifungal
+83,Cefixime,antibiotic
+84,Ledipasvir,Antiviral
+85,Vitamin B,Beta-blocker
+86,Flurbiprofen,Antifungal
+87,Aceclofenac,antacid
+88,Almotriptan,Antifungal
+89,Doxofylline,Anxiolytic
+90,Tizanidine,Anxiolytic
+91,Clobetasol,Beta-blocker
+92,Axitinib,Antiviral
+93,Nandrolone Decanoate,Antifungal
+94,Sparfloxacin,Antiviral
+95,Risperidone,Anxiolytic
+96,Bisoprolol,Anxiolytic
+97,Minoxidil,Antiviral
+98,Tranexamic Acid,Antifungal
+99,Quiniodochlor,Antifungal
+100,Racecadotril,Beta-blocker
+101,Piracetam,Beta-blocker
+102,Sucralfate,Anxiolytic
+103,Risedronate,Antiviral
+104,Ketorolac,Antifungal
+105,Glimepiride,antidiabetic
+106,Butenafine,Antiviral
+107,Leflunomide,Beta-blocker
+108,Sterile Water,Antifungal
+109,Mirtazapine,Anxiolytic
+110,Calcitriol,Beta-blocker
+111,Benidipine,Antiviral
+112,Pioglitazone,Antifungal
+113,Paracetamol,analgesic
+114,Valsartan,diuretic
+115,Aminophylline,Beta-blocker
+116,Human chorionic gonadotropin,Antiviral
+117,Glycolic acid,Beta-blocker
+118,Leflunomide,Antifungal
+119,Amitriptyline,antidepressant
+120,Etidronate,Antiviral
+121,Cefpodoxime Proxetil,Antifungal
+122,Progesterone,Antifungal
+123,Clindamycin,Antifungal
+124,Irbesartan,Beta-blocker
+125,Norethisterone,Antifungal
+126,Metronidazole,Antiviral
+127,Eicosapentaenoic acid,Antifungal
+128,Tamoxifen,Antifungal
+129,Alpha glycerylphosphorylcholine,Antifungal
+130,Lornoxicam,Antiviral
+131,Fluconazole,Beta-blocker
+132,Nadifloxacin,Antifungal
+133,Ambroxol,Antifungal
+134,Etoricoxib,Antifungal
+135,Albumin,Antifungal
+136,Mefloquine,Beta-blocker
+137,Isosorbide Mononitrate,Antifungal
+138,Halobetasol,Beta-blocker
+139,Prilocaine,Beta-blocker
+140,Paroxetine,Beta-blocker
+141,Vi Capsular Polysaccharide Of Salmonella Typhi,Anxiolytic
+142,Tranexamic Acid,Anxiolytic
+143,Clarithromycin,Antiviral
+144,Lactobacillus Sporogenes,Antiviral
+145,Urofollitropin,Anxiolytic
 146,Serratiopeptidase,Anxiolytic
 147,Isoxsuprine,Antifungal
 148,Eptifibatide,Beta-blocker
-149,Levetiracetam,Beta-blocker
-150,Permethrin,Beta-blocker
-151,Thiocolchicoside,analgesic
-152,Fluocinolone acetonide,Beta-blocker
-153,Levocetirizine,antihistamine
-154,Amisulpride,Antifungal
-155,Metronidazole,Antifungal
-156,Amiodarone,Antiviral
-157,Metoclopramide,Antiviral
+149,Mefenamic Acid,Antifungal
+150,Betamethasone,Antifungal
+151,Etofylline,Anxiolytic
+152,Melphalan,Antifungal
+153,Fluocinolone acetonide,Beta-blocker
+154,Levocetirizine,antihistamine
+155,Amisulpride,Antifungal
+156,Zolpidem,Antifungal
+157,Ivermectin,Anxiolytic
 158,Betamethasone,Anxiolytic
 159,Labetalol,Antiviral
-160,Nimesulide,analgesic
-161,Fosfomycin,Antifungal
-162,Cetirizine,antihistamine
-163,Atorvastatin,Antiviral
-164,Quiniodochlor,Antifungal
-165,Azelaic Acid,Anxiolytic
-166,Insulin Degludec,Anxiolytic
-167,Rabeprazole,antacid
-168,Drotaverine,Antifungal
-169,Azithromycin,antibiotic
-170,Doxycycline,Antiviral
-171,Mesalazine,Antifungal
-172,Famciclovir,Beta-blocker
-173,Fexofenadine,antihistamine
-174,Clomipramine,Antifungal
-175,Hydroquinone,Anxiolytic
-176,Bromhexine,Antifungal
-177,Insulin Lispro,Beta-blocker
-178,Chlorhexidine Gluconate,Antifungal
-179,Ceftizoxime,Antiviral
+160,Metronidazole,Antifungal
+161,Nimesulide,analgesic
+162,Fosfomycin,Antifungal
+163,Cetirizine,antihistamine
+164,Atorvastatin,Antiviral
+165,Lenvatinib,Antifungal
+166,Boric Acid,Antifungal
+167,Insulin Degludec,Anxiolytic
+168,Rabeprazole,antacid
+169,Drotaverine,Antifungal
+170,Azithromycin,antibiotic
+171,Doxycycline,Antiviral
+172,Mesalazine,Antifungal
+173,Famciclovir,Beta-blocker
+174,Fexofenadine,antihistamine
+175,Phenytoin,Beta-blocker
+176,Hydroquinone,Anxiolytic
+177,Cetrimide,Antiviral
+178,Carboplatin,Antiviral
+179,Biotin,Antiviral
 180,Etoricoxib,Beta-blocker
-181,Anastrozole,Beta-blocker
-182,Arteether,Beta-blocker
-183,Clopidogrel,Anxiolytic
-184,Etoricoxib,Antiviral
+181,Paroxetine,Antifungal
+182,Tolvaptan,Antiviral
+183,Povidone Iodine,Antiviral
+184,Artesunate,Antiviral
 185,Atorvastatin,Anxiolytic
 186,Hydrocortisone,Antiviral
-187,Caffeine,analgesic
-188,Pancuronium,Antifungal
-189,Carbimazole,Beta-blocker
-190,Gemfibrozil,Beta-blocker
+187,Valacyclovir,Beta-blocker
+188,Diacerein,Antifungal
+189,Alpha Lipoic Acid,Antiviral
+190,Ketoconazole,Antiviral
 191,Dicyclomine,analgesic
-192,Boric Acid,Antiviral
-193,Hydroxyprogesterone,Anxiolytic
+192,Carboxymethylcellulose,Antifungal
+193,Aluminium Hydroxide,Antifungal
 194,Ketoconazole,Anxiolytic
-195,Cefalexin,Antifungal
-196,Iron Sucrose,Antifungal
-197,Neomycin,corticosteroid
+195,Candesartan,Antifungal
+196,Octreotide acetate,Beta-blocker
+197,Vilazodone,Antifungal
 198,Clarithromycin,Anxiolytic
 199,Metoprolol Succinate,Antiviral
-200,Cisapride,Beta-blocker
-201,Zoledronic acid,Antifungal
+200,Lactobacillus,Anxiolytic
+201,Ginkgo Biloba,Antiviral
 202,Sertaconazole,Anxiolytic
-203,Doxofylline,bronchodilator
-204,Clobetasol,Anxiolytic
-205,Nandrolone Decanoate,Antifungal
-206,Diclofenac diethylamine,analgesic
-207,Carboxymethylcellulose,Antiviral
-208,Flupenthixol,Anxiolytic
-209,Xylometazoline,Anxiolytic
-210,Minoxidil,Beta-blocker
-211,Cefotaxime,Antiviral
-212,Etizolam,Beta-blocker
-213,Midazolam,Anxiolytic
-214,Calcium Citrate Malate,Antifungal
-215,Diethylcarbamazine,antihistamine
-216,Stavudine,Antifungal
-217,Sulfadiazine,Antifungal
-218,Montelukast,antihistamine
-219,Clomipramine,Anxiolytic
-220,Desvenlafaxine,Antiviral
-221,Labetalol,Beta-blocker
-222,Lactitol,Antifungal
-223,Obeticholic acid,Antiviral
-224,Carvedilol,Anxiolytic
+203,Magnesium Sulphate,Anxiolytic
+204,Flavoxate,Anxiolytic
+205,Diclofenac diethylamine,analgesic
+206,Carboxymethylcellulose,Antiviral
+207,Omeprazole,antacid
+208,L-Ornithine L-Aspartate,Antiviral
+209,Indapamide,Antifungal
+210,Cefotaxime,Antiviral
+211,Calcium Polystyrene Sulphonate,Beta-blocker
+212,Progesterone,Antiviral
+213,Erythromycin,Antiviral
+214,Dihydralazine,Antifungal
+215,Diphenhydramine,Beta-blocker
+216,Naphazoline,Anxiolytic
+217,Montelukast,antihistamine
+218,Allopurinol,Antifungal
+219,Desvenlafaxine,Antiviral
+220,Lactulose,Antiviral
+221,Loratadine,Beta-blocker
+222,Arteether,Antiviral
+223,Paracetamol,antihistamine
+224,Sulphacetamide,Antifungal
 225,Enalapril,Beta-blocker
-226,Taurine,Antifungal
-227,Disulfiram,Antiviral
-228,Fluconazole,Antiviral
-229,Flunarizine,Beta-blocker
-230,Divalproex,Beta-blocker
-231,Amoxapine,Anxiolytic
+226,Haemophilus Type B Conjugate Vaccine,Antifungal
+227,Mometasone,Antiviral
+228,Triamcinolone Acetonide,Antifungal
+229,Temozolomide,Antiviral
+230,Capecitabine,Antifungal
+231,Haloperidol,Anxiolytic
 232,Atorvastatin,Beta-blocker
 233,Vitamin C,Anxiolytic
 234,Beclometasone,corticosteroid
 235,Hydroxyzine,Antiviral
-236,Rosuvastatin,Antifungal
-237,Ofloxacin,Antifungal
-238,Bromhexine,analgesic
-239,Gliclazide,Anxiolytic
-240,Metolazone,Beta-blocker
-241,Cefadroxil,Anxiolytic
-242,Iron,Beta-blocker
+236,Lisinopril,Anxiolytic
+237,Rosuvastatin,Antifungal
+238,Ofloxacin,Antifungal
+239,Bromhexine,analgesic
+240,Gliclazide,Anxiolytic
+241,Metolazone,Beta-blocker
+242,Cefadroxil,Anxiolytic
 243,Clobetasol,Antifungal
-244,Ketoconazole,Antiviral
-245,Rosuvastatin,Anxiolytic
-246,Bilastine,Anxiolytic
-247,Phenylephrine,antihistamine
-248,Cetrimide,Beta-blocker
-249,Hemocoagulase,Anxiolytic
-250,Ondansetron,Beta-blocker
-251,Metformin,antidiabetic
-252,Insulin Glargine,Beta-blocker
-253,Mephenesin,analgesic
-254,Isoxsuprine,Beta-blocker
-255,Tranexamic Acid,Antiviral
-256,Azilsartan medoxomil,Antifungal
-257,Ampicillin,Anxiolytic
-258,Oxymetazoline,Antiviral
-259,Cefotaxime,Antifungal
-260,Benidipine,Beta-blocker
-261,Omeprazole,antacid
-262,Itraconazole,Beta-blocker
-263,Glipizide,Beta-blocker
-264,Diazepam,Beta-blocker
-265,Amlexanox,Beta-blocker
-266,Ciprofloxacin,antibiotic
-267,Sparfloxacin,Antiviral
-268,Lidocaine,Anxiolytic
-269,Olmesartan Medoxomil,Antiviral
-270,Lindane,Beta-blocker
-271,Cinnarizine,Antiviral
-272,Bromhexine,bronchodilator
+244,Rosuvastatin,Anxiolytic
+245,Atomoxetine,Antiviral
+246,Phenylephrine,antihistamine
+247,Cetrimide,Beta-blocker
+248,Digoxin,Beta-blocker
+249,Ondansetron,Beta-blocker
+250,Metformin,antidiabetic
+251,Dienogest,Antiviral
+252,Quinine,Anxiolytic
+253,Isoxsuprine,Beta-blocker
+254,Tranexamic Acid,Antiviral
+255,Rizatriptan,Antiviral
+256,Ampicillin,Anxiolytic
+257,Oxymetazoline,Antiviral
+258,Dicyclomine,antacid
+259,Oxetacaine,Anxiolytic
+260,Itraconazole,Beta-blocker
+261,Diazepam,Beta-blocker
+262,Dexketoprofen,Antifungal
+263,Isotretinoin,Antiviral
+264,Ciprofloxacin,antibiotic
+265,Meropenem,Antifungal
+266,Lidocaine,Anxiolytic
+267,Olmesartan Medoxomil,Antiviral
+268,Olmesartan Medoxomil,Antifungal
+269,Amorolfine,Antifungal
+270,Cinnarizine,Antiviral
+271,Ammonium Chloride,Beta-blocker
+272,Desonide,Antiviral
 273,Clomiphene,Beta-blocker
-274,Etodolac,Antifungal
-275,Carboxymethylcellulose,Anxiolytic
+274,Indacaterol,Beta-blocker
+275,Calamine,Antiviral
 276,Repaglinide,Antifungal
-277,Eicosapentaenoic Acid,Antiviral
-278,Tapentadol,Anxiolytic
-279,Benzocaine,Anxiolytic
-280,Bicalutamide,Antifungal
-281,Fusidic Acid,Antifungal
-282,L-Ornithine L-Aspartate,Beta-blocker
-283,Minocycline,Beta-blocker
-284,Trihexyphenidyl,Antiviral
+277,Isosorbide Mononitrate,Antiviral
+278,Penicillamine,Anxiolytic
+279,Zinc,Antiviral
+280,Ivermectin,Beta-blocker
+281,Gabapentin,Beta-blocker
+282,Butenafine,Beta-blocker
+283,Lactase,Antifungal
+284,Dexrabeprazole,antacid
 285,Paracetamol/Acetaminophen,analgesic
-286,Taurine,Beta-blocker
+286,Formoterol,Anxiolytic
 287,Ibuprofen,Antifungal
-288,Duloxetine,Antiviral
-289,Mefloquine,Beta-blocker
-290,Progesterone,Antifungal
-291,Cefepime,Beta-blocker
-292,Acetazolamide,Beta-blocker
-293,Recombinant Human Epidermal Growth Factor,Beta-blocker
-294,Aspirin,Anxiolytic
-295,Chloramphenicol,Antiviral
-296,Bambuterol,Anxiolytic
+288,Dicyclomine,Antifungal
+289,Nimorazole,Antifungal
+290,Tretinoin,Antiviral
+291,Calcipotriol,Antiviral
+292,Amikacin,Anxiolytic
+293,Chlorpromazine,Antifungal
+294,Chloramphenicol,Antiviral
+295,Fluconazole,Antiviral
+296,Oxcarbazepine,Anxiolytic
 297,Citalopram,Antifungal
-298,Vitamin A,Antifungal
-299,Ketoconazole,Beta-blocker
-300,Lorazepam,Anxiolytic
-301,Testosterone,Beta-blocker
-302,Albendazole,Anxiolytic
-303,Dicyclomine,Antiviral
-304,Caspofungin,Antifungal
-305,Acebrophylline,Anxiolytic
-306,Levamisole,Beta-blocker
-307,Carbamazepine,Antifungal
-308,Azelastine,Antiviral
-309,Sodium Chloride,Anxiolytic
-310,Bilastine,Antifungal
-311,Lovastatin,Anxiolytic
-312,Propranolol,Antifungal
-313,Nicorandil,Antifungal
-314,L-Ornithine L-Aspartate,Anxiolytic
-315,Coenzyme Q10,Anxiolytic
-316,Nebivolol,Antiviral
-317,Levonorgestrel,Antifungal
-318,Roflumilast,Anxiolytic
-319,L-Methyl Folate,Antifungal
-320,Clotrimazole,Beta-blocker
-321,Linezolid,Anxiolytic
-322,Oxetacaine,Antifungal
-323,Nitrofurantoin,Beta-blocker
-324,Clobetasol,Antiviral
-325,Ethambutol,Antiviral
-326,Hydrocortisone,Beta-blocker
-327,Loperamide,Beta-blocker
-328,Sertaconazole,Antifungal
-329,Cyclobenzaprine,analgesic
-330,Pregabalin,Anxiolytic
-331,Tamoxifen,Antiviral
-332,Oxytetracycline,Anxiolytic
-333,Phytomenadione,Beta-blocker
-334,Linagliptin,antidiabetic
-335,Mesalazine,Beta-blocker
-336,Isosorbide Mononitrate,Anxiolytic
-337,Biotin,Antifungal
-338,Sodium Valproate,Antifungal
-339,Levetiracetam,Antifungal
-340,Cefuroxime,Antiviral
-341,Sirolimus,Antiviral
-342,Arteether,Antifungal
-343,Gemcitabine,Antiviral
-344,Insulin Glargine,Antifungal
-345,Mupirocin,Beta-blocker
-346,Amorolfine,Beta-blocker
-347,Folic Acid,Beta-blocker
-348,Diacerein,Anxiolytic
-349,Atenolol,antihypertensive
-350,Acebrophylline,Antiviral
-351,Acyclovir,Antifungal
-352,Docetaxel,Beta-blocker
-353,Piroxicam,Antifungal
-354,Acebrophylline,Antifungal
-355,Carvedilol,Beta-blocker
-356,Dipyridamole,Antifungal
-357,Monobenzone,Anxiolytic
-358,Fenticonazole,Antiviral
-359,Dithranol,Beta-blocker
-360,Pirfenidone,Anxiolytic
-361,Magaldrate,Anxiolytic
-362,Cyclophosphamide,Anxiolytic
-363,Doxycycline,Anxiolytic
-364,Meloxicam,Antiviral
-365,Loperamide,Antiviral
-366,Gabapentin,Antifungal
-367,Glucosamine,Antiviral
-368,Torasemide,Antifungal
-369,Imatinib mesylate,Antiviral
-370,Oxytetracycline,Antiviral
-371,Saxagliptin,antidiabetic
-372,Potassium Nitrate,Anxiolytic
-373,Drotaverine,Antiviral
-374,Piroxicam,Antiviral
-375,Cetrimide,Antiviral
-376,Tricholine Citrate,Antiviral
-377,Ornidazole,Anxiolytic
-378,Menotrophin,Antifungal
-379,Dimenhydrinate,Antiviral
-380,Vitamin C,Antiviral
-381,Cefdinir,Beta-blocker
-382,Aripiprazole,Antifungal
-383,Trihexyphenidyl,Anxiolytic
-384,L-Arginine,Anxiolytic
-385,Danazol,Antiviral
-386,Bisoprolol,Beta-blocker
-387,Cefuroxime,Antifungal
-388,Benzydamine,Beta-blocker
-389,Diphenhydramine,Anxiolytic
-390,Ketamine,Beta-blocker
-391,Aluminium Hydroxide,Beta-blocker
-392,Dexibuprofen,Beta-blocker
-393,Fluocinolone acetonide,Antifungal
-394,Hydroxyzine,Anxiolytic
-395,Ferric Carboxymaltose,Antiviral
-396,Thalidomide,Antifungal
-397,Baclofen,Beta-blocker
-398,Rosuvastatin,Beta-blocker
-399,Rifaximin,Anxiolytic
-400,Estriol,Beta-blocker
-401,Hyoscine butylbromide,Antiviral
-402,Levosulpiride,Anxiolytic
-403,Bupivacaine,Antifungal
-404,Erythromycin,Antifungal
-405,Azilsartan medoxomil,Antiviral
-406,Trioxasalen,Antifungal
-407,Imatinib mesylate,Anxiolytic
-408,Calcitonin,Antifungal
-409,Bepotastine,Antiviral
-410,Prochlorperazine,Beta-blocker
-411,Ferrous Ascorbate,Anxiolytic
-412,Guaifenesin,Antiviral
-413,Procarbazine,Beta-blocker
-414,Gentamicin,Beta-blocker
-415,Amitriptyline,antidepressant
-416,Risperidone,Antifungal
-417,Diphenhydramine,Antiviral
-418,Diacerein,Antiviral
-419,Sodium Hyaluronate,Antiviral
-420,Clozapine,Beta-blocker
-421,Etofylline,Antifungal
-422,Amikacin,Antiviral
-423,Halobetasol,Anxiolytic
-424,Hydroquinone,Beta-blocker
+298,Ketoconazole,Beta-blocker
+299,Ivabradine,Beta-blocker
+300,Testosterone,Beta-blocker
+301,Metaxalone,Antifungal
+302,Valproic Acid,Beta-blocker
+303,Caspofungin,Antifungal
+304,Cefepime,Beta-blocker
+305,Lisinopril,Antiviral
+306,Valdecoxib,Beta-blocker
+307,Benzoyl Peroxide,Antiviral
+308,Caffeine,analgesic
+309,Lindane,Antifungal
+310,Levo-carnitine,Antiviral
+311,Recombinant follicle stimulating hormone,Antifungal
+312,Lovastatin,Anxiolytic
+313,Lincomycin,Anxiolytic
+314,Aspirin,Anxiolytic
+315,Oxymetazoline,Anxiolytic
+316,L-Ornithine L-Aspartate,Beta-blocker
+317,Coenzyme Q10,Anxiolytic
+318,Hydrocortisone,Beta-blocker
+319,Linezolid,Antifungal
+320,Clopidogrel,Beta-blocker
+321,Tobramycin,Antiviral
+322,Clotrimazole,Beta-blocker
+323,Cefepime,Antiviral
+324,Hydroquinone,Beta-blocker
+325,Indapamide,Beta-blocker
+326,Clobetasol,Antiviral
+327,Lidocaine,Beta-blocker
+328,Clioquinol,Beta-blocker
+329,Vitamin A,Antifungal
+330,Chloramphenicol,Beta-blocker
+331,Cyclobenzaprine,analgesic
+332,Pregabalin,Anxiolytic
+333,Nebivolol,Antiviral
+334,Human insulin,Antiviral
+335,Flupirtine,Anxiolytic
+336,Fosfomycin,Antiviral
+337,Cefalexin,Antifungal
+338,Ornidazole,Antifungal
+339,Isosorbide Mononitrate,Anxiolytic
+340,Amikacin,Antifungal
+341,Glycine,Antiviral
+342,Cefuroxime,Antiviral
+343,Dicyclomine,Antiviral
+344,Insulin Aspart,Anxiolytic
+345,Tobramycin,Antifungal
+346,Nystatin,Beta-blocker
+347,Fluorometholone,Anxiolytic
+348,Carvedilol,Beta-blocker
+349,Diacerein,Anxiolytic
+350,Atenolol,antihypertensive
+351,Cerebroprotein Hydrolysate,Antiviral
+352,Acebrophylline,Antiviral
+353,Dabigatran Etexilate,Beta-blocker
+354,Ethinyl Estradiol,Antiviral
+355,Boric Acid,Beta-blocker
+356,Acebrophylline,Antifungal
+357,Dipyridamole,Antifungal
+358,Monobenzone,Anxiolytic
+359,Esomeprazole,antacid
+360,Epalrestat,Antifungal
+361,Ambroxol,Beta-blocker
+362,Atorvastatin,Antifungal
+363,Ceftizoxime,Antiviral
+364,Caroverine,Anxiolytic
+365,Doxycycline,Anxiolytic
+366,Morphine,Anxiolytic
+367,Ritonavir,Anxiolytic
+368,Gabapentin,Antifungal
+369,Miconazole,Anxiolytic
+370,Disodium Hydrogen Citrate,Anxiolytic
+371,Imatinib mesylate,Antiviral
+372,Bromelain,Beta-blocker
+373,Disodium edetate,Antifungal
+374,Tramadol,Anxiolytic
+375,Lactitol,Antifungal
+376,Albendazole,Antifungal
+377,Vitamin D3,Antiviral
+378,Eflornithine,Anxiolytic
+379,Levamisole,Anxiolytic
+380,Nitrofurantoin,Beta-blocker
+381,Ramipril,Antiviral
+382,Sumatriptan,Antiviral
+383,Sparfloxacin,Beta-blocker
+384,Gliclazide,Antifungal
+385,Isoflurane,Antifungal
+386,Duloxetine,Anxiolytic
+387,Sodium Valproate,Antifungal
+388,Mosapride,Antiviral
+389,Cefuroxime,Antifungal
+390,Nifedipine,Antiviral
+391,Metoprolol Succinate,Beta-blocker
+392,Tolperisone,analgesic
+393,Losartan,antihypertensive
+394,Spironolactone,diuretic
+395,Raloxifene,Antiviral
+396,Azathioprine,Anxiolytic
+397,Flutamide,Anxiolytic
+398,Candesartan,Anxiolytic
+399,Baclofen,Antiviral
+400,Levofloxacin,Beta-blocker
+401,Ethamsylate,Antifungal
+402,Bicalutamide,Anxiolytic
+403,Menotrophin,Antifungal
+404,Cetrorelix,Antifungal
+405,Tamsulosin,Antifungal
+406,Fenofibrate,Beta-blocker
+407,Dapsone,Antiviral
+408,Erythromycin,Antifungal
+409,Norfloxacin,Anxiolytic
+410,Paroxetine,Anxiolytic
+411,Rivastigmine,Anxiolytic
+412,Recombinant follicle stimulating hormone,Antiviral
+413,Hemocoagulase,Antifungal
+414,Triclosan,Antifungal
+415,Gentamicin,Beta-blocker
+416,Coenzyme Q10,Beta-blocker
+417,Risperidone,Antifungal
+418,Diphenhydramine,Antiviral
+419,Diacerein,Antiviral
+420,Triclosan,Anxiolytic
+421,Agomelatine,Beta-blocker
+422,Bosentan,Antifungal
+423,Artesunate,Anxiolytic
+424,Clobetasone,Antifungal
 425,Estradiol,Anxiolytic
-426,Letrozole,Antiviral
-427,Caroverine,Anxiolytic
-428,Rabies vaccine,Antifungal
-429,Magnesium Citrate,Antiviral
-430,Olanzapine,Beta-blocker
-431,Betahistine,Antifungal
-432,Cefoperazone,Antiviral
-433,Azathioprine,Anxiolytic
-434,Linezolid,Beta-blocker
-435,Phenylephrine,Anxiolytic
-436,Amorolfine,Anxiolytic
-437,Lactulose,Beta-blocker
-438,Indapamide,Antiviral
-439,Oxytetracycline,Antifungal
-440,Mupirocin,Antifungal
-441,Levosalbutamol,bronchodilator
-442,Apixaban,Beta-blocker
-443,Mesalazine,Antiviral
-444,Pramoxine,Anxiolytic
-445,Voglibose,antidiabetic
-446,Glipizide,Antiviral
-447,Melphalan,Anxiolytic
-448,Cefadroxil,Beta-blocker
-449,Salicylic Acid,Antiviral
-450,Ulipristal acetate,Anxiolytic
-451,Ribavirin,Anxiolytic
-452,Eperisone,analgesic
-453,Brimonidine,Antifungal
-454,Climbazole,Antiviral
-455,Sodium Lactate,Anxiolytic
-456,Nicotine,Antiviral
-457,Mefenamic Acid,Antifungal
-458,Dicyclomine,Anxiolytic
-459,Bisoprolol,Antiviral
-460,Vitamin B,Antifungal
-461,Permethrin,Antiviral
-462,Itraconazole,Antiviral
-463,Aspirin,Antiviral
-464,Phenytoin,Anxiolytic
-465,Ethamsylate,Antiviral
-466,Misoprostol,Antifungal
-467,Amylmetacresol,Beta-blocker
-468,Vildagliptin,Antifungal
-469,Desvenlafaxine,Antifungal
-470,Glibenclamide,Anxiolytic
-471,Donepezil,Beta-blocker
-472,Clomiphene,Anxiolytic
-473,Ritodrine,Antifungal
-474,Pramipexole,Antiviral
-475,Indacaterol,Beta-blocker
-476,Spironolactone,diuretic
-477,Calcium,Anxiolytic
-478,Chondroitin,Anxiolytic
-479,Ketoprofen,Antifungal
-480,Pioglitazone,antidiabetic
-481,Penicillamine,Anxiolytic
-482,Amlexanox,Anxiolytic
-483,Epinastine,Beta-blocker
-484,Triclofos,Beta-blocker
-485,Desloratadine,Antifungal
-486,Albumin,Beta-blocker
-487,Meropenem,Beta-blocker
-488,Tramadol,Anxiolytic
-489,Vildagliptin,Antiviral
-490,Capecitabine,Antiviral
-491,Trypsin,Antifungal
-492,Nicergoline,Anxiolytic
-493,Raloxifene,Antifungal
-494,Chloramphenicol,Beta-blocker
-495,Octreotide acetate,Beta-blocker
-496,Propranolol,Anxiolytic
-497,Capecitabine,Anxiolytic
-498,Piracetam,Beta-blocker
-499,Piroxicam,Beta-blocker
-500,Thyroxine,Antiviral
-501,Ondansetron,Antifungal
-502,Ginkgo Biloba,Antiviral
-503,Ramipril,diuretic
-504,Tianeptine,Anxiolytic
-505,Hydroquinone,Antifungal
-506,Tamsulosin,Antiviral
-507,Methylcobalamin,Antifungal
-508,Itraconazole,Antifungal
-509,Bisoprolol,diuretic
-510,Caffeine,antihistamine
-511,Metamizole,Anxiolytic
-512,Lindane,Antiviral
-513,Lactulose,Antiviral
-514,Moxifloxacin,corticosteroid
-515,Nebivolol,antihypertensive
-516,Halobetasol,Antifungal
-517,Febuxostat,Anxiolytic
-518,Artesunate,Anxiolytic
-519,Ethambutol,Beta-blocker
-520,Levofloxacin,Antifungal
-521,Colistimethate Sodium,Antiviral
-522,Sodium Bicarbonate,Anxiolytic
-523,Calcium Carbonate,Antiviral
-524,Ondansetron,Anxiolytic
-525,Lorazepam,Beta-blocker
-526,Zinc Gluconate,Antifungal
-527,Midodrine,Antiviral
-528,Fosfomycin,Antiviral
-529,Adapalene,Beta-blocker
-530,Naproxen,Anxiolytic
-531,Menotrophin,Anxiolytic
-532,Salmeterol,Antiviral
-533,Memantine,Beta-blocker
-534,Cinitapride,antacid
-535,Vancomycin,Anxiolytic
-536,Valacyclovir,Beta-blocker
-537,Docosahexanoic acid,Antifungal
-538,Orlistat,Anxiolytic
-539,Roxatidine,Antifungal
-540,Tamoxifen,Antifungal
-541,Betamethasone,Antiviral
-542,Atorvastatin,Antifungal
-543,Ramipril,Antiviral
-544,Anastrozole,Antifungal
-545,Minoxidil,Antifungal
-546,Olmesartan Medoxomil,antihypertensive
-547,Chlorpromazine,Antiviral
-548,Salbutamol,bronchodilator
-549,Clotrimazole,Anxiolytic
-550,Sirolimus,Anxiolytic
-551,Ampicillin,Antiviral
-552,Cefalexin,Antiviral
+426,Neomycin,Antifungal
+427,Sulfamethoxazole,Antifungal
+428,Tenofovir disoproxil fumarate,Beta-blocker
+429,Bisoprolol,Antiviral
+430,Sodium Fusidate,Antiviral
+431,Satranidazole,Beta-blocker
+432,Lidocaine,corticosteroid
+433,Zolpidem,Antiviral
+434,Cefdinir,Anxiolytic
+435,Pancreatin,Antiviral
+436,Benzydamine,Antiviral
+437,Drotaverine,Antiviral
+438,Oxaceprol,Anxiolytic
+439,Melphalan,Antiviral
+440,Alendronic Acid,Antiviral
+441,Torasemide,Beta-blocker
+442,Acetylcysteine,Beta-blocker
+443,Linezolid,Beta-blocker
+444,Dapagliflozin,Antiviral
+445,Acetazolamide,Antiviral
+446,Ciclopirox,Beta-blocker
+447,Glycopyrrolate,Antiviral
+448,Lacosamide,Beta-blocker
+449,Ledipasvir,Anxiolytic
+450,Zotepine,Antifungal
+451,Budesonide,Beta-blocker
+452,Procyclidine,Antifungal
+453,Eflornithine,Antifungal
+454,Letrozole,Antiviral
+455,Sulfamethoxazole,Antiviral
+456,Febuxostat,Beta-blocker
+457,Permethrin,Antiviral
+458,Itraconazole,Antiviral
+459,Promethazine,Antiviral
+460,Rifampicin,Antiviral
+461,Cefadroxil,Antifungal
+462,Ciclosporin,Anxiolytic
+463,Rivaroxaban,Anxiolytic
+464,Fluorometholone,Antiviral
+465,Biotin,Beta-blocker
+466,Bromhexine,bronchodilator
+467,Cefadroxil,Beta-blocker
+468,Hydroxyzine,Beta-blocker
+469,Vildagliptin,Anxiolytic
+470,Tapentadol,Beta-blocker
+471,Lamotrigine,Antifungal
+472,Epalrestat,Anxiolytic
+473,Ramipril,Beta-blocker
+474,Levetiracetam,Beta-blocker
+475,Favipiravir,Antiviral
+476,Methylergometrine,Antiviral
+477,Favipiravir,Beta-blocker
+478,Citicoline,Antifungal
+479,Levetiracetam,Antiviral
+480,Desmopressin,Antifungal
+481,Sulfadiazine,Antifungal
+482,Desmopressin,Anxiolytic
+483,Bisoprolol,Beta-blocker
+484,Luliconazole,Antifungal
+485,Clotrimazole,Antiviral
+486,Clobetasone,Beta-blocker
+487,Indapamide,Antiviral
+488,Taurine,Beta-blocker
+489,Oseltamivir Phosphate,Antiviral
+490,Benzoyl Peroxide,Antifungal
+491,Calcium Carbonate,Antifungal
+492,Propranolol,Anxiolytic
+493,Alprazolam,antidepressant
+494,Piroxicam,Beta-blocker
+495,Clomipramine,Antifungal
+496,Thyroxine,Antiviral
+497,Ondansetron,Antifungal
+498,Duloxetine,Beta-blocker
+499,Zoledronic acid,Antiviral
+500,Tianeptine,Anxiolytic
+501,Hydroquinone,Antifungal
+502,Levosalbutamol,bronchodilator
+503,Tacrolimus,Antiviral
+504,Tamsulosin,Antiviral
+505,Methylcobalamin,Antifungal
+506,Bisoprolol,diuretic
+507,Bromhexine,Antifungal
+508,Caffeine,antihistamine
+509,Metoprolol Succinate,Anxiolytic
+510,Lindane,Antiviral
+511,Ornidazole,Antiviral
+512,Choline Salicylate,Antifungal
+513,Alprazolam,Beta-blocker
+514,Nebivolol,antihypertensive
+515,Halobetasol,Antifungal
+516,Febuxostat,Anxiolytic
+517,Celecoxib,Beta-blocker
+518,Levofloxacin,Antifungal
+519,Empagliflozin,Antiviral
+520,Teneligliptin,Anxiolytic
+521,Calcium Carbonate,Antiviral
+522,Ondansetron,Anxiolytic
+523,Lorazepam,Beta-blocker
+524,Deflazacort,Antifungal
+525,Sacubitril,Antifungal
+526,Carbimazole,Antiviral
+527,Adapalene,Beta-blocker
+528,Baclofen,Beta-blocker
+529,Benzathine penicillin G,Antiviral
+530,Salmeterol,Antiviral
+531,Acotiamide,Anxiolytic
+532,Pravastatin,Anxiolytic
+533,Tacrolimus,Beta-blocker
+534,Gliclazide,antidiabetic
+535,Sodium Bicarbonate,Antifungal
+536,Calcitonin,Antifungal
+537,Ondansetron,antacid
+538,Sodium Fusidate,Anxiolytic
+539,Chondroitin,Anxiolytic
+540,Thiocolchicoside,Antiviral
+541,Hydroxyurea,Antifungal
+542,Salicylic Acid,Antiviral
+543,Minoxidil,Antifungal
+544,Olmesartan Medoxomil,antihypertensive
+545,Piperacillin,Beta-blocker
+546,Baclofen,Antifungal
+547,Salbutamol,bronchodilator
+548,Cyproterone,Beta-blocker
+549,Guaifenesin,Antifungal
+550,Sulfasalazine,Antiviral
+551,Lactitol,Antiviral
+552,Insulin Aspart,Beta-blocker
 553,Tolterodine,Antifungal
-554,Metoprolol Tartrate,Antiviral
-555,Flupirtine,Antifungal
-556,Phenytoin,Beta-blocker
-557,Ivermectin,Antiviral
-558,Ferrous Ascorbate,Antiviral
-559,Methylcobalamin,Beta-blocker
-560,Pregabalin,Antiviral
-561,Lamivudine,Antiviral
-562,Bacitracin,Beta-blocker
-563,Norethisterone,Beta-blocker
-564,Terbinafine,Beta-blocker
-565,Bromhexine,Beta-blocker
-566,Mesterolone,Anxiolytic
-567,Fenofibrate,Antifungal
-568,Lacosamide,Anxiolytic
-569,Loratadine,Anxiolytic
-570,Plerixafor,Beta-blocker
-571,Chlorpromazine,Anxiolytic
-572,Calcium Polystyrene Sulphonate,Anxiolytic
-573,Dichlorobenzyl Alcohol,Antifungal
-574,Boric Acid,Beta-blocker
-575,Sulphacetamide,Antifungal
-576,Lidocaine,Beta-blocker
-577,Lactulose,Anxiolytic
-578,Testosterone,Antiviral
-579,Trazodone,Antiviral
+554,Flupenthixol,antidepressant
+555,Albumin,Beta-blocker
+556,Lactobacillus,Antifungal
+557,Travoprost,Beta-blocker
+558,Torasemide,Anxiolytic
+559,Cyclophosphamide,Anxiolytic
+560,Methylcobalamin,Beta-blocker
+561,Norfloxacin,Antiviral
+562,Ramipril,antihypertensive
+563,L-Methyl Folate Calcium,Antifungal
+564,Epinastine,Beta-blocker
+565,Terbinafine,Beta-blocker
+566,Bromhexine,Beta-blocker
+567,Anastrozole,Antifungal
+568,Fenofibrate,Antifungal
+569,Racecadotril,Antiviral
+570,Mebendazole,Antifungal
+571,Ethinyl Estradiol,Anxiolytic
+572,Silymarin,Antifungal
+573,Anastrozole,Antiviral
+574,Dichlorobenzyl Alcohol,Antifungal
+575,Aluminium Hydroxide,Beta-blocker
+576,Lactulose,Anxiolytic
+577,Difluprednate,Antifungal
+578,Oxetacaine,Antifungal
+579,Fosfomycin,Anxiolytic
 580,Mefenamic Acid,analgesic
 581,Methylcobalamin,Antiviral
 582,Voglibose,Beta-blocker
-583,Abiraterone Acetate,Beta-blocker
-584,Xantinol Nicotinate,Antifungal
-585,Estradiol,Beta-blocker
-586,Valproic Acid,Beta-blocker
+583,Boric Acid,Anxiolytic
+584,Abiraterone Acetate,Beta-blocker
+585,Aripiprazole,Antiviral
+586,Nitrofurantoin,Anxiolytic
 587,Trioxasalen,Anxiolytic
-588,Cefadroxil,Antiviral
-589,Glibenclamide,Antiviral
-590,Fluticasone Propionate,Antifungal
-591,Vitamin D3,Anxiolytic
-592,Betahistine,Beta-blocker
-593,Risedronate,Anxiolytic
-594,Povidone Iodine,Antifungal
-595,Carboxymethylcellulose,Antifungal
+588,Cefdinir,Beta-blocker
+589,Cefadroxil,Antiviral
+590,Isotretinoin,Beta-blocker
+591,Fluticasone Propionate,Antifungal
+592,Roflumilast,Antifungal
+593,Betahistine,Beta-blocker
+594,Dapagliflozin,Beta-blocker
+595,Povidone Iodine,Antifungal
 596,Pregabalin,Antifungal
-597,Calcium Carbonate,Anxiolytic
-598,Losartan,antihypertensive
-599,Amikacin,Beta-blocker
-600,Mesterolone,Antiviral
-601,Macitentan,Antiviral
-602,Terbinafine,Antiviral
+597,Carbimazole,Antifungal
+598,Bupropion,Antifungal
+599,Captopril,Antiviral
+600,Alpha-Beta Arteether,Antiviral
+601,Mesterolone,Antiviral
+602,Ciclesonide,Beta-blocker
 603,Trihexyphenidyl,Beta-blocker
-604,Sodium Chloride,Antiviral
-605,Flutamide,Antiviral
-606,Insulin Aspart,Anxiolytic
-607,Salmeterol,Beta-blocker
-608,Indomethacin,Antifungal
-609,Amisulpride,Anxiolytic
-610,Ethinyl Estradiol,Beta-blocker
-611,Mifepristone,Antiviral
-612,Cefuroxime,Beta-blocker
-613,Lymecycline,Antiviral
-614,Pheniramine,Antiviral
-615,Warfarin,Beta-blocker
-616,Drotaverine,Beta-blocker
-617,L-Ornithine L-Aspartate,Antifungal
-618,Balofloxacin,Anxiolytic
-619,Cabergoline,Antifungal
-620,Loratadine,Beta-blocker
-621,Candesartan,Anxiolytic
-622,Methylcobalamin,Anxiolytic
-623,Metoprolol Tartrate,Beta-blocker
-624,Lamotrigine,Anxiolytic
-625,Lactobacillus,Antifungal
-626,Diethylcarbamazine,Antiviral
-627,Simethicone,Anxiolytic
-628,Vancomycin,Antiviral
-629,Ofloxacin,Anxiolytic
-630,Terbinafine,Anxiolytic
-631,Luliconazole,Anxiolytic
-632,Nitazoxanide,Anxiolytic
-633,Gabapentin,Anxiolytic
-634,Lactobacillus Sporogenes,Antifungal
-635,Vitamin B,Beta-blocker
-636,Bromelain,Antifungal
-637,Baclofen,Antifungal
-638,Triclosan,Anxiolytic
-639,Budesonide,Beta-blocker
-640,Satranidazole,Beta-blocker
-641,Doripenem,Antiviral
-642,Cabergoline,Beta-blocker
-643,Apremilast,Beta-blocker
-644,Formoterol,Antiviral
-645,Teneligliptin,Antiviral
-646,Methoxsalen,Beta-blocker
-647,Alfuzosin,Anxiolytic
-648,Glucagon,Antifungal
-649,Ranitidine,antacid
-650,Mupirocin,Antiviral
-651,Mebeverine,Antiviral
-652,Clonazepam,Antiviral
-653,Nandrolone Decanoate,Beta-blocker
-654,Hydrotalcite,Beta-blocker
-655,Methylergometrine,Antiviral
-656,Timolol,Beta-blocker
-657,Epalrestat,Antiviral
-658,Indomethacin,Anxiolytic
-659,Benzathine penicillin G,Antiviral
-660,Azelastine,Antifungal
-661,Ofloxacin,Antiviral
-662,Naphazoline,Beta-blocker
-663,Cilnidipine,Antiviral
-664,Agomelatine,Beta-blocker
-665,Sotalol,Anxiolytic
-666,Tinidazole,Antifungal
-667,Hydrochlorothiazide,diuretic
-668,Bacillus Clausii,Anxiolytic
-669,Darifenacin,Anxiolytic
-670,Cefalexin,Anxiolytic
-671,Cyclophosphamide,Antifungal
-672,Travoprost,Beta-blocker
-673,Flurbiprofen,Anxiolytic
-674,Flutamide,Anxiolytic
-675,Roxithromycin,Beta-blocker
-676,Levo-carnitine,Anxiolytic
-677,Loxapine,Anxiolytic
-678,Disulfiram,Anxiolytic
-679,Piracetam,Antiviral
-680,Glycopyrrolate,Antiviral
-681,Zinc Oxide,Beta-blocker
-682,Hydroxypropylmethylcellulose,Beta-blocker
-683,Meropenem,Antifungal
-684,Roxatidine,Anxiolytic
-685,Povidone Iodine,Antiviral
-686,Itraconazole,Anxiolytic
-687,Carbamazepine,Antiviral
-688,Ketoconazole,corticosteroid
-689,Dicyclomine,Beta-blocker
-690,Gatifloxacin,Antifungal
+604,Aluminium Hydroxide,Anxiolytic
+605,Pancuronium,Antifungal
+606,Glipizide,antidiabetic
+607,Methyldopa,Anxiolytic
+608,Insulin Isophane,Beta-blocker
+609,Glycolic acid,Antifungal
+610,Nitroglycerin,Anxiolytic
+611,Hydrocortisone,Antifungal
+612,Ethinyl Estradiol,Beta-blocker
+613,Mifepristone,Antiviral
+614,Cefuroxime,Beta-blocker
+615,Amoxapine,Anxiolytic
+616,Montelukast,Antifungal
+617,Pimozide,Antiviral
+618,Amiodarone,Antiviral
+619,L-Ornithine L-Aspartate,Antifungal
+620,Atazanavir,Beta-blocker
+621,Baclofen,Anxiolytic
+622,Piroxicam,Antiviral
+623,Ritodrine,Antifungal
+624,Leflunomide,Antiviral
+625,Niacinamide,Beta-blocker
+626,Vitamin B,Anxiolytic
+627,Levamisole,Antifungal
+628,Lisinopril,diuretic
+629,Sparfloxacin,Anxiolytic
+630,Triclosan,Antiviral
+631,Ciclosporin,Antifungal
+632,Ofloxacin,Anxiolytic
+633,Olanzapine,Beta-blocker
+634,Metoprolol Tartrate,Antifungal
+635,Cinnarizine,Beta-blocker
+636,Ringer's lactate,Antiviral
+637,Doxycycline,Beta-blocker
+638,Clopidogrel,Antiviral
+639,Gentamicin,Anxiolytic
+640,Mycophenolate mofetil,Antifungal
+641,Diphtheria Toxoid,Antiviral
+642,Apremilast,Beta-blocker
+643,Carbamazepine,Antiviral
+644,Febuxostat,Antiviral
+645,Alpha-Beta Arteether,Beta-blocker
+646,L-Arginine,Antiviral
+647,Sterile Water,Anxiolytic
+648,Ebastine,Antiviral
+649,Furazolidone,Antiviral
+650,Ranitidine,antacid
+651,Melatonin,Anxiolytic
+652,Cinitapride,Beta-blocker
+653,Triamcinolone,Antiviral
+654,Mifepristone,Anxiolytic
+655,Trypsin,Antiviral
+656,Ivermectin,Antifungal
+657,Drotaverine,Beta-blocker
+658,Gemcitabine,Antiviral
+659,Tapentadol,analgesic
+660,Meloxicam,Beta-blocker
+661,Letrozole,Anxiolytic
+662,Olmesartan Medoxomil,Beta-blocker
+663,Ofloxacin,Antiviral
+664,Fenticonazole,Beta-blocker
+665,Sodium Hyaluronate,Anxiolytic
+666,Calamine,Beta-blocker
+667,Diclofenac,antacid
+668,Hyoscyamine,Antiviral
+669,Diacerein,Beta-blocker
+670,Nortriptyline,Beta-blocker
+671,Hydrochlorothiazide,diuretic
+672,Zinc Oxide,Beta-blocker
+673,Rifaximin,Antifungal
+674,Paliperidone,Antiviral
+675,Acitretin,Anxiolytic
+676,Itraconazole,Anxiolytic
+677,Doxylamine,Antifungal
+678,Lacosamide,Antifungal
+679,Sevelamer,Anxiolytic
+680,Benzoyl Peroxide,Beta-blocker
+681,Meropenem,Antiviral
+682,Disodium Hydrogen Citrate,Antifungal
+683,Calcium Polystyrene Sulphonate,Anxiolytic
+684,Loratadine,Antiviral
+685,Conjugated Estrogens,Antiviral
+686,Vitamin A,Antiviral
+687,Hydroxyprogesterone,Beta-blocker
+688,Omega-3 fatty acid,Antiviral
+689,Gatifloxacin,Antifungal
+690,Trypsin,Antifungal
 691,Ibuprofen,Anxiolytic
-692,Gatifloxacin,Beta-blocker
-693,Memantine,Antifungal
-694,Amoxapine,Antiviral
-695,Desmopressin,Antifungal
-696,Olmesartan Medoxomil,Antifungal
-697,Flavoxate,Beta-blocker
-698,Iso Amyl 2-Cynoacrylate,Antifungal
-699,Carvedilol,Antifungal
-700,Calamine,Antiviral
-701,Sultamicillin tosilate,Beta-blocker
-702,Propranolol,Antiviral
-703,Febuxostat,Antiviral
-704,Fluticasone Propionate,Beta-blocker
-705,Lisinopril,diuretic
-706,Sitagliptin,antidiabetic
-707,Diethylcarbamazine,Beta-blocker
-708,Alpha-Beta Arteether,Antiviral
-709,Melatonin,Antifungal
-710,Clonazepam,antidepressant
-711,Ibandronic Acid,Anxiolytic
-712,Lidocaine,Antifungal
-713,Pantoprazole,antacid
-714,Miconazole,Anxiolytic
-715,Gatifloxacin,Anxiolytic
-716,Indapamide,Antifungal
-717,Progesterone,Beta-blocker
-718,Indomethacin,Antiviral
-719,Gentamicin,Antifungal
-720,Faropenem,Antiviral
-721,Irbesartan,Beta-blocker
-722,Phenobarbitone,Beta-blocker
-723,Colchicine,Anxiolytic
-724,Triprolidine,Antifungal
-725,Hydroquinone,Antiviral
-726,Racecadotril,Antifungal
-727,Danazol,Beta-blocker
-728,Sucralfate,Antiviral
-729,Pramoxine,Antifungal
-730,Risperidone,Beta-blocker
-731,Recombinant follicle stimulating hormone,Antiviral
-732,Adapalene,Anxiolytic
-733,Allantoin,Antifungal
-734,Letrozole,Anxiolytic
-735,Morphine,Anxiolytic
-736,Sildenafil,Antiviral
-737,Nicorandil,Anxiolytic
-738,Eicosapentaenoic acid,Anxiolytic
-739,Domperidone,Beta-blocker
-740,Ethamsylate,Anxiolytic
-741,Piracetam,Anxiolytic
-742,Ulipristal acetate,Antiviral
-743,Hyoscine butylbromide,Antifungal
-744,Lactobacillus,Beta-blocker
-745,Hyaluronic Acid,Antiviral
+692,Torasemide,Antifungal
+693,Voglibose,antidiabetic
+694,Megestrol,Antifungal
+695,Gatifloxacin,Beta-blocker
+696,Neomycin,corticosteroid
+697,Amoxapine,Antiviral
+698,Sultamicillin tosilate,Antifungal
+699,Cimetidine,Antifungal
+700,Carvedilol,Antifungal
+701,Ferrous Ascorbate,Anxiolytic
+702,Fluticasone Propionate,Beta-blocker
+703,Halobetasol,Anxiolytic
+704,Sodium Lactate,Beta-blocker
+705,Sitagliptin,antidiabetic
+706,Dicyclomine,Anxiolytic
+707,Orlistat,Antiviral
+708,Lidocaine,Antifungal
+709,Pantoprazole,antacid
+710,Voriconazole,Antifungal
+711,Valdecoxib,Antiviral
+712,Famciclovir,Antifungal
+713,Fluocinolone acetonide,Antifungal
+714,Progesterone,Beta-blocker
+715,Fluoxetine,Beta-blocker
+716,Granisetron,Antiviral
+717,Estradiol,Antifungal
+718,Colchicine,Anxiolytic
+719,Miconazole,Beta-blocker
+720,Hydroquinone,Antiviral
+721,Moxonidine,Beta-blocker
+722,Gentamicin,corticosteroid
+723,Sterile Water,Antiviral
+724,Calcium Citrate Malate,Antifungal
+725,Fluvoxamine,Antifungal
+726,Citalopram,Beta-blocker
+727,Simethicone,Beta-blocker
+728,Fosaprepitant,Beta-blocker
+729,Danazol,Antiviral
+730,Metoprolol Succinate,diuretic
+731,Saxagliptin,antidiabetic
+732,Darbepoetin alfa,Beta-blocker
+733,Sodium Chloride,Anxiolytic
+734,Adapalene,Anxiolytic
+735,Xantinol Nicotinate,Antifungal
+736,Triamcinolone Acetonide,Antiviral
+737,Warfarin,Antiviral
+738,Clonazepam,antidepressant
+739,Febuxostat,Antifungal
+740,Folic Acid,Anxiolytic
+741,Cilostazol,Beta-blocker
+742,Levocloperastine,Beta-blocker
+743,Misoprostol,Anxiolytic
+744,Domperidone,Beta-blocker
+745,Sodium Hyaluronate,Antiviral
 746,Etizolam,antidepressant
-747,Atropine,Anxiolytic
-748,Fluconazole,antibiotic
-749,Triamcinolone,Antifungal
-750,Acotiamide,Anxiolytic
-751,Almotriptan,Beta-blocker
-752,Bromelain,Antiviral
+747,Gatifloxacin,Anxiolytic
+748,Cloxacillin,Beta-blocker
+749,Potassium Nitrate,Anxiolytic
+750,Pentoxifylline,Anxiolytic
+751,Ilaprazole,Antifungal
+752,Prasugrel,Antiviral
 753,Lithium carbonate,Beta-blocker
-754,Methimazole,Anxiolytic
-755,Calcium Polystyrene Sulphonate,Beta-blocker
-756,Fentanyl,Anxiolytic
-757,Rifampicin,Antiviral
-758,Pentazocine,Antifungal
-759,Pyrazinamide,Antiviral
+754,Eicosapentaenoic acid,Antiviral
+755,Bicalutamide,Antifungal
+756,Simethicone,Anxiolytic
+757,Acetylcysteine,Antiviral
+758,Allylestrenol,Beta-blocker
+759,Topiramate,Antiviral
 760,Camylofin,analgesic
-761,Fosaprepitant,Beta-blocker
-762,Serratiopeptidase,Beta-blocker
-763,Dosulepin,Anxiolytic
-764,Dehydroepiandrosterone,Antiviral
-765,Labetalol,Anxiolytic
-766,Sevoflurane,Antifungal
-767,Hydroxyurea,Antifungal
-768,Doxofylline,Anxiolytic
-769,Nitrazepam,Beta-blocker
-770,Dexrabeprazole,antacid
-771,Ramipril,Antifungal
-772,Nystatin,Beta-blocker
-773,Trifluoperazine,Anxiolytic
-774,Calcipotriol,Antiviral
-775,Methotrexate,Antifungal
-776,Dicyclomine,antacid
-777,Calcipotriol,Anxiolytic
-778,Fluoxetine,Beta-blocker
-779,Lidocaine,corticosteroid
-780,Eflornithine,Antifungal
-781,Benidipine,Antiviral
-782,Clobetasone,Antifungal
-783,Zinc acetate,Antiviral
-784,Voriconazole,Antifungal
-785,Lorazepam,Antiviral
-786,Alendronic Acid,Antiviral
-787,Permethrin,Antifungal
-788,Idebenone,Antifungal
-789,Lansoprazole,Anxiolytic
-790,Vilazodone,Antifungal
-791,Albendazole,Antiviral
-792,Cilnidipine,Anxiolytic
-793,Chlordiazepoxide,Antiviral
-794,Empagliflozin,Anxiolytic
-795,Chondroitin,Antifungal
-796,Allopurinol,Antiviral
-797,Dapsone,Antiviral
-798,Zinc,Antiviral
-799,Carbamazepine,Anxiolytic
-800,Racecadotril,Antiviral
-801,Chlorhexidine Gluconate,Beta-blocker
-802,Tolperisone,analgesic
-803,Fluticasone Furoate,Beta-blocker
-804,Fosfomycin,Anxiolytic
-805,Isoniazid,Anxiolytic
-806,Loteprednol etabonate,Anxiolytic
-807,Desonide,Antiviral
-808,Caffeine,Beta-blocker
-809,Tranylcypromine,Beta-blocker
-810,Cyclopentolate,Antiviral
-811,Tamsulosin,Antifungal
-812,Entecavir,Anxiolytic
-813,Etofylline,bronchodilator
-814,Perampanel,Antifungal
-815,Progesterone,Antiviral
-816,Polyethylene Glycol,Beta-blocker
-817,Clarithromycin,Beta-blocker
-818,Folic Acid,Antiviral
-819,Fluoxetine,Antifungal
-820,Fluoxetine,Anxiolytic
-821,Ambroxol,Antiviral
-822,Terbinafine,Antifungal
-823,Tacrolimus,Antifungal
-824,Butenafine,Beta-blocker
-825,Ampicillin,Beta-blocker
-826,Psoralen,Anxiolytic
-827,Alpha-galactosidase,Beta-blocker
-828,Hydrogen Peroxide,Antiviral
-829,Methylphenidate,Beta-blocker
-830,Insulin Isophane,Beta-blocker
-831,Buprenorphine,Antiviral
-832,Levetiracetam,Antiviral
-833,Glutathione,Antiviral
-834,Sertraline,antidepressant
-835,Rivaroxaban,Anxiolytic
-836,Budesonide,Antiviral
-837,Triamcinolone,Antiviral
-838,Ledipasvir,Anxiolytic
-839,Chlorhexidine Gluconate,Antiviral
-840,Imatinib mesylate,Antifungal
-841,Quetiapine,Antifungal
-842,Polystyrene Sulfonate,Antiviral
-843,Univestin,Beta-blocker
-844,Citicoline,Anxiolytic
-845,Rivaroxaban,Antiviral
-846,Chloroquine,Antiviral
-847,Levosulpiride,Beta-blocker
-848,Lansoprazole,Beta-blocker
-849,Dichlorobenzyl Alcohol,Anxiolytic
-850,Recombinant Human Epidermal Growth Factor,Anxiolytic
-851,Brimonidine,Antiviral
-852,Dapagliflozin,Antifungal
-853,Digoxin,Anxiolytic
-854,Acarbose,Antiviral
-855,Tadalafil,Antifungal
-856,Calcipotriol,Antifungal
-857,Doxofylline,Antiviral
-858,Coal Tar,Antiviral
-859,Nicotine,Antifungal
-860,Fluconazole,Antifungal
-861,Metoclopramide,Beta-blocker
-862,Paroxetine,Antifungal
-863,Alfuzosin,Antiviral
-864,Domperidone,Antifungal
-865,Amiloride,Beta-blocker
-866,Moxonidine,Beta-blocker
-867,Nepafenac,Antifungal
-868,Quinapril,Antiviral
-869,Sildenafil,Beta-blocker
-870,Glycolic acid,Antiviral
-871,Flunarizine,Antiviral
-872,Sultamicillin tosilate,Anxiolytic
-873,Clomiphene,Antifungal
-874,Sildenafil,Antifungal
-875,Potassium Citrate,Anxiolytic
-876,Triamcinolone Acetonide,Beta-blocker
-877,Lindane,Anxiolytic
-878,Doxycycline,Beta-blocker
-879,Bisacodyl,Anxiolytic
-880,Sodium Hyaluronate,Antifungal
-881,Minoxidil,Anxiolytic
-882,Progesterone,Anxiolytic
-883,Human insulin,Antiviral
-884,Norethisterone,Anxiolytic
-885,Ethambutol,Antifungal
-886,Bisacodyl,Beta-blocker
-887,Vinpocetine,Antifungal
-888,Acitretin,Beta-blocker
-889,Isotretinoin,Antiviral
-890,Acyclovir,Anxiolytic
-891,Hydroxychloroquine,Antiviral
-892,Lactobacillus Sporogenes,Beta-blocker
-893,Duloxetine,Beta-blocker
-894,Azelastine,Beta-blocker
-895,Domperidone,Antiviral
-896,Sisomicin,Anxiolytic
-897,Apremilast,Antiviral
-898,Mometasone,Antiviral
-899,Warfarin,Anxiolytic
-900,Acebrophylline,Beta-blocker
-901,Xylometazoline,Beta-blocker
-902,Naproxen,Beta-blocker
-903,Etoricoxib,Antifungal
-904,Seratrodast,Beta-blocker
-905,Hydroxyprogesterone,Antiviral
-906,Choline Salicylate,Anxiolytic
-907,Doxylamine,Antifungal
-908,Doxofylline,Antifungal
-909,Haloperidol,Anxiolytic
-910,Acetylcysteine,Antiviral
-911,Vitamin D3,Antiviral
-912,Metoprolol Succinate,Anxiolytic
-913,Moxifloxacin,Beta-blocker
-914,Methylergometrine,Anxiolytic
-915,Omega-3 fatty acid,Antiviral
-916,Metoclopramide,analgesic
-917,Clindamycin,Anxiolytic
-918,Acitretin,Anxiolytic
-919,Drotaverine,Anxiolytic
-920,Natamycin,Antiviral
-921,Cilostazol,Antifungal
-922,Dienogest,Antifungal
-923,Eplerenone,Antiviral
-924,Choline Salicylate,Antiviral
-925,Ropinirole,Beta-blocker
-926,Sodium Chloride,Antifungal
-927,Chlorthalidone,Anxiolytic
-928,Promethazine,Antifungal
-929,Ethionamide,Anxiolytic
-930,Isoflurane,Antiviral
-931,Lactitol,Anxiolytic
-932,Codeine,Anxiolytic
-933,Buspirone,Antifungal
-934,Nifedipine,Antiviral
-935,Conjugated Estrogens,Antiviral
-936,Adapalene,Antiviral
-937,Procyclidine,Antifungal
-938,Rosuvastatin,Antiviral
-939,Calcium,Antifungal
-940,Levofloxacin,Anxiolytic
-941,Prasugrel,Antiviral
-942,Calcium,Beta-blocker
-943,Prednisolone,corticosteroid
-944,Chloramphenicol,Antifungal
-945,Methyldopa,Anxiolytic
-946,Calamine,Beta-blocker
-947,Clindamycin,Antiviral
-948,Salicylic Acid,Anxiolytic
-949,Clioquinol,Antifungal
-950,Isotretinoin,Antifungal
-951,Caffeine,Antifungal
-952,Tamsulosin,Beta-blocker
-953,Phenylephrine,corticosteroid
-954,Ketorolac,Antiviral
-955,Fenofibrate,Beta-blocker
-956,Betamethasone,Beta-blocker
-957,Benzoyl Peroxide,Anxiolytic
-958,Levo-carnitine,Antiviral
-959,Spiramycin,Anxiolytic
-960,Flupirtine,analgesic
-961,Ketoconazole,Antifungal
-962,Aspirin,Beta-blocker
-963,Allopurinol,Anxiolytic
-964,Oxaceprol,Anxiolytic
-965,Vitamin D3,Antifungal
-966,Ethylmorphine,Anxiolytic
-967,Tranexamic Acid,Antifungal
-968,Febuxostat,Antifungal
-969,Glucosamine,Anxiolytic
-970,Nitrofurantoin,Anxiolytic
-971,Nitroglycerin,Anxiolytic
-972,Apremilast,Anxiolytic
-973,Ammonium Chloride,Antifungal
-974,Olopatadine,Beta-blocker
-975,Hydrocortisone,Antifungal
-976,Pseudoephedrine,Antifungal
-977,Lidocaine,Antiviral
-978,Prazosin,Anxiolytic
-979,Citicoline,Beta-blocker
-980,Ebastine,Antiviral
-981,Trimetazidine,Antiviral
-982,Tropicamide,Anxiolytic
-983,Bicalutamide,Antiviral
-984,Benzoyl Peroxide,Beta-blocker
-985,Acarbose,Beta-blocker
-986,Acarbose,Anxiolytic
-987,Garenoxacin,Beta-blocker
-988,Trypsin Chymotrypsin,Antifungal
-989,Nitrazepam,Antiviral
-990,Ethylmorphine,Antiviral
-991,Oxiconazole,Anxiolytic
-992,Clonazepam,Anxiolytic
-993,Zolpidem,Antifungal
-994,Tolterodine,Antiviral
-995,Clarithromycin,Antifungal
-996,Ketoprofen,Anxiolytic
-997,Luliconazole,Antifungal
-998,Mycophenolate mofetil,Antifungal
-999,Diazepam,Antifungal
-1000,Deflazacort,Beta-blocker
-1001,Metronidazole,Antiviral
-1002,Oxytocin,Antifungal
-1003,Tretinoin,Antifungal
-1004,Zolpidem,Anxiolytic
-1005,Fluvoxamine,Beta-blocker
-1006,Mupirocin,Anxiolytic
-1007,Trifluoperazine,Antiviral
-1008,Cycloserine,Antifungal
-1009,Dutasteride,Antiviral
-1010,Pioglitazone,Anxiolytic
-1011,Ceftriaxone,antibiotic
-1012,Ibuprofen,Beta-blocker
-1013,Flupirtine,Anxiolytic
-1014,Sulfamethoxazole,Antifungal
-1015,Lincomycin,Antifungal
-1016,Dehydroepiandrosterone,Antifungal
-1017,Aspirin,Antifungal
-1018,Glycine,Antiviral
-1019,Rifampicin,Anxiolytic
-1020,Cefuroxime,Anxiolytic
-1021,Apixaban,Anxiolytic
-1022,Nitrazepam,Antifungal
-1023,Diosmin,Beta-blocker
-1024,Lactitol,Beta-blocker
-1025,Sertaconazole,Beta-blocker
-1026,Cyproterone,Anxiolytic
-1027,Ciclesonide,Antiviral
-1028,Ambroxol,bronchodilator
-1029,Repaglinide,antidiabetic
-1030,Miconazole,Antifungal
-1031,Benzyl Nicotinate,Antifungal
-1032,Rizatriptan,Antifungal
-1033,Baclofen,Antiviral
-1034,Vitamin A,Antiviral
-1035,Alpha Lipoic Acid,Antiviral
-1036,Human chorionic gonadotropin,Beta-blocker
-1037,Paroxetine,Anxiolytic
-1038,Neomycin,Anxiolytic
-1039,Climbazole,Beta-blocker
-1040,Lornoxicam,Antiviral
-1041,Cadexomer Iodine,Anxiolytic
-1042,Ketamine,Antifungal
-1043,Sevelamer,Antiviral
-1044,Betahistine,Antiviral
-1045,Rosiglitazone,antidiabetic
-1046,Imipramine,Antiviral
-1047,Desmopressin,Beta-blocker
-1048,Flupirtine,Beta-blocker
-1049,Tacrolimus,Anxiolytic
-1050,Coal Tar,Anxiolytic
-1051,Sodium Fusidate,Beta-blocker
-1052,Trypsin Chymotrypsin,Beta-blocker
-1053,Alpha glycerylphosphorylcholine,Antifungal
-1054,Benzocaine,Antifungal
-1055,Promethazine,Antiviral
-1056,Clotrimazole,Antifungal
-1057,Deflazacort,Antifungal
-1058,Meropenem,Antiviral
-1059,Primaquine,Antifungal
-1060,Cytarabine,Antiviral
-1061,Olanzapine,Antifungal
-1062,Tranexamic Acid,Anxiolytic
-1063,Levofloxacin,antibiotic
-1064,Rifaximin,Antifungal
-1065,Ambroxol,antihistamine
-1066,Ilaprazole,Antifungal
-1067,Acetylcysteine,Beta-blocker
-1068,Flupenthixol,Antiviral
-1069,Dextromethorphan Hydrobromide,Anxiolytic
-1070,Sodium Picosulfate,Antiviral
-1071,Mefloquine,Antifungal
-1072,Cefazolin,Antifungal
-1073,Deca Peptide,Beta-blocker
-1074,Gabapentin,Beta-blocker
-1075,Aprepitant,Beta-blocker
-1076,Bromhexine,antihistamine
-1077,Aluminium Hydroxide,Antifungal
-1078,Naphazoline,Anxiolytic
-1079,Erlotinib,Beta-blocker
-1080,Glipizide,antidiabetic
-1081,Clomipramine,Antiviral
-1082,Etofylline,Antiviral
-1083,Phenazopyridine,Beta-blocker
-1084,Desmopressin,Antiviral
-1085,Carbimazole,Anxiolytic
-1086,Coenzyme Q10,Antifungal
-1087,Cinitapride,Anxiolytic
-1088,Carboplatin,Antiviral
-1089,Dexibuprofen,Antifungal
-1090,Bifonazole,Anxiolytic
-1091,Clidinium,Antiviral
-1092,Gabapentin,analgesic
-1093,Cerebroprotein Hydrolysate,Antiviral
-1094,Etoposide,Antiviral
-1095,Simethicone,Beta-blocker
-1096,Norfloxacin,Anxiolytic
-1097,Domperidone,Anxiolytic
-1098,Lindane,Antifungal
-1099,Nimodipine,Antiviral
-1100,Povidone Iodine,Anxiolytic
-1101,Bisoprolol,Antifungal
-1102,Ulinastatin,Beta-blocker
-1103,Cyproheptadine,Antiviral
-1104,Lamotrigine,Beta-blocker
-1105,Alprazolam,antidepressant
-1106,Cefoperazone,Beta-blocker
-1107,Diloxanide,Antifungal
-1108,Prochlorperazine,Anxiolytic
-1109,Buspirone,Antiviral
-1110,Tretinoin,Beta-blocker
-1111,Sevoflurane,Antiviral
-1112,Inactivated influenza vaccine,Antifungal
-1113,Cimetidine,Antifungal
-1114,Bromhexine,Antiviral
-1115,Mirabegron,Beta-blocker
-1116,Hydroxyzine,Antifungal
-1117,Digoxin,Beta-blocker
-1118,Ivermectin,Beta-blocker
-1119,Clindamycin,Beta-blocker
-1120,Amorolfine,Antiviral
-1121,Buprenorphine,Anxiolytic
-1122,Nebivolol,Antifungal
-1123,Methylergometrine,Beta-blocker
-1124,Lamotrigine,Antifungal
-1125,Misoprostol,Beta-blocker
-1126,Medroxyprogesterone acetate,Beta-blocker
-1127,Prazosin,Antifungal
-1128,Amikacin,Anxiolytic
-1129,Disodium Hydrogen Citrate,Antiviral
-1130,Ranolazine,Antiviral
-1131,Oseltamivir Phosphate,Antifungal
-1132,Granisetron,Antiviral
-1133,Cefadroxil,Antifungal
-1134,Fluoxetine,Antiviral
-1135,Ibandronic Acid,Beta-blocker
-1136,Trimetazidine,Antifungal
-1137,Capecitabine,Antifungal
-1138,Atropine,Antifungal
-1139,Deca Peptide,Anxiolytic
-1140,Chlorpromazine,Beta-blocker
-1141,Etodolac,Anxiolytic
-1142,Calcium Dobesilate,Antiviral
-1143,Olopatadine,Antiviral
-1144,Allopurinol,Beta-blocker
-1145,Haloperidol,Antifungal
-1146,Lactitol,Antiviral
-1147,Mirtazapine,Beta-blocker
-1148,Thyroxine,Anxiolytic
-1149,Atazanavir,Beta-blocker
-1150,Loratadine,Antiviral
-1151,Levofloxacin,Beta-blocker
-1152,Faropenem,Beta-blocker
-1153,Metronidazole,Anxiolytic
-1154,Levamisole,Anxiolytic
-1155,Enclomiphene,Beta-blocker
-1156,Citalopram,Beta-blocker
-1157,Cefalexin,Beta-blocker
-1158,Clarithromycin,Antiviral
-1159,Levo-carnitine,Antifungal
-1160,Chloramphenicol,Anxiolytic
-1161,Levosulpiride,antacid
-1162,Digoxin,Antifungal
-1163,Insulin detemir,Antiviral
-1164,Loratadine,Antifungal
-1165,Cyclopentolate,Beta-blocker
-1166,Acarbose,antidiabetic
-1167,Bisacodyl,Antiviral
-1168,Sodium Valproate,Antiviral
-1169,Sodium Picosulfate,Beta-blocker
-1170,Mebeverine,Beta-blocker
-1171,Magaldrate,Antiviral
-1172,Fusidic Acid,Antiviral
-1173,Desloratadine,Beta-blocker
-1174,Trypsin,Anxiolytic
-1175,Drotaverine,analgesic
-1176,Carbimazole,Antifungal
-1177,Mifepristone,Anxiolytic
-1178,Glucosamine,Beta-blocker
-1179,Flupenthixol,Beta-blocker
-1180,Choline Salicylate,Beta-blocker
-1181,Dexamethasone,corticosteroid
-1182,Cyproterone,Beta-blocker
-1183,Hepatitis B Vaccine,Anxiolytic
-1184,Eplerenone,Beta-blocker
-1185,Povidone Iodine,Beta-blocker
-1186,Lactobacillus Sporogenes,Antiviral
-1187,Fentanyl,Antiviral
-1188,Brivaracetam,Antiviral
-1189,Codeine,Beta-blocker
-1190,Benzydamine,Antifungal
-1191,Methotrexate,Antiviral
-1192,Ibuprofen,analgesic
-1193,Valproic Acid,Anxiolytic
-1194,Disodium Hydrogen Citrate,Anxiolytic
-1195,Mometasone,Anxiolytic
-1196,Citalopram,Antiviral
-1197,Evening Primrose Oil,Beta-blocker
-1198,Apremilast,Antifungal
-1199,Paclitaxel,Beta-blocker
-1200,Arteether,Anxiolytic
-1201,Levo-carnitine,Beta-blocker
-1202,Balofloxacin,Antifungal
-1203,Dihydralazine,Antifungal
-1204,Indapamide,Beta-blocker
-1205,Teneligliptin,Anxiolytic
-1206,Clonazepam,Beta-blocker
-1207,Valsartan,Anxiolytic
-1208,Dapagliflozin,Antiviral
-1209,Meloxicam,Beta-blocker
-1210,Voglibose,Antiviral
-1211,Hyaluronic Acid,Antifungal
-1212,Tadalafil,Beta-blocker
-1213,Rizatriptan,Antiviral
-1214,Cyproheptadine,Beta-blocker
-1215,Cyproheptadine,Anxiolytic
-1216,Isoflurane,Antifungal
-1217,Racecadotril,Anxiolytic
-1218,Glycerin,Antiviral
-1219,Ozenoxacin,Beta-blocker
-1220,Bacitracin,Anxiolytic
-1221,Montelukast,Antifungal
-1222,Liquid Paraffin,Antifungal
-1223,Ribavirin,Beta-blocker
-1224,Euphorbia Prostrata Extract,Antiviral
-1225,Mefenamic Acid,Antiviral
-1226,Colchicine,Beta-blocker
-1227,Cefoperazone,Antifungal
-1228,Thyroxine,Beta-blocker
-1229,Hydrogen Peroxide,Antifungal
-1230,Entecavir,Antifungal
-1231,Paroxetine,Antiviral
-1232,Aluminium Hydroxide,Anxiolytic
-1233,Sildenafil,Anxiolytic
-1234,Sodium Hyaluronate,Anxiolytic
-1235,Ranolazine,Antifungal
-1236,Ofloxacin,corticosteroid
-1237,Cefepime,Antifungal
-1238,Duloxetine,Anxiolytic
-1239,Tobramycin,Beta-blocker
-1240,Ammonium Chloride,Beta-blocker
-1241,Ringer's lactate,Antiviral
-1242,Tizanidine,Antifungal
-1243,Gliclazide,Beta-blocker
-1244,Glucosamine,Antifungal
-1245,Montelukast,Antiviral
-1246,Letrozole,Beta-blocker
-1247,Darbepoetin alfa,Beta-blocker
-1248,Leflunomide,Antifungal
-1249,Gliclazide,Antifungal
-1250,Febuxostat,Beta-blocker
-1251,Ilaprazole,Anxiolytic
-1252,Oxcarbazepine,Anxiolytic
-1253,Budesonide,Antifungal
-1254,Oxaliplatin,Anxiolytic
-1255,Calcium Carbonate,Antifungal
-1256,Imipramine,Antifungal
-1257,Simvastatin,Anxiolytic
-1258,Isotretinoin,Anxiolytic
-1259,Fenticonazole,Anxiolytic
-1260,Oseltamivir Phosphate,Antiviral
-1261,Fluvoxamine,Antifungal
-1262,Tamsulosin,Anxiolytic
-1263,Xylometazoline,Antifungal
-1264,Ursodeoxycholic Acid,Beta-blocker
-1265,Secnidazole,Anxiolytic
-1266,Atomoxetine,Antiviral
-1267,Rubella vaccine,Antifungal
-1268,Mometasone,Antifungal
-1269,Clopidogrel,Beta-blocker
-1270,Diphtheria Toxoid,Antiviral
-1271,Tolperisone,Beta-blocker
-1272,Clobazam,Antiviral
-1273,Methoxsalen,Antiviral
-1274,Lenalidomide,Antiviral
-1275,Albendazole,Beta-blocker
-1276,Menotrophin,Beta-blocker
-1277,Pregabalin,Beta-blocker
-1278,Desvenlafaxine,Beta-blocker
-1279,Aminophylline,Beta-blocker
-1280,Imipramine,Anxiolytic
-1281,Flupenthixol,Antifungal
-1282,Cyclopentolate,Anxiolytic
-1283,Cycloserine,Anxiolytic
-1284,Polyethylene Glycol,Anxiolytic
-1285,Primaquine,Beta-blocker
-1286,Prulifloxacin,Beta-blocker
-1287,Lacosamide,Antifungal
-1288,Desmopressin,Anxiolytic
-1289,Prilocaine,Beta-blocker
-1290,Finasteride,Beta-blocker
-1291,Ciclesonide,Antifungal
-1292,Benfotiamine,Antifungal
-1293,Valproic Acid,Antifungal
-1294,Lithium carbonate,Antiviral
-1295,Faropenem,Anxiolytic
-1296,Anastrozole,Antiviral
-1297,Dehydroepiandrosterone,Anxiolytic
-1298,Clidinium,Anxiolytic
-1299,Citric Acid,Antiviral
-1300,Topiramate,Anxiolytic
-1301,Imipenem,Anxiolytic
-1302,Ivermectin,Antifungal
-1303,Rifampicin,Beta-blocker
-1304,Xylometazoline,Antiviral
-1305,Insulin Aspart,Antiviral
-1306,Doxycycline,Antifungal
-1307,Griseofulvin,Antiviral
-1308,Trypsin,Beta-blocker
-1309,Ibuprofen,Antiviral
-1310,Venlafaxine,Antifungal
-1311,Stanozolol,Anxiolytic
-1312,Ciclopirox,Beta-blocker
-1313,Theophylline,bronchodilator
-1314,Prochlorperazine,Antiviral
-1315,Dabigatran Etexilate,Beta-blocker
-1316,Carvedilol,Antiviral
-1317,Estriol,Anxiolytic
-1318,Allylestrenol,Antiviral
-1319,Phenylephrine,bronchodilator
-1320,Tetracycline,Anxiolytic
-1321,Orlistat,Beta-blocker
-1322,Ursodeoxycholic Acid,Anxiolytic
-1323,Propranolol,Beta-blocker
-1324,Potassium Nitrate,Beta-blocker
-1325,Lercanidipine,Beta-blocker
-1326,Abacavir,Antifungal
-1327,Sultamicillin tosilate,Antiviral
-1328,Olmesartan Medoxomil,Anxiolytic
-1329,Recombinant Human parathyroid hormone,Antiviral
-1330,Silymarin,Anxiolytic
-1331,Minocycline,Antifungal
-1332,Chloroquine,Beta-blocker
-1333,Empagliflozin,Antiviral
-1334,Nebivolol,Beta-blocker
-1335,Clioquinol,Anxiolytic
-1336,Trioxasalen,Antiviral
-1337,Mebeverine,Antifungal
-1338,Lysine,Antifungal
-1339,Lomefloxacin,Beta-blocker
-1340,Sulfasalazine,Antiviral
-1341,Lisinopril,Beta-blocker
-1342,Gemifloxacin,Antifungal
-1343,Alprazolam,Beta-blocker
-1344,Benzocaine,Antiviral
-1345,Hyaluronic Acid,Anxiolytic
-1346,Budesonide,Anxiolytic
-1347,Tretinoin,Anxiolytic
-1348,Naproxen,Antifungal
-1349,Nebivolol,Anxiolytic
-1350,Secnidazole,Antiviral
-1351,Doxylamine,Beta-blocker
-1352,Norfloxacin,Antiviral
-1353,Halobetasol,Antiviral
-1354,Orlistat,Antifungal
-1355,Indomethacin,Beta-blocker
-1356,Diazepam,Antiviral
-1357,Fluorometholone,Beta-blocker
-1358,Nimorazole,Antifungal
-1359,Luliconazole,Beta-blocker
-1360,Cefotaxime,Anxiolytic
-1361,Vitamin C,Beta-blocker
-1362,Cefepime,Antiviral
-1363,Fluticasone Furoate,Anxiolytic
-1364,Teriparatide,Anxiolytic
-1365,Sulfamethoxazole,Beta-blocker
-1366,Human insulin,Antifungal
-1367,L-Methyl Folate,Antiviral
-1368,Triclofos,Antiviral
-1369,Magaldrate,Antifungal
-1370,Urofollitropin,Antifungal
-1371,L-Methyl Folate,Beta-blocker
-1372,Montelukast,Anxiolytic
-1373,Calcitriol,Antifungal
-1374,Salicylic Acid,Antifungal
-1375,Fluticasone Furoate,Antiviral
-1376,Guaifenesin,Antifungal
-1377,Faropenem,Antifungal
-1378,Topiramate,Antifungal
-1379,Pentoxifylline,Antiviral
-1380,Vitamin B,Antiviral
-1381,Tolperisone,Anxiolytic
-1382,Pyrazinamide,Antifungal
-1383,Caffeine,Antiviral
-1384,Acetazolamide,Antifungal
-1385,Ketamine,Anxiolytic
-1386,Calcitriol,Beta-blocker
-1387,Choline,Antifungal
-1388,Dexchlorpheniramine,antihistamine
-1389,Finasteride,Antiviral
-1390,Oxymetazoline,Beta-blocker
-1391,Tobramycin,Antifungal
-1392,Cetrimide,Anxiolytic
-1393,Ursodeoxycholic Acid,Antifungal
-1394,Paroxetine,Beta-blocker
-1395,Lincomycin,Beta-blocker
-1396,Cinnarizine,Antifungal
-1397,Gabapentin,Antiviral
-1398,Acyclovir,Antiviral
-1399,Quetiapine,Antiviral
-1400,Sulfadiazine,Beta-blocker
-1401,Trimetazidine,Anxiolytic
-1402,Pioglitazone,Antifungal
-1403,Erlotinib,Antifungal
-1404,Potassium Nitrate,Antifungal
-1405,Sulfasalazine,Beta-blocker
-1406,Thiocolchicoside,Antiviral
-1407,Nitrofurantoin,Antiviral
-1408,Placenta Extracts,Antiviral
-1409,Hepatitis B Vaccine,Beta-blocker
-1410,Clobetasone,Beta-blocker
-1411,Zoledronic acid,Antiviral
-1412,Diltiazem,Antiviral
-1413,Diphenhydramine,Beta-blocker
-1414,Cetrorelix,Antifungal
-1415,Loperamide,Antifungal
-1416,Bacillus Clausii,Antifungal
-1417,Triamcinolone,Anxiolytic
-1418,Cilnidipine,antihypertensive
-1419,Xantinol Nicotinate,Antiviral
-1420,Enalapril,Anxiolytic
-1421,Megestrol,Beta-blocker
-1422,Buclizine,Beta-blocker
-1423,Clotrimazole,corticosteroid
-1424,Tramadol,Beta-blocker
-1425,Ursodeoxycholic Acid,Antiviral
-1426,Melatonin,Anxiolytic
-1427,Griseofulvin,Beta-blocker
-1428,Colistimethate Sodium,Beta-blocker
-1429,Loteprednol etabonate,Antiviral
-1430,Sucralfate,Antifungal
-1431,Fluticasone Furoate,Antifungal
-1432,Chlorthalidone,Beta-blocker
-1433,Doxofylline,Beta-blocker
-1434,Venlafaxine,Anxiolytic
-1435,Aripiprazole,Beta-blocker
-1436,Triclosan,Antifungal
-1437,Extractum Cepae-Cepalin,Antifungal
-1438,Clomiphene,Antiviral
-1439,Fenticonazole,Beta-blocker
-1440,Clioquinol,Beta-blocker
-1441,Artemether,Anxiolytic
-1442,Cefpodoxime Proxetil,Beta-blocker
-1443,Eptifibatide,Anxiolytic
-1444,Sodium Fusidate,Antiviral
-1445,Pyrantel Pamoate,Antifungal
-1446,Arteether,Antiviral
-1447,Artemether,Antiviral
-1448,Flurbiprofen,Antifungal
-1449,Evening Primrose Oil,Antiviral
-1450,Trypsin Chymotrypsin,Antiviral
-1451,Fosfomycin,Beta-blocker
-1452,Calcitonin,Antiviral
-1453,Rifaximin,Beta-blocker
-1454,Famotidine,Antiviral
-1455,Cilnidipine,Antifungal
-1456,Nitroglycerin,Antifungal
-1457,Tolperisone,Antiviral
-1458,Letrozole,Antifungal
-1459,Formoterol,Anxiolytic
-1460,Flunarizine,Anxiolytic
-1461,Dinoprostone,Beta-blocker
-1462,Hydroxypropylmethylcellulose,Antifungal
-1463,Albumin,Antifungal
-1464,Dapoxetine,Anxiolytic
-1465,Pioglitazone,Beta-blocker
-1466,Vitamin D3,Beta-blocker
-1467,Polystyrene Sulfonate,Anxiolytic
-1468,Doxylamine,Antiviral
-1469,Teneligliptin,Beta-blocker
-1470,Captopril,Antiviral
-1471,Bilastine,Antiviral
-1472,Boric Acid,Anxiolytic
-1473,Carboxymethylcellulose,Beta-blocker
-1474,Oxymetazoline,Antifungal
-1475,Amikacin,Antifungal
-1476,Artemether,Beta-blocker
-1477,Etofylline,Anxiolytic
-1478,Dopamine,Anxiolytic
-1479,Fluorometholone,Antifungal
-1480,Temozolomide,Antiviral
-1481,Teneligliptin,Antifungal
-1482,Alpha glycerylphosphorylcholine,Beta-blocker
-1483,Ketorolac,Anxiolytic
-1484,Clemastine,Antifungal
-1485,Octreotide acetate,Antifungal
-1486,Clotrimazole,Antiviral
-1487,Saxagliptin,Anxiolytic
-1488,Psoralen,Antifungal
-1489,Bosentan,Antifungal
-1490,Sucralfate,Beta-blocker
-1491,Primaquine,Antiviral
-1492,Rivaroxaban,Beta-blocker
-1493,Alpha-Beta Arteether,Anxiolytic
-1494,Ramipril,Anxiolytic
-1495,Lorazepam,Antifungal
-1496,Olopatadine,Antifungal
-1497,Paliperidone,Antiviral
-1498,Hemocoagulase,Beta-blocker
-1499,Memantine,Antiviral
-1500,Etidronate,Antiviral
-1501,Mirabegron,Antiviral
-1502,Disodium Hydrogen Citrate,Beta-blocker
-1503,Octreotide acetate,Antiviral
-1504,Pyrimethamine,Beta-blocker
-1505,Gliclazide,antidiabetic
-1506,Fenofibrate,Antiviral
-1507,Mebendazole,Antifungal
-1508,Dapagliflozin,Beta-blocker
-1509,Finasteride,Antifungal
-1510,Pimozide,Antiviral
-1511,Taurine,Antiviral
-1512,Piroxicam,Anxiolytic
-1513,Etidronate,Anxiolytic
-1514,Tolvaptan,Antiviral
-1515,Lisinopril,Antiviral
-1516,Lisinopril,Anxiolytic
-1517,Sunitinib,Antiviral
-1518,Vitamin E,Beta-blocker
-1519,Miconazole,Antiviral
-1520,Alendronic Acid,Beta-blocker
-1521,Finasteride,Anxiolytic
-1522,Tenofovir disoproxil fumarate,Beta-blocker
-1523,Flupenthixol,antidepressant
-1524,Bromfenac,Beta-blocker
-1525,Hydroxypropylmethylcellulose,Antiviral
-1526,Ozenoxacin,Antifungal
-1527,Mosapride,Antiviral
-1528,Levamisole,Antifungal
-1529,Famciclovir,Antifungal
-1530,Lornoxicam,analgesic
-1531,Pseudoephedrine,antihistamine
-1532,Dienogest,Beta-blocker
-1533,Pancreatin,Anxiolytic
-1534,Ambroxol,Anxiolytic
-1535,Bimatoprost,Antifungal
-1536,Artesunate,Antifungal
-1537,Ticagrelor,Antifungal
-1538,Latanoprost,Antifungal
-1539,Divalproex,Anxiolytic
-1540,Hemocoagulase,Antiviral
-1541,Human chorionic gonadotropin,Anxiolytic
-1542,Terazosin,Beta-blocker
-1543,Iron Sucrose,Beta-blocker
-1544,Nitroglycerin,Antiviral
-1545,Gliclazide,Antiviral
-1546,Domperidone,analgesic
-1547,Triamcinolone Acetonide,Antifungal
-1548,Nortriptyline,Antifungal
-1549,Gramicidin,Antifungal
-1550,Risperidone,Antiviral
-1551,Sacubitril,Antifungal
-1552,Rivastigmine,Beta-blocker
-1553,Metoclopramide,Anxiolytic
-1554,Favipiravir,Anxiolytic
-1555,Irinotecan,Beta-blocker
-1556,Mycophenolate sodium,Beta-blocker
-1557,Hyaluronic Acid,Beta-blocker
-1558,Gemfibrozil,Antiviral
-1559,Isosorbide Dinitrate,Antiviral
-1560,Stanozolol,Beta-blocker
-1561,Valsartan,Beta-blocker
-1562,Imipenem,Antiviral
-1563,Isosorbide Mononitrate,Antiviral
-1564,Misoprostol,Antiviral
-1565,Celecoxib,Beta-blocker
-1566,Saccharomyces boulardii,Anxiolytic
-1567,Lamivudine,Beta-blocker
-1568,Metoprolol Tartrate,Antifungal
-1569,Trypsin Chymotrypsin,Anxiolytic
-1570,Lornoxicam,Anxiolytic
-1571,Tolterodine,Beta-blocker
-1572,Teicoplanin,Antifungal
-1573,Moxonidine,Anxiolytic
-1574,Lenalidomide,Antifungal
-1575,Candesartan,Antifungal
-1576,Methyldopa,Antifungal
-1577,Hyoscyamine,Antiviral
-1578,Bilastine,Beta-blocker
-1579,Felodipine,Antiviral
-1580,Etodolac,Antiviral
-1581,Oxcarbazepine,Antiviral
-1582,Tamoxifen,Anxiolytic
-1583,Ibandronic Acid,Antiviral
-1584,Epinastine,Antifungal
-1585,Donepezil,Antiviral
-1586,Buprenorphine,Antifungal
-1587,Cholestyramine,Beta-blocker
-1588,Chloramphenicol,corticosteroid
-1589,Naphazoline,antihistamine
-1590,Nitroglycerin,Beta-blocker
-1591,Clobetasone,Antiviral
-1592,Rivastigmine,Anxiolytic
-1593,Sparfloxacin,Beta-blocker
-1594,Dicyclomine,Antifungal
-1595,Cefdinir,Anxiolytic
-1596,Quinine,Anxiolytic
-1597,Ferrous Ascorbate,Beta-blocker
-1598,Fusidic Acid,Anxiolytic
-1599,Oxcarbazepine,Antifungal
-1600,Ethamsylate,Antifungal
-1601,Theophylline,Anxiolytic
-1602,Ethamsylate,Beta-blocker
-1603,Valsartan,diuretic
-1604,Levetiracetam,Anxiolytic
-1605,Fluorometholone,Antiviral
-1606,Desonide,Beta-blocker
-1607,Pravastatin,Anxiolytic
-1608,Chlordiazepoxide,Beta-blocker
-1609,Bromelain,Beta-blocker
-1610,Bisacodyl,Antifungal
-1611,Estradiol,Antifungal
-1612,Topiramate,Beta-blocker
-1613,Sertaconazole,corticosteroid
-1614,Glibenclamide,Beta-blocker
-1615,Piperacillin,Beta-blocker
-1616,Tramadol,Antifungal
-1617,Procyclidine,Beta-blocker
-1618,Eberconazole,Anxiolytic
-1619,Ethambutol,Anxiolytic
-1620,Cetrimide,Antifungal
-1621,Sodium Lactate,Beta-blocker
-1622,Chlordiazepoxide,Antifungal
-1623,Torasemide,Anxiolytic
-1624,Ketoprofen,Beta-blocker
-1625,Dosulepin,Antifungal
-1626,Levodopa,Anxiolytic
-1627,Flavoxate,Antiviral
-1628,Risedronate,Antifungal
-1629,Mefenamic Acid,Anxiolytic
-1630,Cefotaxime,Beta-blocker
-1631,Diazepam,Anxiolytic
-1632,Triclosan,Beta-blocker
-1633,Ornidazole,Beta-blocker
-1634,Sodium Fusidate,Anxiolytic
-1635,L-Ornithine L-Aspartate,Antiviral
-1636,Alendronic Acid,Anxiolytic
-1637,Pancreatin,Beta-blocker
-1638,Aripiprazole,Antiviral
-1639,Dasatinib,Antifungal
-1640,Tricholine Citrate,Antifungal
-1641,Dulaglutide,Anxiolytic
-1642,Azathioprine,Antifungal
-1643,Racecadotril,Beta-blocker
-1644,Tolnaftate,Antiviral
-1645,Methyldopa,Beta-blocker
-1646,Melatonin,Beta-blocker
-1647,Bromelain,Anxiolytic
-1648,Formoterol,Beta-blocker
-1649,Calcitonin,Anxiolytic
-1650,L-Methyl Folate Calcium,Anxiolytic
-1651,Ivabradine,Antiviral
-1652,Nortriptyline,Beta-blocker
-1653,Primidone,Anxiolytic
-1654,Clidinium,Antifungal
-1655,Cabergoline,Anxiolytic
-1656,Bivalirudin,Antiviral
-1657,Hydroxyurea,Beta-blocker
-1658,Methoxsalen,Anxiolytic
-1659,S-Amlodipine,antihypertensive
-1660,Lornoxicam,Beta-blocker
-1661,Secnidazole,Beta-blocker
-1662,Ceftazidime,Beta-blocker
-1663,Candesartan,Beta-blocker
-1664,Vildagliptin,Beta-blocker
-1665,Aripiprazole,Anxiolytic
-1666,Sulphacetamide,Anxiolytic
-1667,Norgestrel,Antiviral
-1668,Metoprolol Tartrate,Anxiolytic
-1669,Cisapride,Antifungal
-1670,Lacosamide,Beta-blocker
-1671,Citicoline,Antiviral
-1672,Dobutamine,Antifungal
-1673,Linezolid,Antiviral
-1674,Clonidine,Antiviral
-1675,Desidustat,Antifungal
-1676,Desloratadine,Anxiolytic
-1677,Sparfloxacin,Anxiolytic
-1678,Dextrose,Antifungal
-1679,Dienogest,Anxiolytic
-1680,Calcium citrate,Beta-blocker
-1681,Fluocinolone acetonide,Antiviral
-1682,Recombinant follicle stimulating hormone,Antifungal
-1683,Cyproterone,Antiviral
-1684,Sulfadiazine,Anxiolytic
-1685,Isotretinoin,Beta-blocker
-1686,Sulfasalazine,Anxiolytic
-1687,Sofosbuvir,Antiviral
-1688,Venlafaxine,Antiviral
-1689,Enalapril,Antiviral
-1690,Sulfamethoxazole,Antiviral
-1691,Clonazepam,Antifungal
-1692,Midodrine,Anxiolytic
-1693,Phenobarbitone,Anxiolytic
-1694,Albendazole,Antifungal
-1695,Cinnarizine,Anxiolytic
-1696,Ferrous Ascorbate,Antifungal
-1697,Methotrexate,Anxiolytic
-1698,Diacerein,Beta-blocker
-1699,Zotepine,Antifungal
-1700,Paradichlorobenzene,Beta-blocker
-1701,Methotrexate,Beta-blocker
-1702,Guaifenesin,Anxiolytic
-1703,Sodium Fusidate,Antifungal
-1704,Ciclosporin,Anxiolytic
-1705,Trioxasalen,Beta-blocker
-1706,Enzalutamide,Anxiolytic
-1707,Lamivudine,Antifungal
-1708,Ginkgo Biloba,Antifungal
-1709,Penicillamine,Antiviral
-1710,Desvenlafaxine,Anxiolytic
-1711,Albumin,Antiviral
-1712,Acetazolamide,Antiviral
-1713,Erythromycin,Antiviral
-1714,Ethinyl Estradiol,Anxiolytic
-1715,Divalproex,Antiviral
-1716,Olanzapine,Antiviral
-1717,Astaxanthin,Anxiolytic
-1718,Isoniazid,Antifungal
-1719,Methylergometrine,Antifungal
-1720,Linezolid,Antifungal
-1721,Tretinoin,Antiviral
-1722,Roxithromycin,Antifungal
-1723,Sevelamer,Anxiolytic
-1724,Climbazole,Antifungal
-1725,Isoniazid,Beta-blocker
-1726,Emtricitabine,Beta-blocker
-1727,Trifluoperazine,Beta-blocker
-1728,Diacerein,Antifungal
-1729,Cilostazol,Beta-blocker
-1730,Dichlorobenzyl Alcohol,Antiviral
-1731,Calamine,Antifungal
-1732,Piperacillin,Anxiolytic
-1733,Nifedipine,Beta-blocker
-1734,Luliconazole,Antiviral
-1735,Phenylephrine,Beta-blocker
-1736,Allopurinol,Antifungal
-1737,Potassium Nitrate,Antiviral
-1738,Lactobacillus,Anxiolytic
-1739,Aluminium Hydroxide,Antiviral
-1740,Balofloxacin,Beta-blocker
-1741,Cilostazol,Antiviral
-1742,Ciclopirox,Anxiolytic
-1743,Pidotimod,Antifungal
-1744,Tadalafil,Antiviral
-1745,Warfarin,Antiviral
-1746,Salicylic Acid,Beta-blocker
-1747,Valsartan,Antifungal
-1748,Ethinyl Estradiol,Antiviral
-1749,Donepezil,Anxiolytic
-1750,Moxifloxacin,Antiviral
-1751,Salmeterol,Antifungal
-1752,Neomycin,Beta-blocker
-1753,Metoprolol Succinate,diuretic
-1754,Lactase,Antifungal
-1755,Bupropion,Antifungal
-1756,Ringer's lactate,Antifungal
-1757,Piracetam,Antifungal
-1758,Metoprolol Succinate,Beta-blocker
-1759,Valsartan,Antiviral
-1760,Hydroxyzine,Beta-blocker
-1761,Colistin Sulphate,Anxiolytic
-1762,Calcium Dobesilate,Beta-blocker
-1763,Mycophenolate mofetil,Beta-blocker
-1764,Norethisterone,Antifungal
-1765,Loperamide,Anxiolytic
-1766,Prasugrel,Antifungal
-1767,Pimozide,Antifungal
-1768,Perindopril erbumine,Antifungal
-1769,Gabapentin,antidepressant
-1770,Penicillin G,Anxiolytic
-1771,Chlorhexidine Gluconate,Anxiolytic
-1772,Isoxsuprine,Anxiolytic
-1773,Sulfamethoxazole,Anxiolytic
-1774,Sodium Picosulfate,Antifungal
-1775,Dienogest,Antiviral
-1776,Guaifenesin,bronchodilator
-1777,Haemophilus Type B Conjugate Vaccine,Antifungal
-1778,Phenylpropanolamine,antihistamine
-1779,Entacapone,Antiviral
-1780,Triptorelin,Beta-blocker
-1781,Disulfiram,Antifungal
-1782,Nepafenac,Anxiolytic
-1783,Aminophylline,Antifungal
-1784,Dydrogesterone,Anxiolytic
-1785,Calcitriol,Antiviral
-1786,Niacinamide,Beta-blocker
-1787,Amorolfine,Antifungal
-1788,Capsaicin Based Rubefacients,analgesic
-1789,Ramipril,Beta-blocker
-1790,Diltiazem,Anxiolytic
-1791,Carbimazole,Antiviral
-1792,Clemastine,Anxiolytic
-1793,Alcaftadine,Beta-blocker
-1794,Medroxyprogesterone acetate,Antifungal
-1795,Metaxalone,Antifungal
-1796,Hydroxyprogesterone,Beta-blocker
-1797,Tolperisone,Antifungal
-1798,Pyrimethamine,Antiviral
-1799,Rizatriptan,Anxiolytic
-1800,Imipramine,Beta-blocker
-1801,Lysine,Antiviral
-1802,Alpha Ketoanalogue,Anxiolytic
-1803,Levodopa,Antifungal
-1804,n-Butyl-2-cyanoacrylate,Antifungal
-1805,Freeze-dried Live Attenuated Hepatitis A Vaccine,Anxiolytic
-1806,Cabergoline,Antiviral
-1807,Diphenhydramine,Antifungal
-1808,Triclosan,Antiviral
-1809,Moclobemide,Antiviral
-1810,Hydroxychloroquine,Antifungal
-1811,Favipiravir,Antifungal
-1812,Verapamil,Antiviral
-1813,Ozenoxacin,Antiviral
-1814,Guaifenesin,Beta-blocker
-1815,Furosemide,diuretic
-1816,Dutasteride,Anxiolytic
-1817,Tetracycline,Beta-blocker
-1818,Almotriptan,Antifungal
-1819,Mesalazine,Anxiolytic
-1820,Insulin Aspart,Antifungal
-1821,Magnesium Sulphate,Anxiolytic
-1822,Simethicone,Antiviral
-1823,Biotin,Antiviral
-1824,Divalproex,Antifungal
-1825,Tapentadol,analgesic
-1826,Boric Acid,Antifungal
-1827,Axitinib,Antiviral
-1828,Phenobarbitone,Antifungal
-1829,Pentosan polysulfate sodium,Beta-blocker
-1830,Levofloxacin,Antiviral
-1831,Bromocriptine,Antifungal
-1832,Diltiazem,Beta-blocker
-1833,L-Methyl Folate,Anxiolytic
-1834,Medroxyprogesterone acetate,Anxiolytic
-1835,Ammonium Chloride,Anxiolytic
-1836,Glycerin,Anxiolytic
-1837,Ammonium Chloride,Antiviral
-1838,Metoprolol Succinate,Antifungal
-1839,Calcitriol,Anxiolytic
-1840,Allylestrenol,Beta-blocker
-1841,Lactobacillus Sporogenes,Anxiolytic
-1842,Tobramycin,Antiviral
-1843,Melphalan,Antifungal
-1844,Azelaic Acid,Antiviral
-1845,Epinastine,Anxiolytic
-1846,Benzydamine,Antiviral
-1847,Primidone,Antifungal
-1848,Brivaracetam,Beta-blocker
-1849,Trypsin,Antiviral
-1850,Adrenaline,Beta-blocker
-1851,Benzthiazide,Beta-blocker
-1852,Doxepin,Antifungal
-1853,Zinc acetate,Beta-blocker
-1854,Quetiapine,Beta-blocker
-1855,Azathioprine,Antiviral
-1856,Tapentadol,Beta-blocker
-1857,Verapamil,Anxiolytic
-1858,Lenvatinib,Antifungal
-1859,Temozolomide,Beta-blocker
-1860,Nadifloxacin,Antifungal
-1861,Favipiravir,Beta-blocker
-1862,Sucralfate,Anxiolytic
-1863,Mebendazole,Beta-blocker
-1864,Silodosin,Beta-blocker
-1865,Carbamazepine,Beta-blocker
-1866,Levamisole,Antiviral
-1867,Cyclobenzaprine,Antiviral
-1868,Gemifloxacin,Antiviral
-1869,Valdecoxib,analgesic
-1870,Azilsartan medoxomil,Beta-blocker
-1871,Granisetron,Anxiolytic
-1872,Meropenem,Anxiolytic
-1873,Etizolam,Antiviral
-1874,Diltiazem,Antifungal
-1875,Vildagliptin,Anxiolytic
-1876,Melatonin,Antiviral
-1877,Ambroxol,Beta-blocker
-1878,Dimethicone,Antifungal
-1879,Chlordiazepoxide,Anxiolytic
-1880,Ciclosporin,Beta-blocker
-1881,Taurine,Anxiolytic
-1882,Famotidine,Beta-blocker
-1883,Methylphenidate,Antifungal
-1884,Chloroquine,Antifungal
-1885,Silver Colloid,Beta-blocker
-1886,Artesunate,Antiviral
-1887,Tetanus Toxoid,Antifungal
-1888,Hemocoagulase,Antifungal
-1889,Moxonidine,Antifungal
-1890,Tramadol,Antiviral
-1891,Solifenacin,Beta-blocker
-1892,Glutathione,Antifungal
-1893,Lenvatinib,Beta-blocker
-1894,Procyclidine,Antiviral
-1895,Fluorometholone,Anxiolytic
-1896,Ivabradine,Beta-blocker
-1897,Orlistat,Antiviral
-1898,Gentamicin,Anxiolytic
-1899,Hydroxypropylmethylcellulose,Anxiolytic
-1900,L-Methyl Folate Calcium,Antifungal
-1901,Dulaglutide,Beta-blocker
-1902,Atropine,Antiviral
-1903,Oxaliplatin,Antiviral
-1904,Serratiopeptidase,Antifungal
-1905,Oxetacaine,Antiviral
-1906,Cilnidipine,Beta-blocker
-1907,Heparin,Antifungal
-1908,Pancreatin,Antiviral
-1909,Favipiravir,Antiviral
-1910,Butenafine,Antiviral
-1911,Ciclesonide,Beta-blocker
-1912,Oxymetazoline,Anxiolytic
-1913,Zolpidem,Beta-blocker
-1914,Meclizine,Antiviral
-1915,Human chorionic gonadotropin,Antiviral
-1916,Dapagliflozin,Anxiolytic
-1917,Everolimus,Antifungal
-1918,Mycophenolate mofetil,Anxiolytic
-1919,Erythromycin,Beta-blocker
-1920,Furazolidone,Antiviral
-1921,Magnesium Sulphate,Antiviral
-1922,Solifenacin,Anxiolytic
-1923,Disodium edetate,Antifungal
-1924,Allylestrenol,Antifungal
-1925,Glibenclamide,Antifungal
-1926,Ornidazole,Antifungal
-1927,Olanzapine,Anxiolytic
-1928,Ciclopirox,Antifungal
-1929,Eszopiclone,Anxiolytic
-1930,Flupirtine,Antiviral
-1931,Insulin Isophane/NPH,Anxiolytic
-1932,Duloxetine,Antifungal
-1933,Coenzyme Q10,Beta-blocker
-1934,Moxonidine,antihypertensive
-1935,Griseofulvin,Anxiolytic
-1936,Flunarizine,Antifungal
-1937,Proanthocyanidin,Antiviral
-1938,Valdecoxib,Antiviral
-1939,Amiodarone,Beta-blocker
-1940,Pyrazinamide,Beta-blocker
-1941,Mebeverine,Anxiolytic
-1942,Sterile Water,Anxiolytic
-1943,Bicalutamide,Anxiolytic
-1944,Alpha-Beta Arteether,Beta-blocker
-1945,Ethylmorphine,Antifungal
-1946,Epalrestat,Antifungal
-1947,Citalopram,Anxiolytic
-1948,Bromhexine,Anxiolytic
-1949,Trifluoperazine,Antifungal
-1950,Efonidipine,Antiviral
-1951,Iron Sucrose,Anxiolytic
-1952,Biotin,Beta-blocker
-1953,Oxcarbazepine,Beta-blocker
-1954,Metronidazole,Beta-blocker
-1955,Fusidic Acid,Beta-blocker
-1956,Trihexyphenidyl,Antifungal
-1957,Papaverine,Anxiolytic
-1958,Etizolam,Antifungal
-1959,Erythromycin,Anxiolytic
-1960,Griseofulvin,Antifungal
-1961,Eszopiclone,Beta-blocker
-1962,Heparin,Anxiolytic
-1963,Ketorolac,Antifungal
-1964,Terazosin,Anxiolytic
-1965,Ciclesonide,Anxiolytic
-1966,Pentoxifylline,Anxiolytic
-1967,Lactulose,Antifungal
-1968,Polyethylene Glycol,Antifungal
-1969,Serratiopeptidase,Antiviral
-1970,Loratadine,analgesic
-1971,Ketoprofen,Antiviral
-1972,Fluocinolone acetonide,Anxiolytic
-1973,Torasemide,Antiviral
-1974,Raloxifene,Antiviral
-1975,Promethazine,Beta-blocker
-1976,Amisulpride,Beta-blocker
-1977,Fluticasone Propionate,Antiviral
-1978,Sodium Bicarbonate,Antiviral
-1979,Sumatriptan,Antiviral
-1980,Dichlorobenzyl Alcohol,Beta-blocker
-1981,Gemfibrozil,Anxiolytic
-1982,Cefoperazone,Anxiolytic
-1983,Naproxen,Antiviral
-1984,Levocloperastine,Beta-blocker
-1985,Albumin,Anxiolytic
-1986,Torasemide,Beta-blocker
-1987,Glycolic acid,Beta-blocker
-1988,Celecoxib,Antiviral
-1989,Memantine,Anxiolytic
-1990,Calcium Polystyrene Sulphonate,Antiviral
-1991,Nifedipine,Anxiolytic
-1992,Epalrestat,Anxiolytic
-1993,Pirfenidone,Beta-blocker
-1994,Isosorbide Mononitrate,Beta-blocker
-1995,Ebastine,Beta-blocker
-1996,Cisplatin,Antiviral
-1997,Gramicidin,Anxiolytic
-1998,Penicillin G,Beta-blocker
-1999,Isosorbide Mononitrate,Antifungal
-2000,Fenofibrate,Anxiolytic
-2001,Leflunomide,Antiviral
-2002,Procyclidine,Anxiolytic
-2003,Saccharomyces boulardii,Antiviral
-2004,Eicosapentaenoic acid,Antiviral
-2005,Sodium Valproate,Beta-blocker
-2006,Salmeterol,Anxiolytic
-2007,Halobetasol,Beta-blocker
-2008,Myo-Inositol,Anxiolytic
-2009,Norfloxacin,Antifungal
-2010,Gatifloxacin,Antiviral
-2011,Amisulpride,Antiviral
-2012,Alpha Ketoanalogue,Antiviral
-2013,Silver Sulfadiazine,Antifungal
-2014,Climbazole,Anxiolytic
-2015,Pentoxifylline,Antifungal
-2016,Bromfenac,Antifungal
-2017,Mirtazapine,Antiviral
-2018,Nitrazepam,Anxiolytic
-2019,Oxetacaine,Beta-blocker
-2020,L-Arginine,Antiviral
-2021,Glibenclamide,antidiabetic
-2022,Tacrolimus,Beta-blocker
-2023,Dapoxetine,Antiviral
-2024,Cloxacillin,Beta-blocker
-2025,Estradiol,Antiviral
-2026,Megestrol,Antiviral
-2027,Montelukast,Beta-blocker
-2028,Sterile Water,Antifungal
-2029,Clopidogrel,Antiviral
-2030,Sodium Citrate,Beta-blocker
-2031,Proparacaine,Anxiolytic
-2032,Glycolic acid,Antifungal
-2033,Cinnarizine,Beta-blocker
-2034,Cilostazol,Anxiolytic
-2035,Valdecoxib,Antifungal
-2036,Methoxsalen,Antifungal
-2037,Doxepin,Beta-blocker
-2038,Fibrinogen,Anxiolytic
-2039,Donepezil,Antifungal
-2040,Silodosin,Anxiolytic
-2041,Roflumilast,Antifungal
-2042,Anti Rh D Immunoglobulin,Antiviral
-2043,Gentamicin,corticosteroid
-2044,Chloroquine,Anxiolytic
-2045,Nimodipine,Anxiolytic
-2046,Chondroitin,Beta-blocker
-2047,Cinitapride,Beta-blocker
-2048,Alprazolam,Anxiolytic
-2049,Human insulin,Beta-blocker
-2050,Thyroxine,Antifungal
-2051,Lansoprazole,Antifungal
-2052,Fluphenazine,Beta-blocker
-2053,Ticagrelor,Anxiolytic
-2054,Aprepitant,Anxiolytic
-2055,Ivabradine,Antifungal
-2056,Choline,Beta-blocker
-2057,Sultamicillin tosilate,Antifungal
-2058,Quinine,Beta-blocker
-2059,Melphalan,Antiviral
-2060,Sucralfate,antacid
-2061,Polio Vaccine,Beta-blocker
-2062,Medroxyprogesterone acetate,Antiviral
-2063,Insulin Aspart,Beta-blocker
-2064,Clobazam,Antifungal
-2065,Loxapine,Beta-blocker
-2066,Clobazam,Anxiolytic
-2067,Penicillamine,Beta-blocker
-2068,Haloperidol,Antiviral
-2069,Alpha Lipoic Acid,Anxiolytic
-2070,Calcitonin,Beta-blocker
-2071,Valdecoxib,Beta-blocker
-2072,Perindopril erbumine,Antiviral
-2073,Flavoxate,Anxiolytic
-2074,Miconazole,Beta-blocker
-2075,Hydroxychloroquine,Beta-blocker
-2076,Nandrolone Decanoate,Anxiolytic
-2077,Apixaban,Antifungal
-2078,Dimethindene,Anxiolytic
-2079,Triamcinolone Acetonide,Antiviral
-2080,Ritonavir,Anxiolytic
-2081,Neomycin,Antifungal
-2082,Silymarin,Antifungal
+761,Oxymetazoline,Beta-blocker
+762,Phenazopyridine,Beta-blocker
+763,Ciclesonide,Antiviral
+764,Cilostazol,Antifungal
+765,Levetiracetam,Anxiolytic
+766,Bromocriptine,Antifungal
+767,Fluoxetine,Antiviral
+768,Isotretinoin,Anxiolytic
+769,Deflazacort,Anxiolytic
+770,Sodium Valproate,Anxiolytic
+771,Chlordiazepoxide,Anxiolytic
+772,Luliconazole,Antiviral
+773,Acyclovir,Antifungal
+774,Vinpocetine,Antifungal
+775,Ramipril,Antifungal
+776,Griseofulvin,Antifungal
+777,Pancreatin,Beta-blocker
+778,Faropenem,Beta-blocker
+779,Etoricoxib,Antiviral
+780,Carbamazepine,Beta-blocker
+781,Ticagrelor,Antifungal
+782,Sunitinib,Antiviral
+783,Bilastine,Antiviral
+784,Levofloxacin,Antiviral
+785,Fenofibrate,Anxiolytic
+786,Minoxidil,Beta-blocker
+787,Tamsulosin,Beta-blocker
+788,Ginkgo Biloba,Antifungal
+789,Glipizide,Antiviral
+790,Povidone Iodine,Anxiolytic
+791,Secnidazole,Beta-blocker
+792,Permethrin,Antifungal
+793,Rabies vaccine,Antifungal
+794,Albendazole,Antiviral
+795,Chlordiazepoxide,Antiviral
+796,Empagliflozin,Anxiolytic
+797,Fusidic Acid,Antifungal
+798,Pramoxine,Antifungal
+799,Doxofylline,Beta-blocker
+800,Lercanidipine,Beta-blocker
+801,Ceftriaxone,antibiotic
+802,Carbamazepine,Anxiolytic
+803,Chlorhexidine Gluconate,Beta-blocker
+804,Gabapentin,Anxiolytic
+805,Clarithromycin,Beta-blocker
+806,Xylometazoline,Beta-blocker
+807,Abacavir,Antifungal
+808,Carvedilol,Antiviral
+809,Gabapentin,analgesic
+810,Oxymetazoline,Antifungal
+811,Polyethylene Glycol,Antifungal
+812,Azilsartan medoxomil,Antiviral
+813,Moxifloxacin,Anxiolytic
+814,Sodium Chloride,Antifungal
+815,Ribavirin,Beta-blocker
+816,Prochlorperazine,Antiviral
+817,Etodolac,Anxiolytic
+818,Ethionamide,Anxiolytic
+819,Roxithromycin,Beta-blocker
+820,Olopatadine,Antifungal
+821,Fluoxetine,Anxiolytic
+822,Diethylcarbamazine,Antiviral
+823,Terbinafine,Antifungal
+824,Tacrolimus,Antifungal
+825,Sultamicillin tosilate,Antiviral
+826,Azelastine,Beta-blocker
+827,Nicotine,Antiviral
+828,Trifluoperazine,Beta-blocker
+829,Sevoflurane,Antiviral
+830,Hydrocortisone,Anxiolytic
+831,Methylcobalamin,Anxiolytic
+832,Sertraline,antidepressant
+833,Sultamicillin tosilate,Anxiolytic
+834,Iron,Beta-blocker
+835,Solifenacin,Antiviral
+836,Adapalene,Antifungal
+837,Repaglinide,antidiabetic
+838,Chlorhexidine Gluconate,Antiviral
+839,Gramicidin,Antifungal
+840,Isoxsuprine,Anxiolytic
+841,Glycolic acid,Antiviral
+842,Clonazepam,Antiviral
+843,Clozapine,Antiviral
+844,Pyrazinamide,Antifungal
+845,Oxytetracycline,Antiviral
+846,Citicoline,Anxiolytic
+847,Lidocaine,Antiviral
+848,Mebeverine,Antiviral
+849,Tolperisone,Beta-blocker
+850,Lactulose,Beta-blocker
+851,Amlexanox,Anxiolytic
+852,Mupirocin,Beta-blocker
+853,Carbimazole,Anxiolytic
+854,Chloroquine,Anxiolytic
+855,Menadione,Antiviral
+856,Calcitonin,Antiviral
+857,Tadalafil,Antifungal
+858,Insulin Isophane/NPH,Anxiolytic
+859,Ciclosporin,Beta-blocker
+860,Metamizole,Anxiolytic
+861,Clobazam,Anxiolytic
+862,Dapoxetine,Antiviral
+863,Flupirtine,Beta-blocker
+864,Ketoprofen,Antifungal
+865,Polio Vaccine,Beta-blocker
+866,L-Methyl Folate,Antifungal
+867,Citicoline,Antiviral
+868,Bepotastine,Antiviral
+869,Liquid Paraffin,Antifungal
+870,Levosulpiride,Anxiolytic
+871,Promethazine,Antifungal
+872,Granisetron,Antifungal
+873,Artemether,Anxiolytic
+874,Eicosapentaenoic acid,Anxiolytic
+875,Desvenlafaxine,Beta-blocker
+876,Tamoxifen,Beta-blocker
+877,Clomiphene,Antifungal
+878,Pentoxifylline,Antiviral
+879,Dapagliflozin,antidiabetic
+880,Human insulin,Antifungal
+881,Progesterone,Anxiolytic
+882,Carboxymethylcellulose,Beta-blocker
+883,Amorolfine,Beta-blocker
+884,Mycophenolate mofetil,Antiviral
+885,Imipramine,Beta-blocker
+886,Chloroquine,Antiviral
+887,Desvenlafaxine,Antifungal
+888,Acetylcysteine,Anxiolytic
+889,Amylmetacresol,Beta-blocker
+890,Clobazam,Antiviral
+891,Sodium Hyaluronate,Antifungal
+892,Minoxidil,Anxiolytic
+893,Bosentan,Antiviral
+894,Pseudoephedrine,antihistamine
+895,Aripiprazole,Antifungal
+896,Methotrexate,Antifungal
+897,Trifluoperazine,Antifungal
+898,Ciclesonide,Antifungal
+899,Vildagliptin,Antiviral
+900,Vitamin C,Beta-blocker
+901,Stavudine,Antifungal
+902,Tolperisone,Anxiolytic
+903,Isoxsuprine,Antiviral
+904,Lactobacillus Sporogenes,Beta-blocker
+905,Domperidone,Anxiolytic
+906,Trimetazidine,Antifungal
+907,Aprepitant,Anxiolytic
+908,Doxepin,Antifungal
+909,Donepezil,Beta-blocker
+910,Ferrous Ascorbate,Antiviral
+911,Timolol,Beta-blocker
+912,Pyrimethamine,Beta-blocker
+913,Tobramycin,Beta-blocker
+914,Flutamide,Antiviral
+915,Glibenclamide,Beta-blocker
+916,Dinoprostone,Beta-blocker
+917,Doxylamine,Beta-blocker
+918,Zinc acetate,Beta-blocker
+919,Epinastine,Antifungal
+920,Acyclovir,Antiviral
+921,Levamisole,Antiviral
+922,Imipramine,Antifungal
+923,Celecoxib,Antiviral
+924,Memantine,Beta-blocker
+925,Fusidic Acid,Beta-blocker
+926,Anastrozole,Beta-blocker
+927,Sodium Bicarbonate,Antiviral
+928,Favipiravir,Antifungal
+929,Triclofos,Beta-blocker
+930,Domperidone,Antiviral
+931,Doxofylline,Antifungal
+932,Capecitabine,Antiviral
+933,Paroxetine,Antiviral
+934,Methylergometrine,Anxiolytic
+935,Piroxicam,Antifungal
+936,Clindamycin,Anxiolytic
+937,Lymecycline,Antiviral
+938,Sodium Chloride,Antiviral
+939,Divalproex,Antifungal
+940,Choline Salicylate,Antiviral
+941,Nitroglycerin,Antifungal
+942,Digoxin,Anxiolytic
+943,Tricholine Citrate,Antiviral
+944,Xylometazoline,Anxiolytic
+945,Imipramine,Anxiolytic
+946,Ethamsylate,Beta-blocker
+947,Lysine,Antiviral
+948,Sildenafil,Beta-blocker
+949,Coenzyme Q10,Antifungal
+950,Cilnidipine,Antiviral
+951,Cyclopentolate,Antiviral
+952,Ambroxol,Antiviral
+953,Acebrophylline,Beta-blocker
+954,Roxatidine,Anxiolytic
+955,Imipenem,Antiviral
+956,Nitrazepam,Antiviral
+957,Rosuvastatin,Antiviral
+958,Imipramine,Antiviral
+959,Dehydroepiandrosterone,Antifungal
+960,Hydroxypropylmethylcellulose,Antifungal
+961,Eplerenone,Antiviral
+962,Calcium,Beta-blocker
+963,Prednisolone,corticosteroid
+964,Chloramphenicol,Antifungal
+965,Clindamycin,Antiviral
+966,Pyrantel Pamoate,Antiviral
+967,Obeticholic acid,Antiviral
+968,Isotretinoin,Antifungal
+969,Methoxsalen,Beta-blocker
+970,Caffeine,Antifungal
+971,Pregabalin,Antiviral
+972,Phenylephrine,corticosteroid
+973,Ketorolac,Antiviral
+974,Colistimethate Sodium,Antiviral
+975,Cilnidipine,Beta-blocker
+976,Tetracycline,Antifungal
+977,Betamethasone,Beta-blocker
+978,Benzoyl Peroxide,Anxiolytic
+979,Pyrimethamine,Antiviral
+980,Human insulin,Beta-blocker
+981,Lactitol,Beta-blocker
+982,Pancreatin,Antifungal
+983,Eperisone,analgesic
+984,Gliclazide,Beta-blocker
+985,Climbazole,Antiviral
+986,Letrozole,Beta-blocker
+987,Aspirin,Beta-blocker
+988,Carbamazepine,Antifungal
+989,Allopurinol,Anxiolytic
+990,Ketoconazole,Antifungal
+991,Nicorandil,Anxiolytic
+992,Clomiphene,Anxiolytic
+993,Ibandronic Acid,Beta-blocker
+994,Polystyrene Sulfonate,Antiviral
+995,Oxcarbazepine,Beta-blocker
+996,Triclosan,Beta-blocker
+997,Sodium Picosulfate,Antifungal
+998,Ethylmorphine,Anxiolytic
+999,Risedronate,Antifungal
+1000,Pramoxine,Anxiolytic
+1001,Divalproex,Anxiolytic
+1002,Glucosamine,Anxiolytic
+1003,Nimodipine,Anxiolytic
+1004,Levonorgestrel,Antifungal
+1005,Etofylline,bronchodilator
+1006,Sulfamethoxazole,Anxiolytic
+1007,Sevelamer,Antiviral
+1008,Brivaracetam,Beta-blocker
+1009,Doxofylline,bronchodilator
+1010,Valproic Acid,Anxiolytic
+1011,Tranylcypromine,Beta-blocker
+1012,Dimenhydrinate,Antiviral
+1013,Guaifenesin,bronchodilator
+1014,Doripenem,Antiviral
+1015,Chlorpromazine,Beta-blocker
+1016,Nicergoline,Anxiolytic
+1017,Perindopril erbumine,Antiviral
+1018,Gemifloxacin,Antifungal
+1019,Bicalutamide,Antiviral
+1020,Norethisterone,Anxiolytic
+1021,Cytarabine,Antiviral
+1022,Dasatinib,Antifungal
+1023,Isoniazid,Beta-blocker
+1024,Disulfiram,Anxiolytic
+1025,Fusidic Acid,Anxiolytic
+1026,Alpha Ketoanalogue,Anxiolytic
+1027,Cetrimide,Anxiolytic
+1028,Methotrexate,Beta-blocker
+1029,Adrenaline,Beta-blocker
+1030,Nitroglycerin,Antiviral
+1031,Clarithromycin,Antifungal
+1032,Clonazepam,Anxiolytic
+1033,Ketoprofen,Anxiolytic
+1034,Gatifloxacin,Antiviral
+1035,Deflazacort,Beta-blocker
+1036,Oxytocin,Antifungal
+1037,Tretinoin,Antifungal
+1038,Dextrose,Antifungal
+1039,Orlistat,Anxiolytic
+1040,Brimonidine,Antifungal
+1041,Trifluoperazine,Antiviral
+1042,Hyaluronic Acid,Antifungal
+1043,Cycloserine,Antifungal
+1044,Lisinopril,Beta-blocker
+1045,Paclitaxel,Beta-blocker
+1046,Pioglitazone,Anxiolytic
+1047,Primaquine,Antifungal
+1048,Methyldopa,Beta-blocker
+1049,Sucralfate,Antiviral
+1050,Flunarizine,Antiviral
+1051,Cefuroxime,Anxiolytic
+1052,Apixaban,Anxiolytic
+1053,Triamcinolone,Antifungal
+1054,Cinitapride,antacid
+1055,Cilnidipine,antihypertensive
+1056,Budesonide,Anxiolytic
+1057,Moxonidine,Anxiolytic
+1058,Sofosbuvir,Antiviral
+1059,Furazolidone,Beta-blocker
+1060,Ambroxol,bronchodilator
+1061,Calcium citrate,Beta-blocker
+1062,Diloxanide,Antifungal
+1063,Hydroxypropylmethylcellulose,Antiviral
+1064,Clidinium,Beta-blocker
+1065,Propranolol,Beta-blocker
+1066,Guaifenesin,Anxiolytic
+1067,Topiramate,Beta-blocker
+1068,Dapoxetine,Beta-blocker
+1069,Mesalazine,Antiviral
+1070,Megestrol,Antiviral
+1071,Diltiazem,Antifungal
+1072,Cefotaxime,Antifungal
+1073,Dithranol,Beta-blocker
+1074,Betahistine,Antiviral
+1075,Dichlorobenzyl Alcohol,Anxiolytic
+1076,Ibuprofen,Beta-blocker
+1077,Oxetacaine,Beta-blocker
+1078,Mycophenolate mofetil,Beta-blocker
+1079,Valsartan,Antifungal
+1080,Tacrolimus,Anxiolytic
+1081,Mifepristone,Beta-blocker
+1082,Coal Tar,Anxiolytic
+1083,Ropinirole,Beta-blocker
+1084,Sodium Fusidate,Beta-blocker
+1085,Cefpodoxime Proxetil,Anxiolytic
+1086,Trypsin Chymotrypsin,Beta-blocker
+1087,Bisacodyl,Beta-blocker
+1088,Cefoperazone,Antifungal
+1089,Benidipine,Antifungal
+1090,Pidotimod,Antifungal
+1091,Clotrimazole,Antifungal
+1092,Cabergoline,Antiviral
+1093,Adapalene,Antiviral
+1094,Calcium,Anxiolytic
+1095,Primidone,Anxiolytic
+1096,Ambroxol,antihistamine
+1097,Chloroquine,Antifungal
+1098,Bisacodyl,Anxiolytic
+1099,Ethambutol,Antiviral
+1100,Imipenem,Anxiolytic
+1101,Epalrestat,Antiviral
+1102,Dapagliflozin,Antifungal
+1103,Divalproex,Antiviral
+1104,Potassium Nitrate,Antiviral
+1105,Rizatriptan,Antifungal
+1106,Moxifloxacin,Antifungal
+1107,Chondroitin,Beta-blocker
+1108,Etizolam,Antiviral
+1109,Pseudoephedrine,Antifungal
+1110,Nitazoxanide,Anxiolytic
+1111,Torasemide,Antiviral
+1112,Lamivudine,Antiviral
+1113,Psoralen,Anxiolytic
+1114,Tretinoin,Anxiolytic
+1115,Loratadine,Anxiolytic
+1116,Proanthocyanidin,Antiviral
+1117,Divalproex,Beta-blocker
+1118,Brimonidine,Antiviral
+1119,Benzocaine,Beta-blocker
+1120,Insulin Glargine,Beta-blocker
+1121,Nicotine,Antifungal
+1122,Procyclidine,Antiviral
+1123,Dulaglutide,Beta-blocker
+1124,Amorolfine,Antiviral
+1125,Glucosamine,Antiviral
+1126,Efonidipine,Antiviral
+1127,Zolpidem,Anxiolytic
+1128,Nimodipine,Antiviral
+1129,Phenytoin,Antiviral
+1130,Azilsartan medoxomil,Antifungal
+1131,Vildagliptin,Beta-blocker
+1132,Minocycline,Beta-blocker
+1133,Ambroxol,Anxiolytic
+1134,Cyproheptadine,Antiviral
+1135,Lamotrigine,Beta-blocker
+1136,Hydroxychloroquine,Antiviral
+1137,Roxithromycin,Anxiolytic
+1138,Lansoprazole,Anxiolytic
+1139,Salicylic Acid,Beta-blocker
+1140,Sotalol,Anxiolytic
+1141,Metamizole,Beta-blocker
+1142,Digoxin,Antifungal
+1143,Mebeverine,Antifungal
+1144,Primaquine,Beta-blocker
+1145,Griseofulvin,Antiviral
+1146,Loteprednol etabonate,Antiviral
+1147,Clindamycin,Beta-blocker
+1148,Fluticasone Propionate,Anxiolytic
+1149,Paradichlorobenzene,Beta-blocker
+1150,Mesalazine,Anxiolytic
+1151,Chloramphenicol,Anxiolytic
+1152,Guaifenesin,Beta-blocker
+1153,Mefenamic Acid,Antiviral
+1154,Pioglitazone,Beta-blocker
+1155,Furosemide,diuretic
+1156,Doxepin,Beta-blocker
+1157,Simethicone,Antiviral
+1158,Albumin,Antiviral
+1159,Dosulepin,Antifungal
+1160,Ranolazine,Antiviral
+1161,Colistin Sulphate,Anxiolytic
+1162,Methylergometrine,Beta-blocker
+1163,Donepezil,Antifungal
+1164,Thalidomide,Antifungal
+1165,Etofylline,Antiviral
+1166,Flunarizine,Antifungal
+1167,Trypsin Chymotrypsin,Antifungal
+1168,Acyclovir,Anxiolytic
+1169,Estradiol,Beta-blocker
+1170,Faropenem,Antiviral
+1171,Mirtazapine,Beta-blocker
+1172,Thyroxine,Anxiolytic
+1173,Metronidazole,Anxiolytic
+1174,Trypsin Chymotrypsin,Anxiolytic
+1175,Cefalexin,Beta-blocker
+1176,Chlorhexidine Gluconate,Antifungal
+1177,Mefloquine,Antifungal
+1178,Levosulpiride,antacid
+1179,Ampicillin,Antiviral
+1180,Eptifibatide,Anxiolytic
+1181,S-Amlodipine,antihypertensive
+1182,Erythromycin,Anxiolytic
+1183,Methoxsalen,Anxiolytic
+1184,Sodium Valproate,Antiviral
+1185,Meropenem,Beta-blocker
+1186,Ornidazole,Beta-blocker
+1187,Calcium Dobesilate,Beta-blocker
+1188,Mebeverine,Beta-blocker
+1189,Magaldrate,Antiviral
+1190,Fusidic Acid,Antiviral
+1191,Human chorionic gonadotropin,Beta-blocker
+1192,Trypsin,Anxiolytic
+1193,Choline,Beta-blocker
+1194,Folic Acid,Antiviral
+1195,Drotaverine,analgesic
+1196,Glucosamine,Beta-blocker
+1197,Flupenthixol,Beta-blocker
+1198,Choline Salicylate,Beta-blocker
+1199,Dexamethasone,corticosteroid
+1200,Ezetimibe,Antiviral
+1201,Silodosin,Anxiolytic
+1202,Trihexyphenidyl,Anxiolytic
+1203,Finasteride,Antifungal
+1204,Ivabradine,Antiviral
+1205,Vitamin D3,Anxiolytic
+1206,L-Arginine,Beta-blocker
+1207,Povidone Iodine,Beta-blocker
+1208,Plerixafor,Beta-blocker
+1209,Tramadol,Antiviral
+1210,Fentanyl,Antiviral
+1211,Norfloxacin,Beta-blocker
+1212,Cabergoline,Anxiolytic
+1213,Eszopiclone,Anxiolytic
+1214,Mupirocin,Antiviral
+1215,Benzydamine,Antifungal
+1216,Tretinoin,Beta-blocker
+1217,Lornoxicam,Anxiolytic
+1218,L-Ornithine L-Aspartate,Anxiolytic
+1219,Mometasone,Anxiolytic
+1220,Carboxymethylcellulose,Anxiolytic
+1221,Citalopram,Antiviral
+1222,Cabergoline,Beta-blocker
+1223,Teicoplanin,Antifungal
+1224,Metoprolol Tartrate,Anxiolytic
+1225,Ornidazole,Anxiolytic
+1226,Dienogest,Anxiolytic
+1227,Enalapril,Antiviral
+1228,Clonazepam,Beta-blocker
+1229,Labetalol,Antifungal
+1230,Miconazole,Antifungal
+1231,Sodium Picosulfate,Anxiolytic
+1232,Cyproheptadine,Beta-blocker
+1233,Cyproheptadine,Anxiolytic
+1234,Betamethasone,Antiviral
+1235,Racecadotril,Anxiolytic
+1236,Sertaconazole,corticosteroid
+1237,Sucralfate,antacid
+1238,Hyaluronic Acid,Beta-blocker
+1239,Clobetasol,Anxiolytic
+1240,Piracetam,Antifungal
+1241,Choline,Antifungal
+1242,Magnesium Sulphate,Antiviral
+1243,Levofloxacin,Anxiolytic
+1244,Nicorandil,Antifungal
+1245,Valproic Acid,Antifungal
+1246,Propranolol,Antiviral
+1247,Silodosin,Beta-blocker
+1248,Trypsin,Beta-blocker
+1249,Zolpidem,Beta-blocker
+1250,Cadexomer Iodine,Anxiolytic
+1251,Buprenorphine,Anxiolytic
+1252,Dicyclomine,Beta-blocker
+1253,Cefepime,Antifungal
+1254,Simvastatin,Anxiolytic
+1255,Dehydroepiandrosterone,Anxiolytic
+1256,Polyethylene Glycol,Anxiolytic
+1257,Caffeine,Beta-blocker
+1258,Taurine,Antifungal
+1259,Flunarizine,Beta-blocker
+1260,Pimozide,Antifungal
+1261,Permethrin,Anxiolytic
+1262,Metoclopramide,analgesic
+1263,Ferrous Ascorbate,Beta-blocker
+1264,Diazepam,Antiviral
+1265,Climbazole,Anxiolytic
+1266,Fluconazole,Anxiolytic
+1267,Taurine,Anxiolytic
+1268,Valsartan,Beta-blocker
+1269,Ibandronic Acid,Antiviral
+1270,Epinastine,Anxiolytic
+1271,Clemastine,Antifungal
+1272,Amlexanox,Beta-blocker
+1273,Ethinyl Estradiol,Antifungal
+1274,Dosulepin,Anxiolytic
+1275,Clomipramine,Anxiolytic
+1276,Tamsulosin,Anxiolytic
+1277,Xylometazoline,Antifungal
+1278,Ursodeoxycholic Acid,Beta-blocker
+1279,Cefalexin,Antiviral
+1280,Lindane,Anxiolytic
+1281,Trazodone,Antiviral
+1282,Fluconazole,antibiotic
+1283,Mometasone,Antifungal
+1284,Gliclazide,Antiviral
+1285,Miconazole,Antiviral
+1286,Prochlorperazine,Anxiolytic
+1287,Loxapine,Anxiolytic
+1288,Thyroxine,Beta-blocker
+1289,Levamisole,Beta-blocker
+1290,Psoralen,Antifungal
+1291,Azelastine,Antiviral
+1292,Atropine,Anxiolytic
+1293,Ulipristal acetate,Anxiolytic
+1294,Topiramate,Anxiolytic
+1295,Dimethindene,Anxiolytic
+1296,Nepafenac,Antifungal
+1297,Fluoxetine,Antifungal
+1298,Hepatitis B Vaccine,Beta-blocker
+1299,Flupenthixol,Antifungal
+1300,Arteether,Beta-blocker
+1301,Nalidixic Acid,Beta-blocker
+1302,Pirfenidone,Anxiolytic
+1303,Rifampicin,Anxiolytic
+1304,Prochlorperazine,Beta-blocker
+1305,Naproxen,Anxiolytic
+1306,Olopatadine,Beta-blocker
+1307,Erlotinib,Antifungal
+1308,Tricholine Citrate,Antifungal
+1309,Roflumilast,Anxiolytic
+1310,Mirabegron,Beta-blocker
+1311,Vitamin C,Antiviral
+1312,Pentoxifylline,Antifungal
+1313,Serratiopeptidase,Antiviral
+1314,Alfuzosin,Antiviral
+1315,Tropicamide,Anxiolytic
+1316,Sildenafil,Antifungal
+1317,Hydroxyprogesterone,Antiviral
+1318,Moxonidine,Antifungal
+1319,Cyclopentolate,Beta-blocker
+1320,Doxofylline,Antiviral
+1321,Glutathione,Antifungal
+1322,Secnidazole,Anxiolytic
+1323,Benzthiazide,Beta-blocker
+1324,Glycerin,Anxiolytic
+1325,Silodosin,Antiviral
+1326,Candesartan,Beta-blocker
+1327,Teneligliptin,Beta-blocker
+1328,Teneligliptin,Antiviral
+1329,Dopamine,Anxiolytic
+1330,Pyrantel Pamoate,Antifungal
+1331,Flunarizine,Anxiolytic
+1332,Teriparatide,Anxiolytic
+1333,Darbepoetin alfa,Antiviral
+1334,Tolterodine,Antiviral
+1335,Olanzapine,Antifungal
+1336,Tetracycline,Anxiolytic
+1337,Orlistat,Beta-blocker
+1338,Roxithromycin,Antifungal
+1339,Potassium Nitrate,Beta-blocker
+1340,Buclizine,Beta-blocker
+1341,Calcium Dobesilate,Antiviral
+1342,Alpha-galactosidase,Beta-blocker
+1343,Formoterol,Antiviral
+1344,Ammonium Chloride,Antiviral
+1345,Olmesartan Medoxomil,Anxiolytic
+1346,Prulifloxacin,Beta-blocker
+1347,Hydroxyzine,Antifungal
+1348,Azathioprine,Antifungal
+1349,Acebrophylline,Anxiolytic
+1350,Clioquinol,Anxiolytic
+1351,Dichlorobenzyl Alcohol,Beta-blocker
+1352,Phenylephrine,bronchodilator
+1353,Diosmin,Beta-blocker
+1354,Clonazepam,Antifungal
+1355,Azelaic Acid,Anxiolytic
+1356,Ceftazidime,Beta-blocker
+1357,Calcitonin,Beta-blocker
+1358,Balofloxacin,Anxiolytic
+1359,Metoprolol Tartrate,Beta-blocker
+1360,Ampicillin,Beta-blocker
+1361,Topiramate,Antifungal
+1362,Benzocaine,Antiviral
+1363,Extractum Cepae-Cepalin,Antifungal
+1364,Eplerenone,Beta-blocker
+1365,Fluconazole,Antifungal
+1366,Primaquine,Antiviral
+1367,Misoprostol,Antiviral
+1368,Naproxen,Antifungal
+1369,Secnidazole,Antiviral
+1370,Magnesium Citrate,Antiviral
+1371,Halobetasol,Antiviral
+1372,Indomethacin,Beta-blocker
+1373,Mirtazapine,Antiviral
+1374,Oxaliplatin,Anxiolytic
+1375,Darifenacin,Anxiolytic
+1376,Luliconazole,Beta-blocker
+1377,Apixaban,Beta-blocker
+1378,Oxaliplatin,Antiviral
+1379,Loratadine,Antifungal
+1380,Alpha-Beta Arteether,Anxiolytic
+1381,Fluvoxamine,Beta-blocker
+1382,Montelukast,Beta-blocker
+1383,Nortriptyline,Antifungal
+1384,Enzalutamide,Anxiolytic
+1385,Saxagliptin,Anxiolytic
+1386,Desmopressin,Antiviral
+1387,Phytomenadione,Beta-blocker
+1388,Bromelain,Anxiolytic
+1389,Sisomicin,Anxiolytic
+1390,Acarbose,Beta-blocker
+1391,Gemfibrozil,Anxiolytic
+1392,Calcium Carbonate,Anxiolytic
+1393,Alpha glycerylphosphorylcholine,Beta-blocker
+1394,Enalapril,Anxiolytic
+1395,Risperidone,Antiviral
+1396,Desonide,Anxiolytic
+1397,Erlotinib,Antiviral
+1398,Simethicone,Antifungal
+1399,Labetalol,Anxiolytic
+1400,Calcipotriol,Anxiolytic
+1401,Indomethacin,Anxiolytic
+1402,Aspirin,Antiviral
+1403,Caffeine,Antiviral
+1404,Budesonide,Antiviral
+1405,Cyclobenzaprine,Antiviral
+1406,Sulfadiazine,Beta-blocker
+1407,Triptorelin,Beta-blocker
+1408,Irinotecan,Beta-blocker
+1409,Evening Primrose Oil,Beta-blocker
+1410,Dexchlorpheniramine,antihistamine
+1411,Ketoconazole,corticosteroid
+1412,Rifaximin,Anxiolytic
+1413,Dabigatran Etexilate,Antiviral
+1414,Finasteride,Antiviral
+1415,Quinine,Beta-blocker
+1416,Atropine,Antiviral
+1417,Cinnarizine,Antifungal
+1418,Gabapentin,Antiviral
+1419,Caffeine,Anxiolytic
+1420,Sodium Fusidate,Antifungal
+1421,Sodium Citrate,Beta-blocker
+1422,Bupropion,Antiviral
+1423,Linezolid,Anxiolytic
+1424,Quetiapine,Antiviral
+1425,Idebenone,Antifungal
+1426,Codeine,Anxiolytic
+1427,Chlorthalidone,Anxiolytic
+1428,Ilaprazole,Anxiolytic
+1429,Dehydroepiandrosterone,Antiviral
+1430,Metoprolol Tartrate,Antiviral
+1431,Ketamine,Beta-blocker
+1432,Mebeverine,Anxiolytic
+1433,Fenofibrate,Antiviral
+1434,Flupenthixol,Anxiolytic
+1435,Potassium Nitrate,Antifungal
+1436,Emtricitabine,Beta-blocker
+1437,Calcipotriol,Antifungal
+1438,Flupenthixol,Antiviral
+1439,Faropenem,Anxiolytic
+1440,Hydroxyurea,Beta-blocker
+1441,Stanozolol,Anxiolytic
+1442,Griseofulvin,Beta-blocker
+1443,Cefaclor,Beta-blocker
+1444,Griseofulvin,Anxiolytic
+1445,Methotrexate,Anxiolytic
+1446,Olopatadine,Antiviral
+1447,Calcium,Antifungal
+1448,Anti Rh D Immunoglobulin,Antiviral
+1449,Minocycline,Antifungal
+1450,Cefalexin,Anxiolytic
+1451,Triprolidine,Antifungal
+1452,Apremilast,Antiviral
+1453,Tolnaftate,Antiviral
+1454,Hydrogen Peroxide,Antiviral
+1455,Trioxasalen,Antifungal
+1456,Calcitriol,Antifungal
+1457,Risedronate,Anxiolytic
+1458,Nebivolol,Beta-blocker
+1459,Bromhexine,Antiviral
+1460,Tramadol,Beta-blocker
+1461,Lacosamide,Anxiolytic
+1462,Ketorolac,Anxiolytic
+1463,Prazosin,Antifungal
+1464,Sucralfate,Antifungal
+1465,Midodrine,Antiviral
+1466,Inactivated influenza vaccine,Antifungal
+1467,Fenticonazole,Antiviral
+1468,Lansoprazole,Antifungal
+1469,Clozapine,Beta-blocker
+1470,Bivalirudin,Antiviral
+1471,Etoposide,Antiviral
+1472,Methoxsalen,Antifungal
+1473,Irbesartan,diuretic
+1474,Propranolol,Antifungal
+1475,Ketoprofen,Beta-blocker
+1476,Seratrodast,Beta-blocker
+1477,Favipiravir,Anxiolytic
+1478,Gemfibrozil,Antiviral
+1479,Olanzapine,Anxiolytic
+1480,Capecitabine,Beta-blocker
+1481,Vitamin E,Beta-blocker
+1482,Famotidine,Antiviral
+1483,Perampanel,Antifungal
+1484,Dutasteride,Antiviral
+1485,Lornoxicam,Beta-blocker
+1486,Clidinium,Antiviral
+1487,Vitamin D3,Antifungal
+1488,Hemocoagulase,Anxiolytic
+1489,Hepatitis B Vaccine,Anxiolytic
+1490,Montelukast,Anxiolytic
+1491,Ciclopirox,Antiviral
+1492,Felodipine,Antiviral
+1493,Almotriptan,Beta-blocker
+1494,Levosulpiride,Beta-blocker
+1495,Acarbose,Antiviral
+1496,Vitamin D3,Beta-blocker
+1497,Lactitol,Anxiolytic
+1498,Polystyrene Sulfonate,Anxiolytic
+1499,Benidipine,Beta-blocker
+1500,Ofloxacin,corticosteroid
+1501,Mupirocin,Anxiolytic
+1502,Desloratadine,Anxiolytic
+1503,Irbesartan,Antiviral
+1504,Racecadotril,Antifungal
+1505,Nifedipine,Beta-blocker
+1506,Tranexamic Acid,Beta-blocker
+1507,Glipizide,Beta-blocker
+1508,Betahistine,Antifungal
+1509,Azelastine,Antifungal
+1510,Artemether,Beta-blocker
+1511,Teneligliptin,Antifungal
+1512,Tetracycline,Beta-blocker
+1513,Colistin Sulphate,Antifungal
+1514,Sucralfate,Beta-blocker
+1515,Dulaglutide,Anxiolytic
+1516,Fluorometholone,Antifungal
+1517,n-Butyl-2-cyanoacrylate,Antifungal
+1518,Cilnidipine,Antifungal
+1519,Oxcarbazepine,Antifungal
+1520,Ozenoxacin,Antifungal
+1521,Naproxen,Antiviral
+1522,Clobazam,Antifungal
+1523,Desonide,Beta-blocker
+1524,Lorazepam,Anxiolytic
+1525,Chloramphenicol,corticosteroid
+1526,Human chorionic gonadotropin,Anxiolytic
+1527,Fluorometholone,Beta-blocker
+1528,Tolperisone,Antiviral
+1529,Hemocoagulase,Beta-blocker
+1530,L-Methyl Folate,Anxiolytic
+1531,Salmeterol,Anxiolytic
+1532,Sevoflurane,Antifungal
+1533,Hydroxychloroquine,Antifungal
+1534,Triclofos,Antiviral
+1535,Bifonazole,Anxiolytic
+1536,Trihexyphenidyl,Antiviral
+1537,Acetazolamide,Antifungal
+1538,Capecitabine,Anxiolytic
+1539,Amikacin,Antiviral
+1540,Gabapentin,antidepressant
+1541,Glibenclamide,Antifungal
+1542,Cabergoline,Antifungal
+1543,Levofloxacin,antibiotic
+1544,Ulipristal acetate,Antiviral
+1545,Salmeterol,Antifungal
+1546,Saccharomyces boulardii,Antiviral
+1547,Tizanidine,Antifungal
+1548,Allantoin,Antifungal
+1549,Climbazole,Antifungal
+1550,Flupirtine,Antifungal
+1551,Potassium Citrate,Anxiolytic
+1552,Valsartan,Anxiolytic
+1553,Tadalafil,Beta-blocker
+1554,Desloratadine,Antifungal
+1555,Magaldrate,Anxiolytic
+1556,Sildenafil,Antiviral
+1557,Acetylcysteine,Antifungal
+1558,Eberconazole,Anxiolytic
+1559,Primidone,Antifungal
+1560,Iso Amyl 2-Cynoacrylate,Antifungal
+1561,Ethylmorphine,Antifungal
+1562,Nitrofurantoin,Antiviral
+1563,Desidustat,Antifungal
+1564,Deca Peptide,Beta-blocker
+1565,Venlafaxine,Antifungal
+1566,Prasugrel,Antifungal
+1567,Rosuvastatin,Beta-blocker
+1568,Permethrin,Beta-blocker
+1569,Lactobacillus,Beta-blocker
+1570,Cefpodoxime Proxetil,Beta-blocker
+1571,Aprepitant,Beta-blocker
+1572,Artesunate,Antifungal
+1573,Naphazoline,antihistamine
+1574,Desvenlafaxine,Anxiolytic
+1575,Cefotaxime,Beta-blocker
+1576,Nebivolol,Anxiolytic
+1577,Flupirtine,Antiviral
+1578,Erlotinib,Beta-blocker
+1579,Proparacaine,Anxiolytic
+1580,Cinnarizine,Anxiolytic
+1581,Tamoxifen,Antiviral
+1582,Orlistat,Antifungal
+1583,Cefotaxime,Anxiolytic
+1584,Voglibose,Anxiolytic
+1585,Benzyl Nicotinate,Antifungal
+1586,Chlorpromazine,Antiviral
+1587,Alfuzosin,Beta-blocker
+1588,Benzocaine,Anxiolytic
+1589,Oxcarbazepine,Antiviral
+1590,Ramipril,Anxiolytic
+1591,Acarbose,Anxiolytic
+1592,Rivastigmine,Beta-blocker
+1593,Aripiprazole,Anxiolytic
+1594,Polyethylene Glycol,Beta-blocker
+1595,Buspirone,Antiviral
+1596,Dapoxetine,Anxiolytic
+1597,Ammonium Chloride,Anxiolytic
+1598,Quinapril,Antiviral
+1599,Hydroxypropylmethylcellulose,Anxiolytic
+1600,Tinidazole,Antifungal
+1601,Cisapride,Beta-blocker
+1602,Lomefloxacin,Beta-blocker
+1603,Misoprostol,Beta-blocker
+1604,Lamivudine,Beta-blocker
+1605,Loperamide,Antiviral
+1606,Bacitracin,Beta-blocker
+1607,Clomipramine,Beta-blocker
+1608,Ciclopirox,Anxiolytic
+1609,Bromelain,Antifungal
+1610,Cyproterone,Antiviral
+1611,Nepafenac,Anxiolytic
+1612,Bromfenac,Antifungal
+1613,Allopurinol,Antiviral
+1614,Bromhexine,antihistamine
+1615,Etizolam,Beta-blocker
+1616,Ramipril,diuretic
+1617,Nitroglycerin,Beta-blocker
+1618,Venlafaxine,Anxiolytic
+1619,Lorazepam,Antifungal
+1620,Indomethacin,Antiviral
+1621,Penicillin G,Anxiolytic
+1622,Solifenacin,Anxiolytic
+1623,Entecavir,Anxiolytic
+1624,Letrozole,Antifungal
+1625,Vitamin B,Antifungal
+1626,Levo-carnitine,Anxiolytic
+1627,Chlordiazepoxide,Beta-blocker
+1628,Metronidazole,Beta-blocker
+1629,Pioglitazone,antidiabetic
+1630,Loteprednol etabonate,Anxiolytic
+1631,Amisulpride,Beta-blocker
+1632,Pyrazinamide,Antiviral
+1633,Piperacillin,Anxiolytic
+1634,Tramadol,Antifungal
+1635,Bupivacaine,Antifungal
+1636,Recombinant Human Epidermal Growth Factor,Beta-blocker
+1637,Warfarin,Anxiolytic
+1638,Bimatoprost,Antifungal
+1639,Oxytetracycline,Antifungal
+1640,Duloxetine,Antiviral
+1641,Hydroxyzine,Anxiolytic
+1642,Fibrinogen,Anxiolytic
+1643,Sulfasalazine,Anxiolytic
+1644,Magaldrate,Antifungal
+1645,Fluphenazine,Beta-blocker
+1646,Procarbazine,Beta-blocker
+1647,Candesartan,Antiviral
+1648,Clidinium,Antifungal
+1649,Dydrogesterone,Anxiolytic
+1650,Flavoxate,Antiviral
+1651,Ursodeoxycholic Acid,Anxiolytic
+1652,Bacillus Clausii,Anxiolytic
+1653,Montelukast,Antiviral
+1654,Ethambutol,Beta-blocker
+1655,Pheniramine,Antiviral
+1656,Bilastine,Antifungal
+1657,Piroxicam,Anxiolytic
+1658,Calcitonin,Anxiolytic
+1659,Oseltamivir Phosphate,Antifungal
+1660,Artemether,Antiviral
+1661,Sodium Bicarbonate,Anxiolytic
+1662,Fluocinolone acetonide,Anxiolytic
+1663,Sulfamethoxazole,Beta-blocker
+1664,Dienogest,Antifungal
+1665,Phenylephrine,Anxiolytic
+1666,Fluticasone Furoate,Anxiolytic
+1667,Penicillamine,Beta-blocker
+1668,Bromfenac,Beta-blocker
+1669,Insulin Aspart,Antiviral
+1670,Lenalidomide,Antifungal
+1671,Tolperisone,Antifungal
+1672,Tiotropium,Antiviral
+1673,Ferrous Ascorbate,Antifungal
+1674,Linagliptin,antidiabetic
+1675,Glucosamine,Antifungal
+1676,Glutathione,Antiviral
+1677,Penicillin G,Beta-blocker
+1678,Dosulepin,Beta-blocker
+1679,Etofylline,Antifungal
+1680,Gemifloxacin,Antiviral
+1681,Estriol,Beta-blocker
+1682,Vitamin B,Antiviral
+1683,Zinc Gluconate,Antifungal
+1684,Cisapride,Antifungal
+1685,Mupirocin,Antifungal
+1686,Methyldopa,Antifungal
+1687,Norgestrel,Antiviral
+1688,Sertaconazole,Beta-blocker
+1689,Flurbiprofen,Anxiolytic
+1690,Zoledronic acid,Antifungal
+1691,Linezolid,Antiviral
+1692,Allylestrenol,Antifungal
+1693,Levo-carnitine,Antifungal
+1694,Disulfiram,Antiviral
+1695,Insulin Lispro,Beta-blocker
+1696,Valdecoxib,analgesic
+1697,Medroxyprogesterone acetate,Antiviral
+1698,Tadalafil,Antiviral
+1699,Mycophenolate mofetil,Anxiolytic
+1700,Neomycin,Beta-blocker
+1701,Ethylmorphine,Antiviral
+1702,Haloperidol,Antiviral
+1703,Moclobemide,Antiviral
+1704,Gemifloxacin,Anxiolytic
+1705,Ticagrelor,Anxiolytic
+1706,Acyclovir,Beta-blocker
+1707,Menotrophin,Anxiolytic
+1708,Solifenacin,Beta-blocker
+1709,Estriol,Anxiolytic
+1710,Theophylline,bronchodilator
+1711,Disulfiram,Antifungal
+1712,Dextromethorphan Hydrobromide,Anxiolytic
+1713,Finasteride,Anxiolytic
+1714,Fluticasone Furoate,Antiviral
+1715,Clomiphene,Antiviral
+1716,Balofloxacin,Antifungal
+1717,Bacillus Clausii,Antifungal
+1718,Clotrimazole,Anxiolytic
+1719,Mirabegron,Antiviral
+1720,Phenobarbitone,Antifungal
+1721,Bisacodyl,Antiviral
+1722,Amikacin,Beta-blocker
+1723,Methylergometrine,Antifungal
+1724,Nifedipine,Antifungal
+1725,Methylphenidate,Beta-blocker
+1726,Rizatriptan,Anxiolytic
+1727,Dapagliflozin,Anxiolytic
+1728,Flavoxate,Antifungal
+1729,Nadifloxacin,Beta-blocker
+1730,Isoflurane,Antiviral
+1731,Verapamil,Antiviral
+1732,Ibuprofen,analgesic
+1733,Etidronate,Anxiolytic
+1734,Gramicidin,Anxiolytic
+1735,Ranolazine,Beta-blocker
+1736,Carvedilol,Anxiolytic
+1737,Lactobacillus Sporogenes,Antifungal
+1738,Cefdinir,Antifungal
+1739,Levo-carnitine,Beta-blocker
+1740,L-Arginine,Anxiolytic
+1741,Tamoxifen,Anxiolytic
+1742,Raloxifene,Beta-blocker
+1743,Hydroxyprogesterone,Anxiolytic
+1744,Bambuterol,Anxiolytic
+1745,Methimazole,Antiviral
+1746,Sparfloxacin,Antifungal
+1747,Aluminium Hydroxide,Antiviral
+1748,Cefoperazone,Anxiolytic
+1749,Nebivolol,Antifungal
+1750,Sodium Picosulfate,Antiviral
+1751,Ivabradine,Antifungal
+1752,Vancomycin,Antiviral
+1753,Cilostazol,Antiviral
+1754,Hydrogen Peroxide,Antifungal
+1755,Cefoperazone,Beta-blocker
+1756,Rivaroxaban,Antifungal
+1757,Metoclopramide,Beta-blocker
+1758,Ozenoxacin,Antiviral
+1759,Glibenclamide,Antiviral
+1760,Cilostazol,Anxiolytic
+1761,Ursodeoxycholic Acid,Antifungal
+1762,Salbutamol,corticosteroid
+1763,Quetiapine,Beta-blocker
+1764,Donepezil,Anxiolytic
+1765,Hyaluronic Acid,Antiviral
+1766,Rifaximin,Antiviral
+1767,Procyclidine,Anxiolytic
+1768,Diltiazem,Antiviral
+1769,Phenobarbitone,Beta-blocker
+1770,Arteether,Anxiolytic
+1771,Apremilast,Anxiolytic
+1772,Loperamide,Anxiolytic
+1773,Potassium Chloride,Antiviral
+1774,Lansoprazole,Beta-blocker
+1775,Alendronic Acid,Anxiolytic
+1776,Benzocaine,Antifungal
+1777,Melatonin,Beta-blocker
+1778,Perindopril erbumine,Antifungal
+1779,Bilastine,Beta-blocker
+1780,Buprenorphine,Antifungal
+1781,Alfuzosin,Anxiolytic
+1782,Choline Salicylate,Anxiolytic
+1783,Lactobacillus Sporogenes,Anxiolytic
+1784,Serratiopeptidase,Beta-blocker
+1785,Labetalol,Beta-blocker
+1786,Ethamsylate,Anxiolytic
+1787,Terbinafine,Anxiolytic
+1788,Isoniazid,Antifungal
+1789,Ketamine,Anxiolytic
+1790,Clemastine,Anxiolytic
+1791,Cefazolin,Antifungal
+1792,Drotaverine,Anxiolytic
+1793,Alpha Lipoic Acid,Anxiolytic
+1794,Luliconazole,Anxiolytic
+1795,Olanzapine,Antiviral
+1796,Sodium Valproate,Beta-blocker
+1797,Terazosin,Beta-blocker
+1798,Biotin,Antifungal
+1799,Sodium Bicarbonate,Beta-blocker
+1800,Tetanus Toxoid,Antifungal
+1801,Codeine,Beta-blocker
+1802,Voglibose,Antiviral
+1803,Calcium Polystyrene Sulphonate,Antiviral
+1804,Naphazoline,Beta-blocker
+1805,Doxycycline,Antifungal
+1806,Chlorhexidine Gluconate,Anxiolytic
+1807,Moxifloxacin,Beta-blocker
+1808,Acarbose,antidiabetic
+1809,Guaifenesin,Antiviral
+1810,Ursodeoxycholic Acid,Antiviral
+1811,Trimetazidine,Anxiolytic
+1812,Rivaroxaban,Beta-blocker
+1813,Rifampicin,Beta-blocker
+1814,Balofloxacin,Beta-blocker
+1815,Benzydamine,Beta-blocker
+1816,Theophylline,Anxiolytic
+1817,Sulfasalazine,Beta-blocker
+1818,Buprenorphine,Antiviral
+1819,Buspirone,Antifungal
+1820,Deca Peptide,Anxiolytic
+1821,Moxonidine,antihypertensive
+1822,Placenta Extracts,Antiviral
+1823,Lamotrigine,Anxiolytic
+1824,Nandrolone Decanoate,Anxiolytic
+1825,Ciclesonide,Anxiolytic
+1826,Calamine,Antifungal
+1827,Lindane,Beta-blocker
+1828,Nifedipine,Anxiolytic
+1829,Enclomiphene,Beta-blocker
+1830,Phenylephrine,Beta-blocker
+1831,Entecavir,Antifungal
+1832,Rifaximin,Beta-blocker
+1833,Dexibuprofen,Beta-blocker
+1834,Albumin,Anxiolytic
+1835,Thyroxine,Antifungal
+1836,Methotrexate,Antiviral
+1837,Ranolazine,Anxiolytic
+1838,Venlafaxine,Antiviral
+1839,Glibenclamide,antidiabetic
+1840,Loperamide,Antifungal
+1841,Isosorbide Mononitrate,Beta-blocker
+1842,Fenticonazole,Anxiolytic
+1843,Clonidine,Antiviral
+1844,Vancomycin,Anxiolytic
+1845,Everolimus,Antifungal
+1846,Freeze-dried Live Attenuated Hepatitis A Vaccine,Anxiolytic
+1847,Budesonide,Antifungal
+1848,Diethylcarbamazine,antihistamine
+1849,Arteether,Antifungal
+1850,Lactulose,Antifungal
+1851,Iron Sucrose,Beta-blocker
+1852,Bisoprolol,Antifungal
+1853,Levodopa,Anxiolytic
+1854,Bacitracin,Anxiolytic
+1855,Insulin Glargine,Antifungal
+1856,Penicillamine,Antiviral
+1857,Pancreatin,Anxiolytic
+1858,Loxapine,Beta-blocker
+1859,Azilsartan medoxomil,Beta-blocker
+1860,Glibenclamide,Anxiolytic
+1861,Chlorthalidone,Beta-blocker
+1862,Metoprolol Succinate,Antifungal
+1863,Calcitriol,Anxiolytic
+1864,Ketorolac,Beta-blocker
+1865,Moxifloxacin,Antiviral
+1866,Etodolac,Antifungal
+1867,Nitazoxanide,Antiviral
+1868,Amisulpride,Anxiolytic
+1869,Metoclopramide,Antifungal
+1870,Misoprostol,Antifungal
+1871,Acetazolamide,Beta-blocker
+1872,Docetaxel,Beta-blocker
+1873,L-Methyl Folate,Antiviral
+1874,Recombinant Human parathyroid hormone,Antiviral
+1875,Dexibuprofen,Antifungal
+1876,Moxifloxacin,corticosteroid
+1877,Norfloxacin,Antifungal
+1878,Etizolam,Anxiolytic
+1879,Methylphenidate,Antifungal
+1880,Hydroxypropylmethylcellulose,Beta-blocker
+1881,Clobetasone,Antiviral
+1882,Trifluoperazine,Anxiolytic
+1883,Glycerin,Antiviral
+1884,Terazosin,Anxiolytic
+1885,Memantine,Antiviral
+1886,Lamivudine,Antifungal
+1887,Medroxyprogesterone acetate,Antifungal
+1888,Pregabalin,Beta-blocker
+1889,Prazosin,Anxiolytic
+1890,Fluvoxamine,Anxiolytic
+1891,Roxatidine,Antifungal
+1892,Hydrotalcite,Beta-blocker
+1893,Danazol,Beta-blocker
+1894,Polyethylene Glycol,Antiviral
+1895,Calcitriol,Antiviral
+1896,Allopurinol,Beta-blocker
+1897,Melatonin,Antiviral
+1898,Benidipine,Anxiolytic
+1899,Boric Acid,Antiviral
+1900,Valdecoxib,Antifungal
+1901,Levetiracetam,Antifungal
+1902,Gentamicin,Antifungal
+1903,Triamcinolone,Anxiolytic
+1904,Procyclidine,Beta-blocker
+1905,Pirfenidone,Beta-blocker
+1906,Pramipexole,Antiviral
+1907,Trioxasalen,Beta-blocker
+1908,Meloxicam,Antiviral
+1909,Desmopressin,Beta-blocker
+1910,Fentanyl,Anxiolytic
+1911,Etizolam,Antifungal
+1912,Amorolfine,Anxiolytic
+1913,Climbazole,Beta-blocker
+1914,Lincomycin,Antifungal
+1915,Chondroitin,Antifungal
+1916,Benfotiamine,Antifungal
+1917,Cetrimide,Antifungal
+1918,Metoclopramide,Antiviral
+1919,Memantine,Antifungal
+1920,Fluticasone Propionate,Antiviral
+1921,Mephenesin,analgesic
+1922,Sulfadiazine,Anxiolytic
+1923,Bilastine,Anxiolytic
+1924,Flupirtine,analgesic
+1925,Oxetacaine,Antiviral
+1926,Recombinant Human Epidermal Growth Factor,Anxiolytic
+1927,Heparin,Antifungal
+1928,Amiodarone,Beta-blocker
+1929,Xylometazoline,Antiviral
+1930,Desloratadine,Beta-blocker
+1931,Colchicine,Beta-blocker
+1932,Lincomycin,Beta-blocker
+1933,Tinidazole,Beta-blocker
+1934,Flavoxate,Beta-blocker
+1935,Clioquinol,Antifungal
+1936,Apixaban,Antifungal
+1937,Sulphacetamide,Anxiolytic
+1938,Mesalazine,Beta-blocker
+1939,Erythromycin,Beta-blocker
+1940,Cycloserine,Anxiolytic
+1941,Sodium Lactate,Anxiolytic
+1942,Indomethacin,Antifungal
+1943,Zinc acetate,Antiviral
+1944,Alcaftadine,Beta-blocker
+1945,Midazolam,Anxiolytic
+1946,Ciclopirox,Antifungal
+1947,Methimazole,Anxiolytic
+1948,Garenoxacin,Beta-blocker
+1949,Hyoscine butylbromide,Antifungal
+1950,Haloperidol,Beta-blocker
+1951,Nitrazepam,Antifungal
+1952,Vildagliptin,Antifungal
+1953,Temozolomide,Beta-blocker
+1954,Levodopa,Antifungal
+1955,Alendronic Acid,Beta-blocker
+1956,Bromhexine,Anxiolytic
+1957,Ethamsylate,Antiviral
+1958,Salicylic Acid,Antifungal
+1959,Duloxetine,Antifungal
+1960,Metoclopramide,Anxiolytic
+1961,Estradiol,Antiviral
+1962,Chlorpromazine,Anxiolytic
+1963,Trimetazidine,Antiviral
+1964,Lenalidomide,Antiviral
+1965,Citalopram,Anxiolytic
+1966,Phenylpropanolamine,antihistamine
+1967,Oxiconazole,Anxiolytic
+1968,Sildenafil,Anxiolytic
+1969,Mercaptopurine,Beta-blocker
+1970,Silymarin,Anxiolytic
+1971,Ferric Carboxymaltose,Antiviral
+1972,Imatinib mesylate,Beta-blocker
+1973,Trypsin Chymotrypsin,Antiviral
+1974,Melphalan,Anxiolytic
+1975,Papaverine,Anxiolytic
+1976,Salicylic Acid,Anxiolytic
+1977,Phenobarbitone,Anxiolytic
+1978,Folic Acid,Beta-blocker
+1979,Faropenem,Antifungal
+1980,Iron Sucrose,Antifungal
+1981,Diazepam,Anxiolytic
+1982,Spiramycin,Anxiolytic
+1983,Diethylcarbamazine,Beta-blocker
+1984,Silver Sulfadiazine,Antifungal
+1985,Lithium carbonate,Antiviral
+1986,Coal Tar,Antiviral
+1987,Univestin,Beta-blocker
+1988,Macitentan,Antiviral
+1989,Tolterodine,Beta-blocker
+1990,Rubella vaccine,Antifungal
+1991,Lornoxicam,analgesic
+1992,Chlordiazepoxide,Antifungal
+1993,Insulin Aspart,Antifungal
+1994,Octreotide acetate,Antiviral
+1995,Anastrozole,Anxiolytic
+1996,Medroxyprogesterone acetate,Anxiolytic
+1997,Piracetam,Anxiolytic
+1998,Entacapone,Antiviral
+1999,Dutasteride,Anxiolytic
+2000,Ribavirin,Anxiolytic
+2001,Triamcinolone Acetonide,Beta-blocker
+2002,Modafinil,Antifungal
+2003,Ketoprofen,Antiviral
+2004,Iron Sucrose,Anxiolytic
+2005,Gemfibrozil,Beta-blocker
+2006,Aminophylline,Antifungal
+2007,Octreotide acetate,Antifungal
+2008,Promethazine,Beta-blocker
+2009,Atropine,Antifungal
+2010,Tadalafil,Anxiolytic
+2011,Natamycin,Antiviral
+2012,Ebastine,Beta-blocker
+2013,Neomycin,Anxiolytic
+2014,Isosorbide Dinitrate,Antiviral
+2015,Mefenamic Acid,Anxiolytic
+2016,Citicoline,Beta-blocker
+2017,Cyproterone,Anxiolytic
+2018,Folic Acid,Antifungal
+2019,Iron,Anxiolytic
+2020,Fluocinolone acetonide,Antiviral
+2021,Trihexyphenidyl,Antifungal
+2022,Methoxsalen,Antiviral
+2023,Ketamine,Antifungal
+2024,Famotidine,Beta-blocker
+2025,Warfarin,Beta-blocker
+2026,Heparin,Anxiolytic
+2027,Insulin detemir,Antiviral
+2028,Isoniazid,Anxiolytic
+2029,Calcium Dobesilate,Anxiolytic
+2030,Alpha Ketoanalogue,Antiviral
+2031,Ringer's lactate,Antifungal
+2032,Urofollitropin,Antifungal
+2033,Ulinastatin,Beta-blocker
+2034,Ammonium Chloride,Antifungal
+2035,Tapentadol,Anxiolytic
+2036,Mebendazole,Beta-blocker
+2037,Rosiglitazone,antidiabetic
+2038,Fosfomycin,Beta-blocker
+2039,Lisinopril,Antifungal
+2040,Medroxyprogesterone acetate,Beta-blocker
+2041,Disodium Hydrogen Citrate,Antiviral
+2042,Dichlorobenzyl Alcohol,Antiviral
+2043,Meclizine,Antiviral
+2044,Valsartan,Antiviral
+2045,Phenytoin,Anxiolytic
+2046,Nitrazepam,Beta-blocker
+2047,Granisetron,Anxiolytic
+2048,Naproxen,Beta-blocker
+2049,Menotrophin,Beta-blocker
+2050,Donepezil,Antiviral
+2051,Sirolimus,Anxiolytic
+2052,Hydroxychloroquine,Beta-blocker
+2053,Cyclopentolate,Anxiolytic
+2054,Meropenem,Anxiolytic
+2055,Latanoprost,Antifungal
+2056,Testosterone,Antiviral
+2057,Hyoscine butylbromide,Antiviral
+2058,Imatinib mesylate,Antifungal
+2059,Pentazocine,Antifungal
+2060,Verapamil,Anxiolytic
+2061,Cisplatin,Antiviral
+2062,Chloroquine,Beta-blocker
+2063,Astaxanthin,Anxiolytic
+2064,Acitretin,Beta-blocker
+2065,Carbimazole,Beta-blocker
+2066,Ranolazine,Antifungal
+2067,Sodium Picosulfate,Beta-blocker
+2068,Cinitapride,Anxiolytic
+2069,Levodopa,Beta-blocker
+2070,Ibuprofen,Antiviral
+2071,Fluticasone Furoate,Antifungal
+2072,Mesterolone,Anxiolytic
+2073,Diltiazem,Beta-blocker
+2074,Diphenhydramine,Anxiolytic
+2075,Norethisterone,Antiviral
+2076,Xantinol Nicotinate,Antiviral
+2077,Eicosapentaenoic Acid,Antiviral
+2078,L-Methyl Folate,Beta-blocker
+2079,Cyclophosphamide,Antifungal
+2080,Raloxifene,Antifungal
+2081,Clotrimazole,corticosteroid
+2082,Lorazepam,Antiviral
 2083,Phenazopyridine,Anxiolytic
-2084,Benzocaine,Beta-blocker
-2085,Eflornithine,Anxiolytic
-2086,Olmesartan Medoxomil,Beta-blocker
-2087,Methimazole,Antiviral
-2088,Etizolam,Anxiolytic
-2089,Gemifloxacin,Anxiolytic
-2090,Cefaclor,Beta-blocker
-2091,Vitamin B,Anxiolytic
-2092,Bupropion,Antiviral
-2093,Diclofenac,antacid
-2094,Sodium Valproate,Anxiolytic
-2095,Vi Capsular Polysaccharide Of Salmonella Typhi,Anxiolytic
-2096,Acetylcysteine,Antifungal
-2097,Tizanidine,Anxiolytic
-2098,Furazolidone,Beta-blocker
-2099,Pancreatin,Antifungal
-2100,Nadifloxacin,Beta-blocker
-2101,Clozapine,Antiviral
-2102,Cefdinir,Antifungal
-2103,Leflunomide,Beta-blocker
-2104,Levodopa,Beta-blocker
-2105,Iron,Anxiolytic
-2106,Salbutamol,corticosteroid
-2107,Folic Acid,Anxiolytic
-2108,L-Arginine,Beta-blocker
-2109,Difluprednate,Antifungal
-2110,Benidipine,Anxiolytic
-2111,Etodolac,Beta-blocker
-2112,Sparfloxacin,Antifungal
-2113,Metoclopramide,Antifungal
-2114,Folic Acid,Antifungal
-2115,Metamizole,Beta-blocker
-2116,Clidinium,Beta-blocker
-2117,Imipenem,Beta-blocker
-2118,Desonide,Anxiolytic
-2119,Tamoxifen,Beta-blocker
-2120,Potassium Chloride,Antiviral
-2121,Capecitabine,Beta-blocker
-2122,Ranolazine,Beta-blocker
-2123,Topiramate,Antiviral
-2124,Benidipine,Antifungal
-2125,Sodium Bicarbonate,Antifungal
+2084,Amisulpride,Antiviral
+2085,Glucagon,Antifungal
+2086,Piracetam,Antiviral
+2087,Diphenhydramine,Antifungal
+2088,Memantine,Anxiolytic
+2089,Finasteride,Beta-blocker
+2090,Stannous fluoride,Antifungal
+2091,Risperidone,Beta-blocker
+2092,Docosahexanoic acid,Antifungal
+2093,Ivermectin,Antiviral
+2094,Hemocoagulase,Antiviral
+2095,Stanozolol,Beta-blocker
+2096,Amiloride,Beta-blocker
+2097,Imatinib mesylate,Anxiolytic
+2098,Diazepam,Antifungal
+2099,Loratadine,analgesic
+2100,Loperamide,Beta-blocker
+2101,Ethambutol,Antifungal
+2102,Dobutamine,Antifungal
+2103,Ibandronic Acid,Anxiolytic
+2104,Clidinium,Anxiolytic
+2105,Pyrazinamide,Beta-blocker
+2106,Sertaconazole,Antifungal
+2107,Diltiazem,Anxiolytic
+2108,Fenticonazole,Antifungal
+2109,Etodolac,Antiviral
+2110,Megestrol,Beta-blocker
+2111,Cholestyramine,Beta-blocker
+2112,Mycophenolate sodium,Beta-blocker
+2113,Citric Acid,Antiviral
+2114,Imipenem,Beta-blocker
+2115,Evening Primrose Oil,Antiviral
+2116,Etodolac,Beta-blocker
+2117,Quetiapine,Antifungal
+2118,Sultamicillin tosilate,Beta-blocker
+2119,Oxytetracycline,Anxiolytic
+2120,Lenvatinib,Beta-blocker
+2121,Dienogest,Beta-blocker
+2122,Rivaroxaban,Antiviral
+2123,Lysine,Antifungal
+2124,Ozenoxacin,Beta-blocker
+2125,Clomipramine,Antiviral
 2126,Magaldrate,Beta-blocker
-2127,Zolpidem,Antiviral
-2128,Tiotropium,Antiviral
-2129,Ornidazole,Antiviral
+2127,Nortriptyline,Antiviral
+2128,Acetazolamide,Anxiolytic
+2129,Fluticasone Furoate,Beta-blocker

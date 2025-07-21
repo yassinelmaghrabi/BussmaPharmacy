@@ -28,6 +28,7 @@ csv_column_orders = {
         "invoice",
         "product_id",
         "pharmacy_id",
+        "insurance_id",
         "sheet",
         "sales_sheet",
         "sales_pack",
@@ -36,6 +37,7 @@ csv_column_orders = {
         "sale_type",
         "acquisition_type",
     ],
+    "insurance.csv": ["id", "insurance_name", "average_coverage"],
 }
 
 # Fix and save each CSV

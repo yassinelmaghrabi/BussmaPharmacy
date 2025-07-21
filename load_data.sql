@@ -42,7 +42,6 @@ WITH (
     ROWTERMINATOR = '0x0a'
 );
 
--- Load sales
 BULK INSERT sales
 FROM '/tmp/setup/data/sales.csv'
 WITH (
@@ -51,8 +50,14 @@ WITH (
     FIELDTERMINATOR = ',',
     ROWTERMINATOR = '0x0a'
 );
-
--- Verify data loaded
+BULK INSERT insurance
+FROM '/tmp/setup/data/insurance.csv'
+WITH (
+    FORMAT = 'CSV',
+    FIRSTROW = 2,
+    FIELDTERMINATOR = ',',
+    ROWTERMINATOR = '0x0a'
+);
 SELECT 'manufacturer' AS table_name, COUNT(*) AS row_count FROM manufacturer;
 SELECT 'ingredients' AS table_name, COUNT(*) AS row_count FROM ingredients;
 SELECT 'products' AS table_name, COUNT(*) AS row_count FROM products;

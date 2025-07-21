@@ -1,4 +1,3 @@
-from itertools import product
 import pandas as pd
 import hashlib
 import random
@@ -14,7 +13,7 @@ def generate_barcode(name):
 # Desired column orders
 csv_column_orders = {
     "manufacturer.csv": ["id", "name"],
-    "ingredients.csv": ["product_id", "ingredient_name", "therapeutic_class"],
+    "ingredients.csv": ["id", "ingredient_name", "therapeutic_class"],
     "products.csv": [
         "product_id",
         "clean_name",
@@ -22,6 +21,7 @@ csv_column_orders = {
         "dosage_form",
         "pack_size",
         "pack_unit",
+        "ingredient_id",
     ],
     "pharmacy.csv": ["id", "pharmacy_id", "zone_id", "city_id"],
     "sales.csv": [

@@ -29,7 +29,7 @@ CREATE TABLE insurance (
 -- 5. Products Table
 CREATE TABLE products (
   product_id VARCHAR(255) PRIMARY KEY,
-  clean_name VARCHAR(255),
+  brand_name VARCHAR(255),
   manufacturer_id INT,
   dosage_form VARCHAR(255),
   pack_size FLOAT,

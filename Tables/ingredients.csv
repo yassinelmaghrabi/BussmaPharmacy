@@ -1,0 +1,594 @@
+id,ingredient_name,therapeutic_class
+1,ibuprofen,other
+2,none,none
+3,aceclofenac,analgesic
+4,fluticasone propionate,other
+5,clindamycin,other
+6,fusidic acid,other
+7,ketoconazole,other
+8,alprazolam,other
+9,piroxicam,other
+10,cetirizine,antihistamine
+11,paracetamol,analgesic
+12,domperidone,antacid
+13,nimesulide,analgesic
+14,cyproheptadine,other
+15,acebrophylline,other
+16,isotretinoin,other
+17,ofloxacin,other
+18,amitriptyline,antidepressant
+19,amoxycillin,antibiotic
+20,permethrin,other
+21,doxycycline,other
+22,thyroxine,other
+23,sodium chloride,other
+24,dexchlorpheniramine,antihistamine
+25,ibuprofen,analgesic
+26,itraconazole,other
+27,pantoprazole,antacid
+28,methylcobalamin,other
+29,caffeine,antihistamine
+30,rivaroxaban,other
+31,chlorpheniramine maleate,antihistamine
+32,tranexamic acid,other
+33,azithromycin,antibiotic
+34,oxetacaine,other
+35,xylometazoline,other
+36,prednisolone,corticosteroid
+37,citicoline,other
+38,telmisartan,antihypertensive
+39,terbinafine,other
+40,valproic acid,other
+41,tramadol,other
+42,metronidazole,other
+43,albendazole,other
+44,miconazole,other
+45,caffeine,analgesic
+46,solifenacin,other
+47,nebivolol,antihypertensive
+48,propranolol,other
+49,ornidazole,other
+50,oxytetracycline,other
+51,meropenem,other
+52,mometasone,other
+53,etoricoxib,other
+54,clobetasol,other
+55,cefixime,antibiotic
+56,guaifenesin,other
+57,tadalafil,other
+58,aspirin,other
+59,timolol,other
+60,lornoxicam,other
+61,metoprolol succinate,diuretic
+62,triamcinolone acetonide,other
+63,tolperisone,other
+64,simethicone,other
+65,metformin,antidiabetic
+66,carboxymethylcellulose,other
+67,lactobacillus,other
+68,doxylamine,other
+69,rosuvastatin,other
+70,cetrimide,other
+71,diclofenac,analgesic
+72,isosorbide mononitrate,other
+73,glimepiride,antidiabetic
+74,primaquine,other
+75,ciclopirox,other
+76,letrozole,other
+77,ciprofloxacin,antibiotic
+78,drotaverine,other
+79,saxagliptin,antidiabetic
+80,piracetam,other
+81,levofloxacin,other
+82,deflazacort,other
+83,adapalene,other
+84,dicyclomine,analgesic
+85,folic acid,other
+86,chloramphenicol,other
+87,ketorolac,other
+88,vitamin a,other
+89,amiodarone,other
+90,trypsin,other
+91,levocetirizine,antihistamine
+92,azelaic acid,other
+93,norethisterone,other
+94,pregabalin,other
+95,dexamethasone,corticosteroid
+96,ofloxacin,corticosteroid
+97,fentanyl,other
+98,chloroquine,other
+99,flavoxate,other
+100,olmesartan medoxomil,antihypertensive
+101,vitamin d3,other
+102,levosalbutamol,bronchodilator
+103,valdecoxib,other
+104,lidocaine,other
+105,disulfiram,other
+106,minoxidil,other
+107,clonazepam,other
+108,bromhexine,bronchodilator
+109,oxymetazoline,other
+110,gliclazide,antidiabetic
+111,triamcinolone,other
+112,salicylic acid,other
+113,valsartan,other
+114,fenofibrate,other
+115,atorvastatin,other
+116,sucralfate,other
+117,tetracycline,other
+118,cefpodoxime proxetil,other
+119,hydroquinone,other
+120,domperidone,analgesic
+121,dienogest,other
+122,choline salicylate,other
+123,febuxostat,other
+124,cefuroxime,other
+125,ivermectin,other
+126,metoclopramide,other
+127,isoxsuprine,other
+128,eszopiclone,other
+129,acyclovir,other
+130,tamsulosin,other
+131,ondansetron,other
+132,domperidone,other
+133,chlorzoxazone,analgesic
+134,levosulpiride,antacid
+135,acetylcysteine,other
+136,ambroxol,other
+137,metoclopramide,analgesic
+138,betamethasone,other
+139,vitamin c,other
+140,desloratadine,other
+141,caffeine,other
+142,calamine,other
+143,misoprostol,other
+144,clomiphene,other
+145,hydrocortisone,other
+146,amisulpride,other
+147,alprazolam,antidepressant
+148,carbimazole,other
+149,bilastine,other
+150,sodium picosulfate,other
+151,cycloserine,other
+152,pentosan polysulfate sodium,other
+153,bromelain,other
+154,amlodipine,antihypertensive
+155,recombinant human epidermal growth factor,other
+156,tianeptine,other
+157,aripiprazole,other
+158,sildenafil,other
+159,allopurinol,other
+160,ilaprazole,other
+161,chlordiazepoxide,other
+162,eptifibatide,other
+163,sulfamethoxazole,other
+164,magaldrate,other
+165,epalrestat,other
+166,levo-carnitine,other
+167,cefalexin,other
+168,methylprednisolone,corticosteroid
+169,montelukast,antihistamine
+170,rivastigmine,other
+171,ramipril,other
+172,tramadol,analgesic
+173,paracetamol,antihistamine
+174,fluconazole,other
+175,pentoxifylline,other
+176,warfarin,other
+177,ampicillin,other
+178,beclometasone,corticosteroid
+179,artesunate,other
+180,rabeprazole,antacid
+181,racecadotril,other
+182,human chorionic gonadotropin,other
+183,climbazole,other
+184,rifaximin,other
+185,diltiazem,other
+186,potassium nitrate,other
+187,insulin aspart,other
+188,aluminium hydroxide,other
+189,cinnarizine,other
+190,perindopril erbumine,other
+191,phenylephrine,other
+192,aminophylline,other
+193,enalapril,other
+194,sertraline,antidepressant
+195,loratadine,other
+196,calcipotriol,other
+197,mupirocin,other
+198,glucosamine,other
+199,calcium,other
+200,ketoprofen,other
+201,anastrozole,other
+202,mefenamic acid,other
+203,fluocinolone acetonide,other
+204,deca peptide,other
+205,zolpidem,other
+206,sitagliptin,antidiabetic
+207,dydrogesterone,other
+208,apremilast,other
+209,chlorpromazine,other
+210,gabapentin,other
+211,mefenamic acid,analgesic
+212,zinc,other
+213,bacillus clausii,other
+214,metoprolol succinate,other
+215,eflornithine,other
+216,povidone iodine,other
+217,citalopram,other
+218,bisoprolol,other
+219,gatifloxacin,other
+220,fexofenadine,antihistamine
+221,loperamide,other
+222,fluvoxamine,other
+223,thiocolchicoside,analgesic
+224,lacosamide,other
+225,flunarizine,other
+226,budesonide,other
+227,dicyclomine,other
+228,olanzapine,other
+229,cabergoline,other
+230,lornoxicam,analgesic
+231,sodium bicarbonate,other
+232,glycolic acid,other
+233,linezolid,other
+234,memantine,other
+235,indapamide,other
+236,procyclidine,other
+237,dehydroepiandrosterone,other
+238,clotrimazole,other
+239,allantoin,other
+240,hydroxyzine,other
+241,etodolac,other
+242,raloxifene,other
+243,losartan,antihypertensive
+244,lisinopril,other
+245,fluconazole,antibiotic
+246,benzocaine,other
+247,nepafenac,other
+248,serratiopeptidase,other
+249,clopidogrel,other
+250,benzoyl peroxide,other
+251,ethamsylate,other
+252,hydrochlorothiazide,diuretic
+253,betahistine,other
+254,etizolam,other
+255,carbamazepine,other
+256,paracetamol/acetaminophen,analgesic
+257,salbutamol,bronchodilator
+258,hydrotalcite,other
+259,omeprazole,antacid
+260,metoprolol tartrate,other
+261,neomycin,corticosteroid
+262,ranitidine,antacid
+263,teneligliptin,other
+264,quetiapine,other
+265,levosulpiride,other
+266,progesterone,other
+267,paliperidone,other
+268,tamoxifen,other
+269,mifepristone,other
+270,nifedipine,other
+271,nitroglycerin,other
+272,duloxetine,other
+273,empagliflozin,other
+274,finasteride,other
+275,amoxapine,other
+276,bisacodyl,other
+277,phenylpropanolamine,antihistamine
+278,candesartan,other
+279,alfuzosin,other
+280,capecitabine,other
+281,norfloxacin,other
+282,ketamine,other
+283,diclofenac diethylamine,analgesic
+284,dutasteride,other
+285,clobazam,other
+286,coal tar,other
+287,phenylephrine,antihistamine
+288,ambroxol,bronchodilator
+289,fluoxetine,other
+290,ethinyl estradiol,other
+291,diloxanide,other
+292,l-methyl folate calcium,other
+293,prasugrel,other
+294,psoralen,other
+295,promethazine,other
+296,mesterolone,other
+297,amikacin,other
+298,hydroxypropylmethylcellulose,other
+299,doxofylline,other
+300,triclosan,other
+301,olmesartan medoxomil,other
+302,estradiol,other
+303,abiraterone acetate,other
+304,cyclophosphamide,other
+305,griseofulvin,other
+306,venlafaxine,other
+307,acitretin,other
+308,pioglitazone,other
+309,tolvaptan,other
+310,atenolol,antihypertensive
+311,ferrous ascorbate,other
+312,levetiracetam,other
+313,pancreatin,other
+314,dexibuprofen,other
+315,amiloride,other
+316,pioglitazone,antidiabetic
+317,esomeprazole,antacid
+318,saxagliptin,other
+319,colistin sulphate,other
+320,clarithromycin,other
+321,diclofenac,antacid
+322,chlorhexidine gluconate,other
+323,alendronic acid,other
+324,furosemide,diuretic
+325,bromhexine,other
+326,vinpocetine,other
+327,roxithromycin,other
+328,diacerein,other
+329,cefadroxil,other
+330,zotepine,other
+331,cilnidipine,antihypertensive
+332,clonazepam,antidepressant
+333,human insulin,other
+334,digoxin,other
+335,vitamin b,other
+336,azathioprine,other
+337,sodium valproate,other
+338,benzydamine,other
+339,dapagliflozin,antidiabetic
+340,biotin,other
+341,escitalopram oxalate,antidepressant
+342,cefdinir,other
+343,ethambutol,other
+344,gliclazide,other
+345,fenticonazole,other
+346,ringer's lactate,other
+347,flupirtine,other
+348,levamisole,other
+349,lincomycin,other
+350,norgestrel,other
+351,faropenem,other
+352,oxcarbazepine,other
+353,boric acid,other
+354,favipiravir,other
+355,carvedilol,other
+356,prulifloxacin,other
+357,calcium polystyrene sulphonate,other
+358,sodium fusidate,other
+359,lansoprazole,other
+360,diazepam,other
+361,lactulose,other
+362,naproxen,other
+363,torasemide,other
+364,disodium hydrogen citrate,other
+365,isoniazid,other
+366,calcium dobesilate,other
+367,valsartan,diuretic
+368,sultamicillin tosilate,other
+369,sertaconazole,other
+370,baclofen,other
+371,ursodeoxycholic acid,other
+372,spironolactone,diuretic
+373,lorazepam,other
+374,cefotaxime,other
+375,moxifloxacin,corticosteroid
+376,nandrolone decanoate,other
+377,luliconazole,other
+378,montelukast,other
+379,lisinopril,diuretic
+380,brivaracetam,other
+381,erythromycin,other
+382,ketoconazole,corticosteroid
+383,paroxetine,other
+384,flupenthixol,antidepressant
+385,famotidine,other
+386,dosulepin,other
+387,diethylcarbamazine,other
+388,neomycin,other
+389,nebivolol,other
+390,piperacillin,other
+391,haloperidol,other
+392,xantinol nicotinate,other
+393,recombinant follicle stimulating hormone,other
+394,ciclosporin,other
+395,trihexyphenidyl,other
+396,alpha-galactosidase,other
+397,hydrogen peroxide,other
+398,medroxyprogesterone acetate,other
+399,lactase,other
+400,hyaluronic acid,other
+401,divalproex,other
+402,voglibose,antidiabetic
+403,amorolfine,other
+404,melatonin,other
+405,pheniramine,other
+406,nicorandil,other
+407,tretinoin,other
+408,pramoxine,other
+409,sparfloxacin,other
+410,insulin glargine,other
+411,gabapentin,antidepressant
+412,cyproterone,other
+413,labetalol,other
+414,dithranol,other
+415,imipramine,other
+416,triclofos,other
+417,ceftriaxone,antibiotic
+418,famciclovir,other
+419,polystyrene sulfonate,other
+420,gemifloxacin,other
+421,vilazodone,other
+422,bicalutamide,other
+423,dapagliflozin,other
+424,heparin,other
+425,sirolimus,other
+426,sodium hyaluronate,other
+427,ticagrelor,other
+428,ozenoxacin,other
+429,ribavirin,other
+430,moxifloxacin,other
+431,nicotine,other
+432,methotrexate,other
+433,clemastine,other
+434,hydroxyprogesterone,other
+435,trioxasalen,other
+436,ivabradine,other
+437,silymarin,other
+438,gentamicin,other
+439,camylofin,analgesic
+440,risperidone,other
+441,drotaverine,analgesic
+442,calcitonin,other
+443,erlotinib,other
+444,temozolomide,other
+445,fosfomycin,other
+446,roflumilast,other
+447,etoricoxib,analgesic
+448,orlistat,other
+449,l-methyl folate,other
+450,mesalazine,other
+451,theophylline,bronchodilator
+452,alpha ketoanalogue,other
+453,adrenaline,other
+454,mebeverine,other
+455,chloramphenicol,corticosteroid
+456,epinastine,other
+457,glycerin,other
+458,gemfibrozil,other
+459,rifampicin,other
+460,cerebroprotein hydrolysate,other
+461,voriconazole,other
+462,dexrabeprazole,antacid
+463,pimozide,other
+464,sterile water,other
+465,cyclobenzaprine,analgesic
+466,glibenclamide,antidiabetic
+467,balofloxacin,other
+468,cisapride,other
+469,hyoscine butylbromide,other
+470,colchicine,other
+471,seratrodast,other
+472,cilnidipine,other
+473,darbepoetin alfa,other
+474,tacrolimus,other
+475,penicillamine,other
+476,urofollitropin,other
+477,eperisone,analgesic
+478,lindane,other
+479,diosmin,other
+480,ritodrine,other
+481,coenzyme q10,other
+482,taurine,other
+483,megestrol,other
+484,omega-3 fatty acid,other
+485,perampanel,other
+486,flupenthixol,other
+487,tolnaftate,other
+488,cefoperazone,other
+489,metolazone,other
+490,acarbose,other
+491,silodosin,other
+492,indomethacin,other
+493,mirtazapine,other
+494,quinine,other
+495,trimetazidine,other
+496,irbesartan,diuretic
+497,almotriptan,other
+498,levocloperastine,other
+499,fluticasone furoate,other
+500,abacavir,other
+501,allylestrenol,other
+502,imatinib mesylate,other
+503,topiramate,other
+504,ceftizoxime,other
+505,stanozolol,other
+506,nitrofurantoin,other
+507,halobetasol,other
+508,lactitol,other
+509,cinitapride,other
+510,zinc acetate,other
+511,formoterol,other
+512,hydroxychloroquine,other
+513,vildagliptin,other
+514,phenazopyridine,other
+515,pidotimod,other
+516,insulin degludec,other
+517,pseudoephedrine,other
+518,chlorthalidone,other
+519,tobramycin,other
+520,apixaban,other
+521,clomipramine,other
+522,hepatitis b vaccine,other
+523,atropine,other
+524,bacitracin,other
+525,meloxicam,other
+526,niacinamide,other
+527,mycophenolate sodium,other
+528,amylmetacresol,other
+529,etizolam,antidepressant
+530,phenytoin,other
+531,simvastatin,other
+532,desvenlafaxine,other
+533,celecoxib,other
+534,sodium citrate,other
+535,insulin detemir,other
+536,citric acid,other
+537,artemether,other
+538,phenylephrine,corticosteroid
+539,lamivudine,other
+540,alpha lipoic acid,other
+541,trypsin chymotrypsin,other
+542,iron,other
+543,methylergometrine,other
+544,furazolidone,other
+545,methimazole,other
+546,pravastatin,other
+547,amlexanox,other
+548,calcitriol,other
+549,ammonium chloride,other
+550,trifluoperazine,other
+551,testosterone,other
+552,mycophenolate mofetil,other
+553,loteprednol etabonate,other
+554,irbesartan,other
+555,moxonidine,antihypertensive
+556,cilostazol,other
+557,garenoxacin,other
+558,atomoxetine,other
+559,lomefloxacin,other
+560,salmeterol,other
+561,sevoflurane,other
+562,quinapril,other
+563,secnidazole,other
+564,eplerenone,other
+565,rizatriptan,other
+566,alpha-beta arteether,other
+567,lidocaine,corticosteroid
+568,ambroxol,antihistamine
+569,pentazocine,other
+570,fosaprepitant,other
+571,acarbose,antidiabetic
+572,clidinium,other
+573,natamycin,other
+574,lithium carbonate,other
+575,ciclesonide,other
+576,methyldopa,other
+577,risedronate,other
+578,penicillin g,other
+579,naphazoline,other
+580,hemocoagulase,other
+581,leflunomide,other
+582,tolperisone,analgesic
+583,repaglinide,other
+584,conjugated estrogens,other
+585,glibenclamide,other
+586,ramipril,diuretic
+587,flutamide,other
+588,sunitinib,other
+589,diphenhydramine,other
+590,ranolazine,other
+591,cytarabine,other
+592,desmopressin,other
+593,polyethylene glycol,other

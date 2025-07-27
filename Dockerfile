@@ -6,7 +6,7 @@ ENV MSSQL_PID=Developer
 
 RUN mkdir -p /tmp/setup/data
 
-COPY *.csv /tmp/setup/data/
+COPY Tables/*.csv /tmp/setup/data/
 COPY schema.sql load_data.sql /tmp/setup/
 COPY init.sh /tmp/setup/init.sh
 

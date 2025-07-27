@@ -13,7 +13,7 @@ CREATE TABLE manufacturer (
 
 -- 3. Pharmacy Table
 CREATE TABLE pharmacy (
-  group_id VARCHAR(50) PRIMARY KEY, 
+  group_key VARCHAR(50) PRIMARY KEY, 
   pharmacy_id VARCHAR(50),
   zone_id VARCHAR(50),
   city_id VARCHAR(50)
@@ -29,13 +29,14 @@ CREATE TABLE insurance (
 -- 5. Products Table
 CREATE TABLE products (
   product_id VARCHAR(255) PRIMARY KEY,
-  brand_name VARCHAR(255),
+  clean_name VARCHAR(255),
   manufacturer_id INT,
   dosage_form VARCHAR(255),
-  pack_size INT,
-  pack_unit INT,
+  pack_size FLOAT,
+  pack_unit FLOAT,
   ingredient_id INT,
   product_type VARCHAR(50),
+  price_inr FLOAT,
   FOREIGN KEY (manufacturer_id) REFERENCES manufacturer(id),
   FOREIGN KEY (ingredient_id) REFERENCES ingredients(id)
 );
@@ -44,17 +45,17 @@ CREATE TABLE products (
 CREATE TABLE sales (
   invoice INT,
   product_id VARCHAR(255),
-  pharmacy_id INT,
+  pharmacy_id VARCHAR(50),
   insurance_id INT,
   sheet FLOAT,
   sales_sheet FLOAT,
   sales_pack FLOAT,
-  sale_date DATETIME,
-  sale_time TIME,
-  sale_type VARCHAR(50),
+  addeddate DATETIME,
+  time_ TIME,
+  sales_type VARCHAR(50),
   PRIMARY KEY (invoice, product_id),
   FOREIGN KEY (product_id) REFERENCES products(product_id),
-  FOREIGN KEY (pharmacy_id) REFERENCES pharmacy(group_id),
+  FOREIGN KEY (pharmacy_id) REFERENCES pharmacy(group_key),
   FOREIGN KEY (insurance_id) REFERENCES insurance(id)
 );
 

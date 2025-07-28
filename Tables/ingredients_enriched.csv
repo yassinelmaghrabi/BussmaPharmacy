@@ -1,0 +1,594 @@
+id,ingredient_name,therapeutic_class
+1,ibuprofen,"cardiac therapy, other gynecologicals, antiinflammatory and antirheumatic products, topical products for joint and muscular pain, throat preparations"
+2,none,Unknown
+3,aceclofenac,"antiinflammatory and antirheumatic products, topical products for joint and muscular pain"
+4,fluticasone propionate,Unknown
+5,clindamycin,"anti-acne preparations, gynecological antiinfectives and antiseptics, antibacterials for systemic use"
+6,fusidic acid,"antibiotics and chemotherapeutics for dermatological use, medicated dressings, antibacterials for systemic use, ophthalmologicals"
+7,ketoconazole,"antifungals for dermatological use, gynecological antiinfectives and antiseptics, corticosteroids for systemic use, antimycotics for systemic use"
+8,alprazolam,psycholeptics
+9,piroxicam,"antiinflammatory and antirheumatic products, topical products for joint and muscular pain, ophthalmologicals"
+10,cetirizine,"antihistamines for systemic use, ophthalmologicals"
+11,paracetamol,analgesics
+12,domperidone,drugs for functional gastrointestinal disorders
+13,nimesulide,"antiinflammatory and antirheumatic products, topical products for joint and muscular pain"
+14,cyproheptadine,antihistamines for systemic use
+15,acebrophylline,Unknown
+16,isotretinoin,"anti-acne preparations, anti-acne preparations"
+17,ofloxacin,"antibacterials for systemic use, ophthalmologicals, otologicals"
+18,amitriptyline,psychoanaleptics
+19,amoxycillin,antibacterials for systemic use
+20,permethrin,"ectoparasiticides, incl. scabicides, insecticides and repellents"
+21,doxycycline,"stomatological preparations, antibacterials for systemic use"
+22,thyroxine,Unknown
+23,sodium chloride,"mineral supplements, blood substitutes and perfusion solutions, blood substitutes and perfusion solutions"
+24,dexchlorpheniramine,antihistamines for systemic use
+25,ibuprofen,"cardiac therapy, other gynecologicals, antiinflammatory and antirheumatic products, topical products for joint and muscular pain, throat preparations"
+26,itraconazole,antimycotics for systemic use
+27,pantoprazole,drugs for acid related disorders
+28,methylcobalamin,antianemic preparations
+29,caffeine,"other dermatological preparations, psychoanaleptics"
+30,rivaroxaban,antithrombotic agents
+31,chlorpheniramine maleate,Unknown
+32,tranexamic acid,antihemorrhagics
+33,azithromycin,"antibacterials for systemic use, ophthalmologicals"
+34,oxetacaine,Unknown
+35,xylometazoline,"nasal preparations, nasal preparations, ophthalmologicals"
+36,prednisolone,"stomatological preparations, antidiarrheals, intestinal antiinflammatory/antiinfective agents, vasoprotectives, corticosteroids, dermatological preparations, corticosteroids, dermatological preparations, corticosteroids for systemic use, nasal preparations, ophthalmologicals, ophthalmologicals, otologicals, ophthalmological and otological preparations"
+37,citicoline,psychoanaleptics
+38,telmisartan,agents acting on the renin-angiotensin system
+39,terbinafine,"antifungals for dermatological use, antifungals for dermatological use"
+40,valproic acid,antiepileptics
+41,tramadol,analgesics
+42,metronidazole,"stomatological preparations, antibiotics and chemotherapeutics for dermatological use, gynecological antiinfectives and antiseptics, antibacterials for systemic use, antiprotozoals"
+43,albendazole,anthelmintics
+44,miconazole,"stomatological preparations, antidiarrheals, intestinal antiinflammatory/antiinfective agents, antifungals for dermatological use, gynecological antiinfectives and antiseptics, antimycotics for systemic use, otologicals"
+45,caffeine,"other dermatological preparations, psychoanaleptics"
+46,solifenacin,urologicals
+47,nebivolol,beta blocking agents
+48,propranolol,beta blocking agents
+49,ornidazole,"gynecological antiinfectives and antiseptics, antibacterials for systemic use, antiprotozoals"
+50,oxytetracycline,"stomatological preparations, antibiotics and chemotherapeutics for dermatological use, gynecological antiinfectives and antiseptics, antibacterials for systemic use, ophthalmologicals"
+51,meropenem,antibacterials for systemic use
+52,mometasone,"corticosteroids, dermatological preparations, corticosteroids, dermatological preparations, nasal preparations, drugs for obstructive airway diseases"
+53,etoricoxib,antiinflammatory and antirheumatic products
+54,clobetasol,"corticosteroids, dermatological preparations"
+55,cefixime,antibacterials for systemic use
+56,guaifenesin,cough and cold preparations
+57,tadalafil,urologicals
+58,aspirin,"stomatological preparations, antithrombotic agents, analgesics"
+59,timolol,"beta blocking agents, ophthalmologicals"
+60,lornoxicam,antiinflammatory and antirheumatic products
+61,metoprolol succinate,Unknown
+62,triamcinolone acetonide,Unknown
+63,tolperisone,"topical products for joint and muscular pain, muscle relaxants"
+64,simethicone,Unknown
+65,metformin,drugs used in diabetes
+66,carboxymethylcellulose,Unknown
+67,lactobacillus,Unknown
+68,doxylamine,antihistamines for systemic use
+69,rosuvastatin,lipid modifying agents
+70,cetrimide,"antiseptics and disinfectants, other dermatological preparations"
+71,diclofenac,"other dermatological preparations, antiinflammatory and antirheumatic products, topical products for joint and muscular pain, ophthalmologicals"
+72,isosorbide mononitrate,cardiac therapy
+73,glimepiride,drugs used in diabetes
+74,primaquine,antiprotozoals
+75,ciclopirox,"antifungals for dermatological use, gynecological antiinfectives and antiseptics"
+76,letrozole,endocrine therapy
+77,ciprofloxacin,"antibacterials for systemic use, ophthalmologicals, otologicals, ophthalmological and otological preparations"
+78,drotaverine,drugs for functional gastrointestinal disorders
+79,saxagliptin,drugs used in diabetes
+80,piracetam,psychoanaleptics
+81,levofloxacin,"antibacterials for systemic use, ophthalmologicals"
+82,deflazacort,corticosteroids for systemic use
+83,adapalene,anti-acne preparations
+84,dicyclomine,drugs for functional gastrointestinal disorders
+85,folic acid,"antianemic preparations, diagnostic agents"
+86,chloramphenicol,"antibiotics and chemotherapeutics for dermatological use, anti-acne preparations, gynecological antiinfectives and antiseptics, antibacterials for systemic use, ophthalmologicals, otologicals, ophthalmological and otological preparations"
+87,ketorolac,"antiinflammatory and antirheumatic products, ophthalmologicals"
+88,vitamin a,"vitamins, anti-acne preparations, nasal preparations, ophthalmologicals"
+89,amiodarone,cardiac therapy
+90,trypsin,"other hematological agents, preparations for treatment of wounds and ulcers"
+91,levocetirizine,antihistamines for systemic use
+92,azelaic acid,anti-acne preparations
+93,norethisterone,"sex hormones and modulators of the genital system, sex hormones and modulators of the genital system"
+94,pregabalin,analgesics
+95,dexamethasone,"stomatological preparations, vasoprotectives, corticosteroids, dermatological preparations, corticosteroids, dermatological preparations, anti-acne preparations, corticosteroids for systemic use, nasal preparations, ophthalmologicals, ophthalmologicals, otologicals, ophthalmological and otological preparations"
+96,ofloxacin,"antibacterials for systemic use, ophthalmologicals, otologicals"
+97,fentanyl,"anesthetics, analgesics"
+98,chloroquine,antiprotozoals
+99,flavoxate,urologicals
+100,olmesartan medoxomil,agents acting on the renin-angiotensin system
+101,vitamin d3,Unknown
+102,levosalbutamol,Unknown
+103,valdecoxib,antiinflammatory and antirheumatic products
+104,lidocaine,"cardiac therapy, vasoprotectives, antipruritics, incl. antihistamines, anesthetics, etc., anesthetics, throat preparations, ophthalmologicals, otologicals"
+105,disulfiram,"other nervous system drugs, ectoparasiticides, incl. scabicides, insecticides and repellents"
+106,minoxidil,"antihypertensives, other dermatological preparations"
+107,clonazepam,antiepileptics
+108,bromhexine,cough and cold preparations
+109,oxymetazoline,"other dermatological preparations, nasal preparations, nasal preparations, ophthalmologicals"
+110,gliclazide,drugs used in diabetes
+111,triamcinolone,"stomatological preparations, vasoprotectives, corticosteroids, dermatological preparations, corticosteroids, dermatological preparations, corticosteroids for systemic use, nasal preparations, drugs for obstructive airway diseases, ophthalmologicals"
+112,salicylic acid,"antifungals for dermatological use, ophthalmologicals"
+113,valsartan,agents acting on the renin-angiotensin system
+114,fenofibrate,lipid modifying agents
+115,atorvastatin,lipid modifying agents
+116,sucralfate,drugs for acid related disorders
+117,tetracycline,"stomatological preparations, antibiotics and chemotherapeutics for dermatological use, antibacterials for systemic use, ophthalmologicals, otologicals, ophthalmological and otological preparations"
+118,cefpodoxime proxetil,Unknown
+119,hydroquinone,other dermatological preparations
+120,domperidone,drugs for functional gastrointestinal disorders
+121,dienogest,sex hormones and modulators of the genital system
+122,choline salicylate,analgesics
+123,febuxostat,antigout preparations
+124,cefuroxime,"antibacterials for systemic use, ophthalmologicals"
+125,ivermectin,"other dermatological preparations, anthelmintics"
+126,metoclopramide,drugs for functional gastrointestinal disorders
+127,isoxsuprine,peripheral vasodilators
+128,eszopiclone,psycholeptics
+129,acyclovir,"antibiotics and chemotherapeutics for dermatological use, antivirals for systemic use, ophthalmologicals"
+130,tamsulosin,urologicals
+131,ondansetron,antiemetics and antinauseants
+132,domperidone,drugs for functional gastrointestinal disorders
+133,chlorzoxazone,muscle relaxants
+134,levosulpiride,Unknown
+135,acetylcysteine,"cough and cold preparations, ophthalmologicals, all other therapeutic products"
+136,ambroxol,"throat preparations, cough and cold preparations"
+137,metoclopramide,drugs for functional gastrointestinal disorders
+138,betamethasone,"antidiarrheals, intestinal antiinflammatory/antiinfective agents, vasoprotectives, corticosteroids, dermatological preparations, corticosteroids, dermatological preparations, corticosteroids for systemic use, nasal preparations, drugs for obstructive airway diseases, ophthalmologicals, ophthalmologicals, otologicals, ophthalmological and otological preparations"
+139,vitamin c,"vitamins, gynecological antiinfectives and antiseptics, ophthalmologicals"
+140,desloratadine,antihistamines for systemic use
+141,caffeine,"other dermatological preparations, psychoanaleptics"
+142,calamine,Unknown
+143,misoprostol,"drugs for acid related disorders, other gynecologicals"
+144,clomiphene,sex hormones and modulators of the genital system
+145,hydrocortisone,"stomatological preparations, antidiarrheals, intestinal antiinflammatory/antiinfective agents, vasoprotectives, corticosteroids, dermatological preparations, corticosteroids, dermatological preparations, corticosteroids for systemic use, ophthalmologicals, ophthalmologicals, otologicals"
+146,amisulpride,psycholeptics
+147,alprazolam,psycholeptics
+148,carbimazole,thyroid therapy
+149,bilastine,Unknown
+150,sodium picosulfate,drugs for constipation
+151,cycloserine,antimycobacterials
+152,pentosan polysulfate sodium,"vasoprotectives, urologicals"
+153,bromelain,"preparations for treatment of wounds and ulcers, other drugs for disorders of the musculo-skeletal system"
+154,amlodipine,calcium channel blockers
+155,recombinant human epidermal growth factor,Unknown
+156,tianeptine,psychoanaleptics
+157,aripiprazole,psycholeptics
+158,sildenafil,urologicals
+159,allopurinol,antigout preparations
+160,ilaprazole,Unknown
+161,chlordiazepoxide,psycholeptics
+162,eptifibatide,antithrombotic agents
+163,sulfamethoxazole,antibacterials for systemic use
+164,magaldrate,drugs for acid related disorders
+165,epalrestat,Unknown
+166,levo-carnitine,Unknown
+167,cefalexin,antibacterials for systemic use
+168,methylprednisolone,"corticosteroids, dermatological preparations, anti-acne preparations, corticosteroids for systemic use"
+169,montelukast,drugs for obstructive airway diseases
+170,rivastigmine,psychoanaleptics
+171,ramipril,agents acting on the renin-angiotensin system
+172,tramadol,analgesics
+173,paracetamol,analgesics
+174,fluconazole,"antifungals for dermatological use, antimycotics for systemic use"
+175,pentoxifylline,peripheral vasodilators
+176,warfarin,antithrombotic agents
+177,ampicillin,"antibacterials for systemic use, ophthalmologicals"
+178,beclometasone,"antidiarrheals, intestinal antiinflammatory/antiinfective agents, corticosteroids, dermatological preparations, nasal preparations, drugs for obstructive airway diseases"
+179,artesunate,antiprotozoals
+180,rabeprazole,drugs for acid related disorders
+181,racecadotril,"antidiarrheals, intestinal antiinflammatory/antiinfective agents"
+182,human chorionic gonadotropin,Unknown
+183,climbazole,Unknown
+184,rifaximin,"antidiarrheals, intestinal antiinflammatory/antiinfective agents, antibiotics and chemotherapeutics for dermatological use"
+185,diltiazem,"vasoprotectives, calcium channel blockers"
+186,potassium nitrate,Unknown
+187,insulin aspart,"drugs used in diabetes, drugs used in diabetes"
+188,aluminium hydroxide,drugs for acid related disorders
+189,cinnarizine,other nervous system drugs
+190,perindopril erbumine,Unknown
+191,phenylephrine,"cardiac therapy, vasoprotectives, nasal preparations, nasal preparations, nasal preparations, ophthalmologicals, ophthalmologicals"
+192,aminophylline,drugs for obstructive airway diseases
+193,enalapril,agents acting on the renin-angiotensin system
+194,sertraline,psychoanaleptics
+195,loratadine,antihistamines for systemic use
+196,calcipotriol,antipsoriatics
+197,mupirocin,"antibiotics and chemotherapeutics for dermatological use, nasal preparations"
+198,glucosamine,antiinflammatory and antirheumatic products
+199,calcium,Unknown
+200,ketoprofen,"antiinflammatory and antirheumatic products, topical products for joint and muscular pain"
+201,anastrozole,endocrine therapy
+202,mefenamic acid,antiinflammatory and antirheumatic products
+203,fluocinolone acetonide,"vasoprotectives, corticosteroids, dermatological preparations, ophthalmologicals, otologicals"
+204,deca peptide,Unknown
+205,zolpidem,psycholeptics
+206,sitagliptin,drugs used in diabetes
+207,dydrogesterone,sex hormones and modulators of the genital system
+208,apremilast,immunosuppressants
+209,chlorpromazine,psycholeptics
+210,gabapentin,analgesics
+211,mefenamic acid,antiinflammatory and antirheumatic products
+212,zinc,Unknown
+213,bacillus clausii,Unknown
+214,metoprolol succinate,Unknown
+215,eflornithine,"other dermatological preparations, antineoplastic agents, antiprotozoals"
+216,povidone iodine,"antiseptics and disinfectants, medicated dressings, other dermatological preparations, gynecological antiinfectives and antiseptics, throat preparations, ophthalmologicals"
+217,citalopram,psychoanaleptics
+218,bisoprolol,beta blocking agents
+219,gatifloxacin,"antibacterials for systemic use, ophthalmologicals"
+220,fexofenadine,antihistamines for systemic use
+221,loperamide,"antidiarrheals, intestinal antiinflammatory/antiinfective agents"
+222,fluvoxamine,psychoanaleptics
+223,thiocolchicoside,muscle relaxants
+224,lacosamide,antiepileptics
+225,flunarizine,other nervous system drugs
+226,budesonide,"antidiarrheals, intestinal antiinflammatory/antiinfective agents, corticosteroids, dermatological preparations, nasal preparations, drugs for obstructive airway diseases"
+227,dicyclomine,drugs for functional gastrointestinal disorders
+228,olanzapine,psycholeptics
+229,cabergoline,"other gynecologicals, anti-parkinson drugs"
+230,lornoxicam,antiinflammatory and antirheumatic products
+231,sodium bicarbonate,"blood substitutes and perfusion solutions, blood substitutes and perfusion solutions"
+232,glycolic acid,Unknown
+233,linezolid,antibacterials for systemic use
+234,memantine,psychoanaleptics
+235,indapamide,diuretics
+236,procyclidine,anti-parkinson drugs
+237,dehydroepiandrosterone,"anabolic agents for systemic use, sex hormones and modulators of the genital system"
+238,clotrimazole,"stomatological preparations, antifungals for dermatological use, gynecological antiinfectives and antiseptics"
+239,allantoin,Unknown
+240,hydroxyzine,psycholeptics
+241,etodolac,antiinflammatory and antirheumatic products
+242,raloxifene,sex hormones and modulators of the genital system
+243,losartan,agents acting on the renin-angiotensin system
+244,lisinopril,agents acting on the renin-angiotensin system
+245,fluconazole,"antifungals for dermatological use, antimycotics for systemic use"
+246,benzocaine,"vasoprotectives, antipruritics, incl. antihistamines, anesthetics, etc., anesthetics, throat preparations"
+247,nepafenac,ophthalmologicals
+248,serratiopeptidase,Unknown
+249,clopidogrel,antithrombotic agents
+250,benzoyl peroxide,anti-acne preparations
+251,ethamsylate,antihemorrhagics
+252,hydrochlorothiazide,diuretics
+253,betahistine,other nervous system drugs
+254,etizolam,Unknown
+255,carbamazepine,antiepileptics
+256,paracetamol/acetaminophen,Unknown
+257,salbutamol,"drugs for obstructive airway diseases, drugs for obstructive airway diseases"
+258,hydrotalcite,drugs for acid related disorders
+259,omeprazole,drugs for acid related disorders
+260,metoprolol tartrate,Unknown
+261,neomycin,"stomatological preparations, antidiarrheals, intestinal antiinflammatory/antiinfective agents, blood substitutes and perfusion solutions, antibiotics and chemotherapeutics for dermatological use, antibacterials for systemic use, throat preparations, ophthalmologicals, otologicals, ophthalmological and otological preparations"
+262,ranitidine,drugs for acid related disorders
+263,teneligliptin,Unknown
+264,quetiapine,psycholeptics
+265,levosulpiride,Unknown
+266,progesterone,sex hormones and modulators of the genital system
+267,paliperidone,psycholeptics
+268,tamoxifen,endocrine therapy
+269,mifepristone,sex hormones and modulators of the genital system
+270,nifedipine,calcium channel blockers
+271,nitroglycerin,"cardiac therapy, vasoprotectives"
+272,duloxetine,psychoanaleptics
+273,empagliflozin,drugs used in diabetes
+274,finasteride,"other dermatological preparations, urologicals"
+275,amoxapine,psychoanaleptics
+276,bisacodyl,"drugs for constipation, drugs for constipation"
+277,phenylpropanolamine,nasal preparations
+278,candesartan,agents acting on the renin-angiotensin system
+279,alfuzosin,urologicals
+280,capecitabine,antineoplastic agents
+281,norfloxacin,"antibacterials for systemic use, ophthalmologicals"
+282,ketamine,anesthetics
+283,diclofenac diethylamine,Unknown
+284,dutasteride,urologicals
+285,clobazam,psycholeptics
+286,coal tar,Unknown
+287,phenylephrine,"cardiac therapy, vasoprotectives, nasal preparations, nasal preparations, nasal preparations, ophthalmologicals, ophthalmologicals"
+288,ambroxol,"throat preparations, cough and cold preparations"
+289,fluoxetine,psychoanaleptics
+290,ethinyl estradiol,"sex hormones and modulators of the genital system, endocrine therapy"
+291,diloxanide,antiprotozoals
+292,l-methyl folate calcium,Unknown
+293,prasugrel,antithrombotic agents
+294,psoralen,Unknown
+295,promethazine,"antipruritics, incl. antihistamines, anesthetics, etc., antihistamines for systemic use"
+296,mesterolone,sex hormones and modulators of the genital system
+297,amikacin,"antibiotics and chemotherapeutics for dermatological use, antibacterials for systemic use, ophthalmologicals"
+298,hydroxypropylmethylcellulose,ophthalmologicals
+299,doxofylline,Unknown
+300,triclosan,"antiseptics and disinfectants, medicated dressings"
+301,olmesartan medoxomil,agents acting on the renin-angiotensin system
+302,estradiol,sex hormones and modulators of the genital system
+303,abiraterone acetate,Unknown
+304,cyclophosphamide,antineoplastic agents
+305,griseofulvin,"antifungals for dermatological use, antifungals for dermatological use"
+306,venlafaxine,psychoanaleptics
+307,acitretin,antipsoriatics
+308,pioglitazone,drugs used in diabetes
+309,tolvaptan,diuretics
+310,atenolol,beta blocking agents
+311,ferrous ascorbate,antianemic preparations
+312,levetiracetam,antiepileptics
+313,pancreatin,Unknown
+314,dexibuprofen,Unknown
+315,amiloride,diuretics
+316,pioglitazone,drugs used in diabetes
+317,esomeprazole,drugs for acid related disorders
+318,saxagliptin,drugs used in diabetes
+319,colistin sulphate,Unknown
+320,clarithromycin,antibacterials for systemic use
+321,diclofenac,"other dermatological preparations, antiinflammatory and antirheumatic products, topical products for joint and muscular pain, ophthalmologicals"
+322,chlorhexidine gluconate,Unknown
+323,alendronic acid,drugs for treatment of bone diseases
+324,furosemide,diuretics
+325,bromhexine,cough and cold preparations
+326,vinpocetine,psychoanaleptics
+327,roxithromycin,antibacterials for systemic use
+328,diacerein,antiinflammatory and antirheumatic products
+329,cefadroxil,antibacterials for systemic use
+330,zotepine,psycholeptics
+331,cilnidipine,Unknown
+332,clonazepam,antiepileptics
+333,human insulin,"drugs used in diabetes, drugs used in diabetes, drugs used in diabetes, drugs used in diabetes, drugs used in diabetes"
+334,digoxin,cardiac therapy
+335,vitamin b,Unknown
+336,azathioprine,immunosuppressants
+337,sodium valproate,Unknown
+338,benzydamine,"stomatological preparations, other gynecologicals, antiinflammatory and antirheumatic products, topical products for joint and muscular pain, throat preparations"
+339,dapagliflozin,drugs used in diabetes
+340,biotin,vitamins
+341,escitalopram oxalate,Unknown
+342,cefdinir,antibacterials for systemic use
+343,ethambutol,antimycobacterials
+344,gliclazide,drugs used in diabetes
+345,fenticonazole,"antifungals for dermatological use, gynecological antiinfectives and antiseptics"
+346,ringer's lactate,Unknown
+347,flupirtine,analgesics
+348,levamisole,anthelmintics
+349,lincomycin,antibacterials for systemic use
+350,norgestrel,Unknown
+351,faropenem,Unknown
+352,oxcarbazepine,antiepileptics
+353,boric acid,otologicals
+354,favipiravir,Unknown
+355,carvedilol,beta blocking agents
+356,prulifloxacin,Unknown
+357,calcium polystyrene sulphonate,Unknown
+358,sodium fusidate,Unknown
+359,lansoprazole,drugs for acid related disorders
+360,diazepam,psycholeptics
+361,lactulose,drugs for constipation
+362,naproxen,"other gynecologicals, antiinflammatory and antirheumatic products, topical products for joint and muscular pain"
+363,torasemide,diuretics
+364,disodium hydrogen citrate,Unknown
+365,isoniazid,antimycobacterials
+366,calcium dobesilate,vasoprotectives
+367,valsartan,agents acting on the renin-angiotensin system
+368,sultamicillin tosilate,Unknown
+369,sertaconazole,"antifungals for dermatological use, gynecological antiinfectives and antiseptics"
+370,baclofen,muscle relaxants
+371,ursodeoxycholic acid,bile and liver therapy
+372,spironolactone,diuretics
+373,lorazepam,psycholeptics
+374,cefotaxime,antibacterials for systemic use
+375,moxifloxacin,"antibacterials for systemic use, ophthalmologicals"
+376,nandrolone decanoate,Unknown
+377,luliconazole,antifungals for dermatological use
+378,montelukast,drugs for obstructive airway diseases
+379,lisinopril,agents acting on the renin-angiotensin system
+380,brivaracetam,antiepileptics
+381,erythromycin,"anti-acne preparations, antibacterials for systemic use, ophthalmologicals"
+382,ketoconazole,"antifungals for dermatological use, gynecological antiinfectives and antiseptics, corticosteroids for systemic use, antimycotics for systemic use"
+383,paroxetine,psychoanaleptics
+384,flupenthixol,psycholeptics
+385,famotidine,drugs for acid related disorders
+386,dosulepin,psychoanaleptics
+387,diethylcarbamazine,anthelmintics
+388,neomycin,"stomatological preparations, antidiarrheals, intestinal antiinflammatory/antiinfective agents, blood substitutes and perfusion solutions, antibiotics and chemotherapeutics for dermatological use, antibacterials for systemic use, throat preparations, ophthalmologicals, otologicals, ophthalmological and otological preparations"
+389,nebivolol,beta blocking agents
+390,piperacillin,antibacterials for systemic use
+391,haloperidol,psycholeptics
+392,xantinol nicotinate,peripheral vasodilators
+393,recombinant follicle stimulating hormone,Unknown
+394,ciclosporin,"immunosuppressants, ophthalmologicals"
+395,trihexyphenidyl,anti-parkinson drugs
+396,alpha-galactosidase,Unknown
+397,hydrogen peroxide,"stomatological preparations, antiseptics and disinfectants, other dermatological preparations, otologicals"
+398,medroxyprogesterone acetate,Unknown
+399,lactase,"digestives, incl. enzymes"
+400,hyaluronic acid,"preparations for treatment of wounds and ulcers, other drugs for disorders of the musculo-skeletal system, nasal preparations, ophthalmologicals"
+401,divalproex,antiepileptics
+402,voglibose,Unknown
+403,amorolfine,antifungals for dermatological use
+404,melatonin,psycholeptics
+405,pheniramine,"antipruritics, incl. antihistamines, anesthetics, etc., antihistamines for systemic use"
+406,nicorandil,cardiac therapy
+407,tretinoin,"anti-acne preparations, antineoplastic agents"
+408,pramoxine,"vasoprotectives, antipruritics, incl. antihistamines, anesthetics, etc."
+409,sparfloxacin,antibacterials for systemic use
+410,insulin glargine,drugs used in diabetes
+411,gabapentin,analgesics
+412,cyproterone,sex hormones and modulators of the genital system
+413,labetalol,beta blocking agents
+414,dithranol,antipsoriatics
+415,imipramine,psychoanaleptics
+416,triclofos,psycholeptics
+417,ceftriaxone,antibacterials for systemic use
+418,famciclovir,"antivirals for systemic use, ophthalmologicals"
+419,polystyrene sulfonate,all other therapeutic products
+420,gemifloxacin,antibacterials for systemic use
+421,vilazodone,psychoanaleptics
+422,bicalutamide,endocrine therapy
+423,dapagliflozin,drugs used in diabetes
+424,heparin,Unknown
+425,sirolimus,"antineoplastic agents, immunosuppressants, ophthalmologicals"
+426,sodium hyaluronate,Unknown
+427,ticagrelor,antithrombotic agents
+428,ozenoxacin,antibiotics and chemotherapeutics for dermatological use
+429,ribavirin,antivirals for systemic use
+430,moxifloxacin,"antibacterials for systemic use, ophthalmologicals"
+431,nicotine,other nervous system drugs
+432,methotrexate,"antineoplastic agents, immunosuppressants"
+433,clemastine,"antipruritics, incl. antihistamines, anesthetics, etc., antihistamines for systemic use"
+434,hydroxyprogesterone,sex hormones and modulators of the genital system
+435,trioxasalen,Unknown
+436,ivabradine,cardiac therapy
+437,silymarin,bile and liver therapy
+438,gentamicin,"antibiotics and chemotherapeutics for dermatological use, antibacterials for systemic use, ophthalmologicals, otologicals, ophthalmological and otological preparations"
+439,camylofin,drugs for functional gastrointestinal disorders
+440,risperidone,psycholeptics
+441,drotaverine,drugs for functional gastrointestinal disorders
+442,calcitonin,Unknown
+443,erlotinib,antineoplastic agents
+444,temozolomide,antineoplastic agents
+445,fosfomycin,"antibacterials for systemic use, otologicals"
+446,roflumilast,"antipsoriatics, drugs for obstructive airway diseases"
+447,etoricoxib,antiinflammatory and antirheumatic products
+448,orlistat,"antiobesity preparations, excl. diet products"
+449,l-methyl folate,Unknown
+450,mesalazine,"antidiarrheals, intestinal antiinflammatory/antiinfective agents"
+451,theophylline,drugs for obstructive airway diseases
+452,alpha ketoanalogue,Unknown
+453,adrenaline,"stomatological preparations, antihemorrhagics, cardiac therapy, nasal preparations, drugs for obstructive airway diseases, ophthalmologicals"
+454,mebeverine,drugs for functional gastrointestinal disorders
+455,chloramphenicol,"antibiotics and chemotherapeutics for dermatological use, anti-acne preparations, gynecological antiinfectives and antiseptics, antibacterials for systemic use, ophthalmologicals, otologicals, ophthalmological and otological preparations"
+456,epinastine,"antihistamines for systemic use, ophthalmologicals"
+457,glycerin,"drugs for constipation, drugs for constipation"
+458,gemfibrozil,lipid modifying agents
+459,rifampicin,antimycobacterials
+460,cerebroprotein hydrolysate,Unknown
+461,voriconazole,antimycotics for systemic use
+462,dexrabeprazole,Unknown
+463,pimozide,psycholeptics
+464,sterile water,Unknown
+465,cyclobenzaprine,muscle relaxants
+466,glibenclamide,drugs used in diabetes
+467,balofloxacin,Unknown
+468,cisapride,drugs for functional gastrointestinal disorders
+469,hyoscine butylbromide,Unknown
+470,colchicine,antigout preparations
+471,seratrodast,Unknown
+472,cilnidipine,Unknown
+473,darbepoetin alfa,antianemic preparations
+474,tacrolimus,"other dermatological preparations, immunosuppressants"
+475,penicillamine,antiinflammatory and antirheumatic products
+476,urofollitropin,sex hormones and modulators of the genital system
+477,eperisone,Unknown
+478,lindane,"ectoparasiticides, incl. scabicides, insecticides and repellents"
+479,diosmin,vasoprotectives
+480,ritodrine,other gynecologicals
+481,coenzyme q10,cardiac therapy
+482,taurine,Unknown
+483,megestrol,"sex hormones and modulators of the genital system, sex hormones and modulators of the genital system, endocrine therapy"
+484,omega-3 fatty acid,Unknown
+485,perampanel,antiepileptics
+486,flupenthixol,psycholeptics
+487,tolnaftate,antifungals for dermatological use
+488,cefoperazone,antibacterials for systemic use
+489,metolazone,diuretics
+490,acarbose,drugs used in diabetes
+491,silodosin,urologicals
+492,indomethacin,"cardiac therapy, antiinflammatory and antirheumatic products, topical products for joint and muscular pain, ophthalmologicals"
+493,mirtazapine,psychoanaleptics
+494,quinine,antiprotozoals
+495,trimetazidine,cardiac therapy
+496,irbesartan,agents acting on the renin-angiotensin system
+497,almotriptan,analgesics
+498,levocloperastine,Unknown
+499,fluticasone furoate,"nasal preparations, drugs for obstructive airway diseases"
+500,abacavir,antivirals for systemic use
+501,allylestrenol,sex hormones and modulators of the genital system
+502,imatinib mesylate,Unknown
+503,topiramate,antiepileptics
+504,ceftizoxime,antibacterials for systemic use
+505,stanozolol,anabolic agents for systemic use
+506,nitrofurantoin,antibacterials for systemic use
+507,halobetasol,"corticosteroids, dermatological preparations"
+508,lactitol,drugs for constipation
+509,cinitapride,drugs for functional gastrointestinal disorders
+510,zinc acetate,other alimentary tract and metabolism products
+511,formoterol,"drugs for obstructive airway diseases, drugs for obstructive airway diseases"
+512,hydroxychloroquine,antiprotozoals
+513,vildagliptin,drugs used in diabetes
+514,phenazopyridine,urologicals
+515,pidotimod,immunostimulants
+516,insulin degludec,drugs used in diabetes
+517,pseudoephedrine,nasal preparations
+518,chlorthalidone,diuretics
+519,tobramycin,"antibacterials for systemic use, ophthalmologicals"
+520,apixaban,antithrombotic agents
+521,clomipramine,psychoanaleptics
+522,hepatitis b vaccine,Unknown
+523,atropine,"drugs for functional gastrointestinal disorders, ophthalmologicals"
+524,bacitracin,"antibiotics and chemotherapeutics for dermatological use, antibacterials for systemic use, throat preparations, ophthalmologicals"
+525,meloxicam,antiinflammatory and antirheumatic products
+526,niacinamide,vitamins
+527,mycophenolate sodium,Unknown
+528,amylmetacresol,Unknown
+529,etizolam,Unknown
+530,phenytoin,antiepileptics
+531,simvastatin,lipid modifying agents
+532,desvenlafaxine,psychoanaleptics
+533,celecoxib,"antineoplastic agents, antiinflammatory and antirheumatic products"
+534,sodium citrate,blood substitutes and perfusion solutions
+535,insulin detemir,drugs used in diabetes
+536,citric acid,"digestives, incl. enzymes"
+537,artemether,antiprotozoals
+538,phenylephrine,"cardiac therapy, vasoprotectives, nasal preparations, nasal preparations, nasal preparations, ophthalmologicals, ophthalmologicals"
+539,lamivudine,antivirals for systemic use
+540,alpha lipoic acid,other alimentary tract and metabolism products
+541,trypsin chymotrypsin,Unknown
+542,iron,Unknown
+543,methylergometrine,other gynecologicals
+544,furazolidone,gynecological antiinfectives and antiseptics
+545,methimazole,thyroid therapy
+546,pravastatin,lipid modifying agents
+547,amlexanox,"stomatological preparations, drugs for obstructive airway diseases"
+548,calcitriol,"vitamins, antipsoriatics"
+549,ammonium chloride,"blood substitutes and perfusion solutions, urologicals"
+550,trifluoperazine,psycholeptics
+551,testosterone,sex hormones and modulators of the genital system
+552,mycophenolate mofetil,Unknown
+553,loteprednol etabonate,Unknown
+554,irbesartan,agents acting on the renin-angiotensin system
+555,moxonidine,antihypertensives
+556,cilostazol,antithrombotic agents
+557,garenoxacin,Unknown
+558,atomoxetine,psychoanaleptics
+559,lomefloxacin,"antibacterials for systemic use, ophthalmologicals"
+560,salmeterol,drugs for obstructive airway diseases
+561,sevoflurane,anesthetics
+562,quinapril,agents acting on the renin-angiotensin system
+563,secnidazole,antiprotozoals
+564,eplerenone,diuretics
+565,rizatriptan,analgesics
+566,alpha-beta arteether,Unknown
+567,lidocaine,"cardiac therapy, vasoprotectives, antipruritics, incl. antihistamines, anesthetics, etc., anesthetics, throat preparations, ophthalmologicals, otologicals"
+568,ambroxol,"throat preparations, cough and cold preparations"
+569,pentazocine,analgesics
+570,fosaprepitant,Unknown
+571,acarbose,drugs used in diabetes
+572,clidinium,Unknown
+573,natamycin,"stomatological preparations, antidiarrheals, intestinal antiinflammatory/antiinfective agents, antifungals for dermatological use, gynecological antiinfectives and antiseptics, ophthalmologicals"
+574,lithium carbonate,Unknown
+575,ciclesonide,"nasal preparations, drugs for obstructive airway diseases"
+576,methyldopa,antihypertensives
+577,risedronate,Unknown
+578,penicillin g,"antibacterials for systemic use, ophthalmologicals"
+579,naphazoline,"nasal preparations, nasal preparations, ophthalmologicals"
+580,hemocoagulase,Unknown
+581,leflunomide,immunosuppressants
+582,tolperisone,"topical products for joint and muscular pain, muscle relaxants"
+583,repaglinide,drugs used in diabetes
+584,conjugated estrogens,sex hormones and modulators of the genital system
+585,glibenclamide,drugs used in diabetes
+586,ramipril,agents acting on the renin-angiotensin system
+587,flutamide,endocrine therapy
+588,sunitinib,antineoplastic agents
+589,diphenhydramine,"antipruritics, incl. antihistamines, anesthetics, etc., antihistamines for systemic use"
+590,ranolazine,cardiac therapy
+591,cytarabine,antineoplastic agents
+592,desmopressin,pituitary and hypothalamic hormones and analogues
+593,polyethylene glycol,drugs for constipation

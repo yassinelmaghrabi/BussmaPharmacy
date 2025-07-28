@@ -45,7 +45,7 @@ CREATE TABLE products (
 CREATE TABLE sales (
   invoice INT,
   product_id VARCHAR(255),
-  pharmacy_id VARCHAR(50),
+  group_key VARCHAR(50),
   insurance_id INT,
   sheet FLOAT,
   sales_sheet FLOAT,
@@ -55,7 +55,7 @@ CREATE TABLE sales (
   sales_type VARCHAR(50),
   PRIMARY KEY (invoice, product_id),
   FOREIGN KEY (product_id) REFERENCES products(product_id),
-  FOREIGN KEY (pharmacy_id) REFERENCES pharmacy(group_key),
+  FOREIGN KEY (group_key) REFERENCES pharmacy(group_key),
   FOREIGN KEY (insurance_id) REFERENCES insurance(id)
 );
 

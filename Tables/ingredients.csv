@@ -477,14 +477,14 @@ id,ingredient_name,therapeutic_class
 476,colchicine,other
 477,cilnidipine,other
 478,cinitapride,other
-479,glibenclamide,antidiabetic
-480,balofloxacin,other
-481,cisapride,other
-482,hyoscine butylbromide,other
-483,seratrodast,other
-484,tacrolimus,other
-485,penicillamine,other
-486,urofollitropin,other
+479,urofollitropin,other
+480,glibenclamide,antidiabetic
+481,balofloxacin,other
+482,cisapride,other
+483,hyoscine butylbromide,other
+484,seratrodast,other
+485,tacrolimus,other
+486,penicillamine,other
 487,eperisone,analgesic
 488,lindane,other
 489,diosmin,other
@@ -513,82 +513,82 @@ id,ingredient_name,therapeutic_class
 512,halobetasol,other
 513,lactitol,other
 514,zinc acetate,other
-515,formoterol,other
+515,amylmetacresol,other
 516,hydroxychloroquine,other
-517,vildagliptin,other
-518,phenazopyridine,other
-519,pidotimod,other
-520,insulin degludec,other
-521,pseudoephedrine,other
-522,chlorthalidone,other
-523,tobramycin,other
-524,apixaban,other
-525,clomipramine,other
-526,hepatitis b vaccine,other
-527,atropine,other
-528,bacitracin,other
-529,meloxicam,other
-530,niacinamide,other
-531,mycophenolate sodium,other
-532,phenylephrine,corticosteroid
-533,trypsin chymotrypsin,other
-534,ramipril,diuretic
-535,ranolazine,other
-536,lomefloxacin,other
-537,penicillin g,other
-538,artemether,other
-539,amylmetacresol,other
-540,phenytoin,other
-541,simvastatin,other
-542,desvenlafaxine,other
-543,celecoxib,other
-544,sodium citrate,other
-545,insulin detemir,other
-546,citric acid,other
-547,lamivudine,other
-548,alpha lipoic acid,other
-549,iron,other
-550,furazolidone,other
-551,methimazole,other
-552,pravastatin,other
-553,amlexanox,other
-554,calcitriol,other
-555,ammonium chloride,other
-556,trifluoperazine,other
-557,testosterone,other
-558,mycophenolate mofetil,other
-559,loteprednol etabonate,other
-560,irbesartan,other
-561,moxonidine,antihypertensive
-562,cilostazol,other
-563,garenoxacin,other
-564,atomoxetine,other
-565,salmeterol,other
-566,sevoflurane,other
-567,quinapril,other
-568,eplerenone,other
-569,rizatriptan,other
-570,alpha-beta arteether,other
-571,lidocaine,corticosteroid
-572,ambroxol,antihistamine
-573,pentazocine,other
-574,fosaprepitant,other
-575,natamycin,other
-576,lithium carbonate,other
-577,ciclesonide,other
-578,methyldopa,other
-579,risedronate,other
-580,naphazoline,other
-581,hemocoagulase,other
-582,clidinium,other
-583,leflunomide,other
-584,tolperisone,analgesic
-585,repaglinide,other
-586,conjugated estrogens,other
-587,glibenclamide,other
-588,flutamide,other
-589,sunitinib,other
-590,diphenhydramine,other
+517,tobramycin,other
+518,apixaban,other
+519,phenytoin,other
+520,simvastatin,other
+521,desvenlafaxine,other
+522,celecoxib,other
+523,sodium citrate,other
+524,insulin detemir,other
+525,citric acid,other
+526,artemether,other
+527,phenylephrine,corticosteroid
+528,lamivudine,other
+529,alpha lipoic acid,other
+530,insulin degludec,other
+531,trypsin chymotrypsin,other
+532,iron,other
+533,bacitracin,other
+534,meloxicam,other
+535,furazolidone,other
+536,methimazole,other
+537,pravastatin,other
+538,amlexanox,other
+539,calcitriol,other
+540,ammonium chloride,other
+541,hepatitis b vaccine,other
+542,formoterol,other
+543,trifluoperazine,other
+544,testosterone,other
+545,mycophenolate mofetil,other
+546,loteprednol etabonate,other
+547,irbesartan,other
+548,niacinamide,other
+549,moxonidine,antihypertensive
+550,cilostazol,other
+551,chlorthalidone,other
+552,garenoxacin,other
+553,atomoxetine,other
+554,lomefloxacin,other
+555,salmeterol,other
+556,sevoflurane,other
+557,quinapril,other
+558,eplerenone,other
+559,rizatriptan,other
+560,alpha-beta arteether,other
+561,lidocaine,corticosteroid
+562,ambroxol,antihistamine
+563,clomipramine,other
+564,natamycin,other
+565,lithium carbonate,other
+566,ciclesonide,other
+567,mycophenolate sodium,other
+568,methyldopa,other
+569,risedronate,other
+570,pseudoephedrine,other
+571,pentazocine,other
+572,penicillin g,other
+573,phenazopyridine,other
+574,naphazoline,other
+575,hemocoagulase,other
+576,clidinium,other
+577,tolperisone,analgesic
+578,atropine,other
+579,leflunomide,other
+580,repaglinide,other
+581,conjugated estrogens,other
+582,fosaprepitant,other
+583,glibenclamide,other
+584,ramipril,diuretic
+585,flutamide,other
+586,sunitinib,other
+587,diphenhydramine,other
+588,pidotimod,other
+589,vildagliptin,other
+590,ranolazine,other
 591,cytarabine,other
 592,desmopressin,other
 593,polyethylene glycol,other

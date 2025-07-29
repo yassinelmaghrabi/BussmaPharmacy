@@ -30,10 +30,11 @@ CREATE TABLE insurance (
 CREATE TABLE products (
   product_id VARCHAR(255) PRIMARY KEY,
   brand_name VARCHAR(255),
+  clean_brand_name VARCHAR(255),
   manufacturer_id INT,
   dosage_form VARCHAR(255),
   pack_size FLOAT,
-  pack_unit FLOAT,
+  pack_unit VARCHAR(50),
   ingredient_id INT,
   product_type VARCHAR(50),
   price_inr FLOAT,

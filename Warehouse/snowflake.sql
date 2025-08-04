@@ -7,7 +7,6 @@ CREATE TABLE dim_time (
   time_id TIME PRIMARY KEY,
   hour INT,
   minute INT,
-  second INT,
   period VARCHAR(10)
 );
 CREATE TABLE dim_date (
@@ -18,7 +17,7 @@ CREATE TABLE dim_date (
   quarter INT,
   weekday_name VARCHAR(10)
 );
-CREATE TABLE dim_zone (
+CREATE TABLE dim_zone ( --sub
   zone_id VARCHAR(50) PRIMARY KEY,
   zone VARCHAR(50),
   city VARCHAR(50)
@@ -29,12 +28,12 @@ CREATE TABLE dim_pharmacy (
   zone_id VARCHAR(50),
   FOREIGN KEY (zone_id) REFERENCES dim_zone(zone_id)
 );
-CREATE TABLE dim_ingredient (
+CREATE TABLE dim_ingredient ( --sub
   ingredient_id INT PRIMARY KEY,
   ingredient_name VARCHAR(255),
   therapeutic_class VARCHAR(255)
 );
-CREATE TABLE dim_manufacturer (
+CREATE TABLE dim_manufacturer ( --sub
   manufacturer_id INT PRIMARY KEY,
   manufacturer_name VARCHAR(255)
 );
